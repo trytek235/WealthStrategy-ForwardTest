@@ -2,7 +2,7 @@
   "meta": {
     "description": "WealthStrategy Forward-Test Immutable Ledger (Rejestr Sygnałów na Żywo)",
     "audit_protocol": "SHA-256 Append-Only Blockchain-Style Ledger",
-    "rules_specification_sha256": "97fbce160f6aec5483f29a194ec0128bfdaecff2c523288a6771d5ce0a5d8294",
+    "rules_specification_sha256": "b5a86fc9aa856c68db58ccdf720ad99ed3f27fc32434d1c84a51c84c61f81346",
     "rules_specification_file": "SPECIFICATION.md",
     "rules": [
       "Łańcuch SHA-256 wykrywa przypadkową lub jednostronną zmianę wpisów w tym pliku, ale sam z siebie NIE dowodzi czasu zapisu (plik leży lokalnie).",
@@ -11,9 +11,8 @@
       "Wyniki liczone są z kursów zamknięcia (bez dywidend); podstawowy benchmark to indeks cenowy mWIG40, pomocniczo mWIG40TR.",
       "Niniejszy plik zawiera WYŁĄCZNIE niezmienne wpisy zarejestrowanych cykli (jego hash pliku nie ulega zmianie między rebalansowaniami). Codzienne śledzenie live znajduje się w osobnym pliku live_status.json."
     ],
-    "last_audit_status": "VERIFIED_VALID",
     "total_entries": 2,
-    "updated_at": "2026-10-04 16:04:07"
+    "created_at": "2026-10-04 12:32:58"
   },
   "entries": [
     {
