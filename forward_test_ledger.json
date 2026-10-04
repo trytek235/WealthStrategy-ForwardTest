@@ -10,7 +10,7 @@
     ],
     "last_audit_status": "VERIFIED_VALID",
     "total_entries": 2,
-    "updated_at": "2026-10-04 12:55:31"
+    "updated_at": "2026-10-04 12:55:40"
   },
   "entries": [
     {
@@ -46,7 +46,7 @@
       "entry_hash": "042bb7576508e2f23125457d4fbb4424c1d19f5037b2dbf1abb1797de9b3cd00",
       "live_status": {
         "status": "ACTIVE",
-        "last_updated": "2026-10-04 12:55:31",
+        "last_updated": "2026-10-04 12:55:40",
         "latest_market_date": "2026-10-02",
         "current_prices": {
           "ASB": 186.4,
@@ -112,7 +112,7 @@
       "entry_hash": "80e4c4a9329ca3dbc5c1151cd2f0105be5df0b5086817fa92979aa2095d8ecb6",
       "live_status": {
         "status": "ACTIVE",
-        "last_updated": "2026-10-04 12:55:31",
+        "last_updated": "2026-10-04 12:55:40",
         "latest_market_date": "2026-10-02",
         "current_prices": {
           "ASB": 186.4,
