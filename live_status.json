@@ -1,6 +1,6 @@
 {
   "as_of_market_date": "2026-10-02",
-  "last_updated": "2026-10-04 16:04:07",
+  "last_updated": "2026-10-04 18:07:15",
   "excess_return_note": "Excess return obliczane względem indeksu cenowego mWIG40 (czysty wzrost kursu, bez dywidend).",
   "active_strategies": [
     {
@@ -10,6 +10,8 @@
       "start_date": "2026-09-24",
       "planned_exit": "2027-02-01",
       "registration_type": "RETROACTIVE",
+      "status": "ACTIVE",
+      "closed_reason": "",
       "tickers": [
         "ASB",
         "XTB",
@@ -47,6 +49,8 @@
       "start_date": "2026-09-24",
       "planned_exit": "2027-02-01",
       "registration_type": "RETROACTIVE",
+      "status": "ACTIVE",
+      "closed_reason": "",
       "tickers": [
         "ASB",
         "XTB",

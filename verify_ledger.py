@@ -3,8 +3,8 @@
 Niezależna weryfikacja łańcucha SHA-256 oraz specyfikacji reguł (zero zewnętrznych bibliotek).
 Weryfikuje:
 1. Obecność i integralność specyfikacji reguł (SPECIFICATION.md) względem pieczęci SHA-256.
-2. Indeksy i nienaruszalność łańcucha kryptograficznego wpisów (forward_test_ledger.json).
-3. Spójność matematyczną pliku śledzenia live (live_status.json), jeśli występuje.
+2. Indeksy, obliczenie statusu EX_ANTE/RETROACTIVE oraz nienaruszalność łańcucha wpisów.
+3. Spójność matematyczną i obecność pól statusu w live_status.json.
 """
 import json
 import hashlib
@@ -51,7 +51,7 @@ def verify():
         sys.exit(1)
     print("OK [1/3]: Specyfikacja regul (SPECIFICATION.md) zgodna z pieczecia:", actual_spec_hash[:16] + "...")
 
-    # 2. Weryfikacja łańcucha kryptograficznego wpisów
+    # 2. Weryfikacja łańcucha kryptograficznego wpisów i klasyfikacja z zahashowanych pól
     if not entries:
         print("UWAGA: Rejestr nie zawiera jeszcze wpisów.")
         return
@@ -61,6 +61,11 @@ def verify():
         if e.get("index") != i:
             print(f"BLAD: Niepoprawny indeks wpisu #{i}: oczekiwano index={i}, otrzymano {e.get('index')}")
             sys.exit(1)
+
+        # Obliczenie typu rejestracji z zahashowanych pól rdzenia
+        logged_date = (e.get("timestamp_logged") or "")[:10]
+        start_date = e.get("cycle_start_date", "")
+        computed_type = "EX_ANTE" if logged_date and logged_date <= start_date else "RETROACTIVE"
 
         core = {k: e.get(k) for k in [
             "index", "entry_id", "strategy_id", "strategy_name", "cycle_label", "cycle_start_date",
@@ -80,18 +85,25 @@ def verify():
             print(f"BLAD integralnosci we wpisie #{i} ({e.get('entry_id')}): calculated {calculated_hash} != {e.get('entry_hash')}")
             sys.exit(1)
 
+        print(f"  • Wpis #{i} ({e.get('entry_id')}): Klasyfikacja z hasha = [{computed_type}] (logged: {e.get('timestamp_logged')} vs start: {start_date})")
         prev = e["entry_hash"]
 
     print(f"OK [2/3]: Lancuch SHA-256 nienaruszony dla {len(entries)} wpisow. Ostatni hash: {prev[:16]}...")
 
-    # 3. Sprawdzenie spójności live_status.json
+    # 3. Sprawdzenie spójności live_status.json i weryfikacja pól statusu
     if live_path.exists():
         try:
             ldata = json.loads(live_path.read_text(encoding="utf-8"))
             strats = ldata.get("active_strategies", [])
-            print(f"OK [3/3]: Plik live_status.json poprawny ({len(strats)} aktywnych strategii, data rynku: {ldata.get('as_of_market_date')}).")
+            for s in strats:
+                st = s.get("status")
+                if st not in ("ACTIVE", "CLOSED"):
+                    print(f"BLAD: Strategia {s.get('entry_id')} w live_status.json ma niepoprawny status: '{st}' (dozwolone: ACTIVE, CLOSED)!")
+                    sys.exit(1)
+            print(f"OK [3/3]: Plik live_status.json poprawny ({len(strats)} strategii ze zwalidowanym statusem, data rynku: {ldata.get('as_of_market_date')}).")
         except Exception as ex:
-            print(f"OSTRZEZENIE: Blad odczytu live_status.json: {ex}")
+            print(f"BLAD: Blad odczytu lub walidacji live_status.json: {ex}")
+            sys.exit(1)
     else:
         print("INFO: Brak pliku live_status.json (status live nie jest sledzony).")
 

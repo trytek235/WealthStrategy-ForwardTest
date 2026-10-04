@@ -2,7 +2,7 @@
   "meta": {
     "description": "WealthStrategy Forward-Test Immutable Ledger (Rejestr Sygnałów na Żywo)",
     "audit_protocol": "SHA-256 Append-Only Blockchain-Style Ledger",
-    "rules_specification_sha256": "b5a86fc9aa856c68db58ccdf720ad99ed3f27fc32434d1c84a51c84c61f81346",
+    "rules_specification_sha256": "c7a85a4f37b4f17cb5aaa1e1e626a763b1c35d48b29d79d795f26e4ff8f332b0",
     "rules_specification_file": "SPECIFICATION.md",
     "rules": [
       "Łańcuch SHA-256 wykrywa przypadkową lub jednostronną zmianę wpisów w tym pliku, ale sam z siebie NIE dowodzi czasu zapisu (plik leży lokalnie).",
