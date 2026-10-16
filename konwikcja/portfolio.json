@@ -1,0 +1,18 @@
+{
+  "cycles": [
+    {
+      "cycle": 1,
+      "signal_date": "20261016",
+      "recorded_date": "20261016",
+      "tickers": [
+        "IPE",
+        "ASB",
+        "GPP"
+      ],
+      "status": "PENDING_ENTRY",
+      "planned_exit": "20270201"
+    }
+  ],
+  "closed_cycles_multiplier": 1.0,
+  "updated": "20261016"
+}
