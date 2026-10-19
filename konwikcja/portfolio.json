@@ -9,10 +9,26 @@
         "ASB",
         "GPP"
       ],
-      "status": "PENDING_ENTRY",
-      "planned_exit": "20270201"
+      "status": "ACTIVE",
+      "planned_exit": "20270201",
+      "entry_date": "20261019",
+      "entry_prices": {
+        "IPE": 8.58,
+        "ASB": 154.8,
+        "GPP": 53.8
+      },
+      "entry_wig": 158738.3438,
+      "as_of": "20261019",
+      "ticker_returns_pct": {
+        "IPE": 0.0,
+        "ASB": 0.0,
+        "GPP": 0.0
+      },
+      "portfolio_return_pct": 0.0,
+      "wig_return_pct": 0.0,
+      "excess_vs_wig_pp": 0.0
     }
   ],
   "closed_cycles_multiplier": 1.0,
-  "updated": "20261016"
+  "updated": "20261019"
 }
