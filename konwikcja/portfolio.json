@@ -18,17 +18,17 @@
         "GPP": 53.8
       },
       "entry_wig": 158738.3438,
-      "as_of": "20261019",
+      "as_of": "20261020",
       "ticker_returns_pct": {
-        "IPE": 0.0,
-        "ASB": 0.0,
+        "IPE": -2.8,
+        "ASB": 6.2,
         "GPP": 0.0
       },
-      "portfolio_return_pct": 0.0,
-      "wig_return_pct": 0.0,
-      "excess_vs_wig_pp": 0.0
+      "portfolio_return_pct": 1.13,
+      "wig_return_pct": -0.84,
+      "excess_vs_wig_pp": 1.97
     }
   ],
   "closed_cycles_multiplier": 1.0,
-  "updated": "20261019"
+  "updated": "20261020"
 }
