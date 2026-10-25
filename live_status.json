@@ -1,6 +1,6 @@
 {
   "as_of_market_date": "2026-10-23",
-  "last_updated": "2026-10-24 22:33:11",
+  "last_updated": "2026-10-25 21:32:09",
   "excess_return_note": "Excess return obliczane względem indeksu cenowego mWIG40 (czysty wzrost kursu, bez dywidend).",
   "active_strategies": [
     {
@@ -39,7 +39,7 @@
       "excess_return_vs_mwig40tr_pct": -5.67,
       "intra_cycle_min_ret_pct": -4.81,
       "intra_cycle_max_ret_pct": 1.72,
-      "calendar_days_in_trade": 30,
+      "calendar_days_in_trade": 31,
       "sessions_in_trade": 22
     },
     {
@@ -86,7 +86,7 @@
       "excess_return_vs_mwig40tr_pct": -2.85,
       "intra_cycle_min_ret_pct": -1.73,
       "intra_cycle_max_ret_pct": 1.64,
-      "calendar_days_in_trade": 30,
+      "calendar_days_in_trade": 31,
       "sessions_in_trade": 22
     }
   ]
