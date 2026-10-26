@@ -1,256 +1,256 @@
 {
-  "signal_date": "20261023",
-  "recorded_at": "2026-10-23 22:33:53",
+  "signal_date": "20261026",
+  "recorded_at": "2026-10-26 21:35:23",
   "strategy_id": "gpw_top30mom60_top3conv",
   "params_sha256": "4083df6e6448f025d36e3fa921ff7d906bb2e80682ba384e3d7f614de97d4491",
   "forum_refresh": "ok=30 fail=0",
   "top3": [
     "ASB",
     "TOA",
-    "IMS"
+    "LPP"
   ],
   "pool": [
     {
       "ticker": "ASB",
-      "momentum": 47.65,
-      "conviction": 98.5,
-      "sentiment": 80.6,
-      "posts": 197,
-      "close": 150.6
+      "momentum": 49.54,
+      "conviction": 98.4,
+      "sentiment": 80.5,
+      "posts": 206,
+      "close": 161.8
     },
     {
       "ticker": "TOA",
-      "momentum": 21.07,
+      "momentum": 21.94,
       "conviction": 89.1,
       "sentiment": 67.4,
       "posts": 47,
-      "close": 11.32
+      "close": 11.34
     },
     {
-      "ticker": "IMS",
-      "momentum": 37.65,
-      "conviction": 83.6,
-      "sentiment": 66.3,
-      "posts": 20,
-      "close": 3.4
+      "ticker": "LPP",
+      "momentum": 24.22,
+      "conviction": 88.6,
+      "sentiment": 64.2,
+      "posts": 73,
+      "close": 26980.0
     },
     {
       "ticker": "ACP",
-      "momentum": 26.67,
+      "momentum": 25.61,
       "conviction": 83.6,
       "sentiment": 90.0,
       "posts": 3,
-      "close": 247.0
+      "close": 250.9
+    },
+    {
+      "ticker": "IMS",
+      "momentum": 35.69,
+      "conviction": 82.8,
+      "sentiment": 63.9,
+      "posts": 23,
+      "close": 3.46
     },
     {
       "ticker": "ANR",
-      "momentum": 28.63,
-      "conviction": 80.6,
-      "sentiment": 58.9,
-      "posts": 23,
-      "close": 23.9
+      "momentum": 20.8,
+      "conviction": 80.3,
+      "sentiment": 58.7,
+      "posts": 21,
+      "close": 23.7
     },
     {
       "ticker": "CLD",
-      "momentum": 22.64,
+      "momentum": 22.72,
       "conviction": 76.1,
       "sentiment": 71.7,
       "posts": 12,
-      "close": 117.0
+      "close": 121.0
+    },
+    {
+      "ticker": "KGN",
+      "momentum": 22.25,
+      "conviction": 75.0,
+      "sentiment": 50.9,
+      "posts": 168,
+      "close": 83.5
     },
     {
       "ticker": "VOX",
-      "momentum": 25.98,
+      "momentum": 28.96,
       "conviction": 63.5,
       "sentiment": 45.2,
       "posts": 32,
-      "close": 160.0
+      "close": 161.2
     },
     {
       "ticker": "RMK",
-      "momentum": 91.13,
+      "momentum": 90.69,
       "conviction": 55.5,
       "sentiment": 50.0,
       "posts": 3,
-      "close": 19.4
-    },
-    {
-      "ticker": "HRS",
-      "momentum": 53.16,
-      "conviction": 55.0,
-      "sentiment": 48.5,
-      "posts": 18,
-      "close": 2.06
+      "close": 19.45
     },
     {
       "ticker": "YAN",
-      "momentum": 19.33,
+      "momentum": 19.21,
       "conviction": 46.6,
       "sentiment": 29.6,
       "posts": 7,
-      "close": 17.9
+      "close": 18.0
     },
     {
-      "ticker": "KPD",
-      "momentum": 17.98,
+      "ticker": "HRS",
+      "momentum": 26.98,
       "conviction": 44.8,
-      "sentiment": 36.7,
-      "posts": 7,
-      "close": 21.0
+      "sentiment": 42.0,
+      "posts": 15,
+      "close": 1.765
     },
     {
       "ticker": "JSW",
-      "momentum": 18.53,
+      "momentum": 18.61,
       "conviction": 38.6,
       "sentiment": 30.3,
       "posts": 5,
-      "close": 29.75
+      "close": 29.77
     },
     {
       "ticker": "PGE",
-      "momentum": 68.94,
+      "momentum": 63.45,
       "conviction": 0.0,
       "sentiment": 50.0,
       "posts": 1,
-      "close": 16.725
-    },
-    {
-      "ticker": "MSW",
-      "momentum": 21.93,
-      "conviction": 0.0,
-      "sentiment": 50.0,
-      "posts": 1,
-      "close": 4.17
+      "close": 16.525
     },
     {
       "ticker": "NTT",
-      "momentum": 105.21,
+      "momentum": 116.18,
       "conviction": 0.0,
       "sentiment": 50.0,
       "posts": 0,
-      "close": 31.5
-    },
-    {
-      "ticker": "CSR",
-      "momentum": 66.67,
-      "conviction": 0.0,
-      "sentiment": 50.0,
-      "posts": 0,
-      "close": 10.0
+      "close": 33.4
     },
     {
       "ticker": "CPL",
-      "momentum": 65.83,
+      "momentum": 71.55,
       "conviction": 0.0,
       "sentiment": 50.0,
       "posts": 0,
       "close": 9.95
     },
     {
-      "ticker": "AGO",
-      "momentum": 42.11,
+      "ticker": "CSR",
+      "momentum": 58.4,
       "conviction": 0.0,
       "sentiment": 50.0,
       "posts": 0,
-      "close": 12.25
+      "close": 9.9
+    },
+    {
+      "ticker": "AGO",
+      "momentum": 45.16,
+      "conviction": 0.0,
+      "sentiment": 50.0,
+      "posts": 0,
+      "close": 12.6
     },
     {
       "ticker": "PAS",
-      "momentum": 34.48,
+      "momentum": 35.57,
       "conviction": 0.0,
       "sentiment": 50.0,
       "posts": 0,
-      "close": 163.8
+      "close": 165.4
     },
     {
       "ticker": "ALE",
-      "momentum": 29.87,
+      "momentum": 31.15,
       "conviction": 0.0,
       "sentiment": 50.0,
       "posts": 0,
-      "close": 58.44
-    },
-    {
-      "ticker": "LPP",
-      "momentum": 28.82,
-      "conviction": 0.0,
-      "sentiment": 50.0,
-      "posts": 0,
-      "close": 27000.0
-    },
-    {
-      "ticker": "ATD",
-      "momentum": 28.27,
-      "conviction": 0.0,
-      "sentiment": 50.0,
-      "posts": 0,
-      "close": 4.81
-    },
-    {
-      "ticker": "KGL",
-      "momentum": 25.49,
-      "conviction": 0.0,
-      "sentiment": 50.0,
-      "posts": 0,
-      "close": 12.8
-    },
-    {
-      "ticker": "DNP",
-      "momentum": 25.24,
-      "conviction": 0.0,
-      "sentiment": 50.0,
-      "posts": 0,
-      "close": 39.65
-    },
-    {
-      "ticker": "SNX",
-      "momentum": 21.94,
-      "conviction": 0.0,
-      "sentiment": 50.0,
-      "posts": 0,
-      "close": 3.78
-    },
-    {
-      "ticker": "LWB",
-      "momentum": 21.19,
-      "conviction": 0.0,
-      "sentiment": 50.0,
-      "posts": 0,
-      "close": 25.45
-    },
-    {
-      "ticker": "SGN",
-      "momentum": 19.18,
-      "conviction": 0.0,
-      "sentiment": 50.0,
-      "posts": 0,
-      "close": 87.0
-    },
-    {
-      "ticker": "SEL",
-      "momentum": 18.55,
-      "conviction": 0.0,
-      "sentiment": 50.0,
-      "posts": 0,
-      "close": 55.6
+      "close": 59.0
     },
     {
       "ticker": "RVU",
-      "momentum": 18.53,
+      "momentum": 26.59,
       "conviction": 0.0,
       "sentiment": 50.0,
       "posts": 0,
-      "close": 17.78
+      "close": 18.66
+    },
+    {
+      "ticker": "KGL",
+      "momentum": 26.47,
+      "conviction": 0.0,
+      "sentiment": 50.0,
+      "posts": 0,
+      "close": 12.9
+    },
+    {
+      "ticker": "ATD",
+      "momentum": 24.87,
+      "conviction": 0.0,
+      "sentiment": 50.0,
+      "posts": 0,
+      "close": 4.92
+    },
+    {
+      "ticker": "SGN",
+      "momentum": 24.83,
+      "conviction": 0.0,
+      "sentiment": 50.0,
+      "posts": 0,
+      "close": 90.0
     },
     {
       "ticker": "CRI",
-      "momentum": 18.46,
+      "momentum": 24.41,
       "conviction": 0.0,
       "sentiment": 50.0,
       "posts": 0,
-      "close": 847.0
+      "close": 841.0
+    },
+    {
+      "ticker": "DNP",
+      "momentum": 22.13,
+      "conviction": 0.0,
+      "sentiment": 50.0,
+      "posts": 0,
+      "close": 39.07
+    },
+    {
+      "ticker": "SCP",
+      "momentum": 21.51,
+      "conviction": 0.0,
+      "sentiment": 50.0,
+      "posts": 0,
+      "close": 151.4
+    },
+    {
+      "ticker": "SNX",
+      "momentum": 21.36,
+      "conviction": 0.0,
+      "sentiment": 50.0,
+      "posts": 0,
+      "close": 3.75
+    },
+    {
+      "ticker": "LWB",
+      "momentum": 21.33,
+      "conviction": 0.0,
+      "sentiment": 50.0,
+      "posts": 0,
+      "close": 25.6
+    },
+    {
+      "ticker": "SEL",
+      "momentum": 20.17,
+      "conviction": 0.0,
+      "sentiment": 50.0,
+      "posts": 0,
+      "close": 56.0
     }
   ],
-  "prev_hash": "554194fd22d2309414bc620803a2ea8d142cfadc7085ac451b6c819f1a0d4ca6",
-  "entry_hash": "bcb2d77dec2e295cd954220f25ba01c8115d4cc2a0d897f8b102a4aaba211129"
+  "prev_hash": "bcb2d77dec2e295cd954220f25ba01c8115d4cc2a0d897f8b102a4aaba211129",
+  "entry_hash": "19ccb07d472208f8e1aa9cac62ca369dafbecda87b66674ea1550e590d78352e"
 }
