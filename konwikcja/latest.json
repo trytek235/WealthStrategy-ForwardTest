@@ -1,6 +1,6 @@
 {
-  "signal_date": "20261026",
-  "recorded_at": "2026-10-26 21:35:23",
+  "signal_date": "20261027",
+  "recorded_at": "2026-10-27 21:33:54",
   "strategy_id": "gpw_top30mom60_top3conv",
   "params_sha256": "4083df6e6448f025d36e3fa921ff7d906bb2e80682ba384e3d7f614de97d4491",
   "forum_refresh": "ok=30 fail=0",
@@ -12,171 +12,155 @@
   "pool": [
     {
       "ticker": "ASB",
-      "momentum": 49.54,
+      "momentum": 52.68,
       "conviction": 98.4,
       "sentiment": 80.5,
-      "posts": 206,
-      "close": 161.8
+      "posts": 208,
+      "close": 165.2
     },
     {
       "ticker": "TOA",
-      "momentum": 21.94,
+      "momentum": 21.29,
       "conviction": 89.1,
       "sentiment": 67.4,
       "posts": 47,
-      "close": 11.34
+      "close": 11.28
     },
     {
       "ticker": "LPP",
-      "momentum": 24.22,
+      "momentum": 22.84,
       "conviction": 88.6,
       "sentiment": 64.2,
       "posts": 73,
-      "close": 26980.0
+      "close": 26680.0
     },
     {
       "ticker": "ACP",
-      "momentum": 25.61,
+      "momentum": 25.41,
       "conviction": 83.6,
       "sentiment": 90.0,
       "posts": 3,
-      "close": 250.9
+      "close": 250.5
     },
     {
       "ticker": "IMS",
-      "momentum": 35.69,
+      "momentum": 37.84,
       "conviction": 82.8,
       "sentiment": 63.9,
       "posts": 23,
-      "close": 3.46
+      "close": 3.515
     },
     {
       "ticker": "ANR",
-      "momentum": 20.8,
+      "momentum": 21.05,
       "conviction": 80.3,
       "sentiment": 58.7,
       "posts": 21,
-      "close": 23.7
+      "close": 23.75
     },
     {
       "ticker": "CLD",
-      "momentum": 22.72,
+      "momentum": 20.18,
       "conviction": 76.1,
       "sentiment": 71.7,
       "posts": 12,
-      "close": 121.0
+      "close": 118.5
     },
     {
       "ticker": "KGN",
-      "momentum": 22.25,
+      "momentum": 25.77,
       "conviction": 75.0,
       "sentiment": 50.9,
       "posts": 168,
-      "close": 83.5
+      "close": 85.9
     },
     {
       "ticker": "VOX",
-      "momentum": 28.96,
-      "conviction": 63.5,
+      "momentum": 25.6,
+      "conviction": 63.4,
       "sentiment": 45.2,
-      "posts": 32,
-      "close": 161.2
+      "posts": 30,
+      "close": 157.0
+    },
+    {
+      "ticker": "PXM",
+      "momentum": 20.25,
+      "conviction": 57.1,
+      "sentiment": 50.0,
+      "posts": 13,
+      "close": 7.75
     },
     {
       "ticker": "RMK",
-      "momentum": 90.69,
-      "conviction": 55.5,
+      "momentum": 94.61,
+      "conviction": 56.5,
       "sentiment": 50.0,
-      "posts": 3,
-      "close": 19.45
-    },
-    {
-      "ticker": "YAN",
-      "momentum": 19.21,
-      "conviction": 46.6,
-      "sentiment": 29.6,
-      "posts": 7,
-      "close": 18.0
+      "posts": 4,
+      "close": 19.85
     },
     {
       "ticker": "HRS",
-      "momentum": 26.98,
+      "momentum": 28.06,
       "conviction": 44.8,
       "sentiment": 42.0,
       "posts": 15,
-      "close": 1.765
-    },
-    {
-      "ticker": "JSW",
-      "momentum": 18.61,
-      "conviction": 38.6,
-      "sentiment": 30.3,
-      "posts": 5,
-      "close": 29.77
+      "close": 1.78
     },
     {
       "ticker": "PGE",
-      "momentum": 63.45,
+      "momentum": 62.51,
       "conviction": 0.0,
       "sentiment": 50.0,
       "posts": 1,
-      "close": 16.525
+      "close": 16.43
     },
     {
       "ticker": "NTT",
-      "momentum": 116.18,
+      "momentum": 140.78,
       "conviction": 0.0,
       "sentiment": 50.0,
       "posts": 0,
-      "close": 33.4
+      "close": 37.2
     },
     {
       "ticker": "CPL",
-      "momentum": 71.55,
+      "momentum": 65.52,
       "conviction": 0.0,
       "sentiment": 50.0,
       "posts": 0,
-      "close": 9.95
+      "close": 9.6
     },
     {
       "ticker": "CSR",
-      "momentum": 58.4,
+      "momentum": 51.2,
       "conviction": 0.0,
       "sentiment": 50.0,
       "posts": 0,
-      "close": 9.9
+      "close": 9.45
     },
     {
       "ticker": "AGO",
-      "momentum": 45.16,
+      "momentum": 41.13,
       "conviction": 0.0,
       "sentiment": 50.0,
       "posts": 0,
-      "close": 12.6
+      "close": 12.25
     },
     {
       "ticker": "PAS",
-      "momentum": 35.57,
+      "momentum": 36.07,
       "conviction": 0.0,
       "sentiment": 50.0,
       "posts": 0,
-      "close": 165.4
+      "close": 166.0
     },
     {
       "ticker": "ALE",
-      "momentum": 31.15,
+      "momentum": 30.71,
       "conviction": 0.0,
       "sentiment": 50.0,
       "posts": 0,
-      "close": 59.0
-    },
-    {
-      "ticker": "RVU",
-      "momentum": 26.59,
-      "conviction": 0.0,
-      "sentiment": 50.0,
-      "posts": 0,
-      "close": 18.66
+      "close": 58.8
     },
     {
       "ticker": "KGL",
@@ -187,20 +171,28 @@
       "close": 12.9
     },
     {
-      "ticker": "ATD",
-      "momentum": 24.87,
+      "ticker": "RVU",
+      "momentum": 26.19,
       "conviction": 0.0,
       "sentiment": 50.0,
       "posts": 0,
-      "close": 4.92
+      "close": 18.6
     },
     {
       "ticker": "SGN",
-      "momentum": 24.83,
+      "momentum": 26.07,
       "conviction": 0.0,
       "sentiment": 50.0,
       "posts": 0,
-      "close": 90.0
+      "close": 90.9
+    },
+    {
+      "ticker": "SCP",
+      "momentum": 25.52,
+      "conviction": 0.0,
+      "sentiment": 50.0,
+      "posts": 0,
+      "close": 156.4
     },
     {
       "ticker": "CRI",
@@ -211,46 +203,54 @@
       "close": 841.0
     },
     {
-      "ticker": "DNP",
-      "momentum": 22.13,
+      "ticker": "LWB",
+      "momentum": 21.8,
       "conviction": 0.0,
       "sentiment": 50.0,
       "posts": 0,
-      "close": 39.07
-    },
-    {
-      "ticker": "SCP",
-      "momentum": 21.51,
-      "conviction": 0.0,
-      "sentiment": 50.0,
-      "posts": 0,
-      "close": 151.4
+      "close": 25.7
     },
     {
       "ticker": "SNX",
-      "momentum": 21.36,
+      "momentum": 21.68,
       "conviction": 0.0,
       "sentiment": 50.0,
       "posts": 0,
-      "close": 3.75
+      "close": 3.76
     },
     {
-      "ticker": "LWB",
-      "momentum": 21.33,
+      "ticker": "ATD",
+      "momentum": 21.32,
       "conviction": 0.0,
       "sentiment": 50.0,
       "posts": 0,
-      "close": 25.6
+      "close": 4.78
     },
     {
-      "ticker": "SEL",
-      "momentum": 20.17,
+      "ticker": "DNP",
+      "momentum": 21.16,
       "conviction": 0.0,
       "sentiment": 50.0,
       "posts": 0,
-      "close": 56.0
+      "close": 38.76
+    },
+    {
+      "ticker": "ACT",
+      "momentum": 20.81,
+      "conviction": 0.0,
+      "sentiment": 50.0,
+      "posts": 0,
+      "close": 54.0
+    },
+    {
+      "ticker": "CMP",
+      "momentum": 20.22,
+      "conviction": 0.0,
+      "sentiment": 50.0,
+      "posts": 0,
+      "close": 108.2
     }
   ],
-  "prev_hash": "bcb2d77dec2e295cd954220f25ba01c8115d4cc2a0d897f8b102a4aaba211129",
-  "entry_hash": "19ccb07d472208f8e1aa9cac62ca369dafbecda87b66674ea1550e590d78352e"
+  "prev_hash": "19ccb07d472208f8e1aa9cac62ca369dafbecda87b66674ea1550e590d78352e",
+  "entry_hash": "55753dd81ea622443bafe7a87c256bc9757665496707ea30748ff57f1a9f65fe"
 }
