@@ -7,7 +7,7 @@
     "V2_CORE_SEMI",
     "V2_MONTHLY_BUF10_RFVETO"
   ],
-  "updated": "20261119",
+  "updated": "20261120",
   "next_semi_rebalance_signal_date": "20270201",
   "next_monthly_rebalance_signal_date": "20261130",
   "semi_annual_cycle_2026_09_24": {
@@ -26,26 +26,26 @@
           "DIG"
         ],
         "entry_date": "20260925",
-        "as_of": "20261119",
+        "as_of": "20261120",
         "entry_prices": {
           "DAD": 97.4,
           "LPP": 24900.0,
           "DIG": 385.0
         },
         "current_prices": {
-          "DAD": 82.0,
-          "LPP": 28640.0,
-          "DIG": 284.0
+          "DAD": 80.0,
+          "LPP": 27680.0,
+          "DIG": 271.0
         },
         "ticker_returns_pct": {
-          "DAD": -15.81,
-          "LPP": 15.02,
-          "DIG": -26.23
+          "DAD": -17.86,
+          "LPP": 11.16,
+          "DIG": -29.61
         },
-        "portfolio_gross_return_pct": -9.01,
-        "portfolio_net_return_pct": -9.46,
-        "wig_return_pct": 0.45,
-        "excess_net_vs_wig_pp": -9.91
+        "portfolio_gross_return_pct": -12.1,
+        "portfolio_net_return_pct": -12.54,
+        "wig_return_pct": -3.45,
+        "excess_net_vs_wig_pp": -9.09
       },
       "2_V2_CORE_SEMI": {
         "tickers": [
@@ -54,26 +54,26 @@
           "ASB"
         ],
         "entry_date": "20260925",
-        "as_of": "20261119",
+        "as_of": "20261120",
         "entry_prices": {
           "DAD": 97.4,
           "APR": 30.0,
           "ASB": 173.7
         },
         "current_prices": {
-          "DAD": 82.0,
-          "APR": 28.5,
-          "ASB": 167.1
+          "DAD": 80.0,
+          "APR": 27.6,
+          "ASB": 148.6
         },
         "ticker_returns_pct": {
-          "DAD": -15.81,
-          "APR": -5.0,
-          "ASB": -3.8
+          "DAD": -17.86,
+          "APR": -8.0,
+          "ASB": -14.45
         },
-        "portfolio_gross_return_pct": -8.2,
-        "portfolio_net_return_pct": -8.66,
-        "wig_return_pct": 0.45,
-        "excess_net_vs_wig_pp": -9.11
+        "portfolio_gross_return_pct": -13.44,
+        "portfolio_net_return_pct": -13.87,
+        "wig_return_pct": -3.45,
+        "excess_net_vs_wig_pp": -10.42
       },
       "CONTROL_TOP3_QUAL_MOM_SEMI": {
         "tickers": [
@@ -82,26 +82,26 @@
           "ENG"
         ],
         "entry_date": "20260925",
-        "as_of": "20261119",
+        "as_of": "20261120",
         "entry_prices": {
           "ASB": 173.7,
           "S2B": 68.8,
           "ENG": 27.35
         },
         "current_prices": {
-          "ASB": 167.1,
-          "S2B": 55.4,
+          "ASB": 148.6,
+          "S2B": 51.1,
           "ENG": 27.45
         },
         "ticker_returns_pct": {
-          "ASB": -3.8,
-          "S2B": -19.48,
+          "ASB": -14.45,
+          "S2B": -25.73,
           "ENG": 0.37
         },
-        "portfolio_gross_return_pct": -7.64,
-        "portfolio_net_return_pct": -8.1,
-        "wig_return_pct": 0.45,
-        "excess_net_vs_wig_pp": -8.55
+        "portfolio_gross_return_pct": -13.27,
+        "portfolio_net_return_pct": -13.7,
+        "wig_return_pct": -3.45,
+        "excess_net_vs_wig_pp": -10.25
       },
       "CONTROL_TOP3_PURE_MOM_SEMI": {
         "tickers": [
@@ -110,26 +110,26 @@
           "ENG"
         ],
         "entry_date": "20260925",
-        "as_of": "20261119",
+        "as_of": "20261120",
         "entry_prices": {
           "ASB": 173.7,
           "S2B": 68.8,
           "ENG": 27.35
         },
         "current_prices": {
-          "ASB": 167.1,
-          "S2B": 55.4,
+          "ASB": 148.6,
+          "S2B": 51.1,
           "ENG": 27.45
         },
         "ticker_returns_pct": {
-          "ASB": -3.8,
-          "S2B": -19.48,
+          "ASB": -14.45,
+          "S2B": -25.73,
           "ENG": 0.37
         },
-        "portfolio_gross_return_pct": -7.64,
-        "portfolio_net_return_pct": -8.1,
-        "wig_return_pct": 0.45,
-        "excess_net_vs_wig_pp": -8.55
+        "portfolio_gross_return_pct": -13.27,
+        "portfolio_net_return_pct": -13.7,
+        "wig_return_pct": -3.45,
+        "excess_net_vs_wig_pp": -10.25
       }
     }
   },
@@ -147,30 +147,30 @@
         "CLD"
       ],
       "entry_date": "20261102",
-      "as_of": "20261119",
+      "as_of": "20261120",
       "entry_prices": {
         "ASB": 157.2,
         "ANR": 23.5,
         "CLD": 110.0
       },
       "current_prices": {
-        "ASB": 167.1,
-        "ANR": 23.25,
-        "CLD": 113.5
+        "ASB": 148.6,
+        "ANR": 22.45,
+        "CLD": 108.0
       },
       "ticker_returns_pct": {
-        "ASB": 6.3,
-        "ANR": -1.06,
-        "CLD": 3.18
+        "ASB": -5.47,
+        "ANR": -4.47,
+        "CLD": -1.82
       },
-      "portfolio_gross_return_pct": 2.81,
-      "portfolio_net_return_pct": 2.3,
-      "wig_return_pct": 0.95,
-      "excess_net_vs_wig_pp": 1.35
+      "portfolio_gross_return_pct": -3.92,
+      "portfolio_net_return_pct": -4.4,
+      "wig_return_pct": -2.97,
+      "excess_net_vs_wig_pp": -1.43
     }
   },
   "ex_ante_daily_candidates_as_of": {
-    "signal_date": "20261119",
+    "signal_date": "20261120",
     "registration_type": "EX_ANTE_SHADOW",
     "1_V2_ROLLING_AUTH_SEMI": [
       "CBF",
@@ -180,7 +180,7 @@
     "2_V2_CORE_SEMI": [
       "CLD",
       "CBF",
-      "ANR"
+      "BFT"
     ],
     "3_V2_MONTHLY_BUF10_RFVETO": [
       "ASB",
@@ -189,13 +189,13 @@
     ],
     "CONTROL_TOP3_QUAL_MOM": [
       "LPP",
-      "KGN",
-      "TOA"
+      "TOA",
+      "KGN"
     ],
     "CONTROL_TOP3_PURE_MOM": [
       "NTT",
-      "PGE",
-      "WAS"
+      "WAS",
+      "PGE"
     ]
   }
 }

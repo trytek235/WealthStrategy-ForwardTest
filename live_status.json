@@ -1,6 +1,6 @@
 {
-  "as_of_market_date": "2026-11-19",
-  "last_updated": "2026-11-19 21:34:51",
+  "as_of_market_date": "2026-11-20",
+  "last_updated": "2026-11-20 21:34:46",
   "excess_return_note": "Excess return obliczane względem indeksu cenowego mWIG40 (czysty wzrost kursu, bez dywidend).",
   "active_strategies": [
     {
@@ -23,24 +23,24 @@
         "ACP": 0.333333
       },
       "current_prices": {
-        "ASB": 167.1,
-        "XTB": 113.66,
-        "ACP": 220.5
+        "ASB": 148.6,
+        "XTB": 109.9,
+        "ACP": 208.4
       },
       "ticker_returns_pct": {
-        "ASB": -4.24,
-        "XTB": -26.18,
-        "ACP": -0.59
+        "ASB": -14.84,
+        "XTB": -28.62,
+        "ACP": -6.04
       },
-      "portfolio_return_pct": -10.33,
-      "benchmark_mwig40_price_pct": -0.42,
-      "excess_return_vs_mwig40_pct": -9.91,
-      "benchmark_mwig40tr_pct": -0.14,
-      "excess_return_vs_mwig40tr_pct": -10.19,
-      "intra_cycle_min_ret_pct": -12.69,
+      "portfolio_return_pct": -16.5,
+      "benchmark_mwig40_price_pct": -2.79,
+      "excess_return_vs_mwig40_pct": -13.71,
+      "benchmark_mwig40tr_pct": -2.52,
+      "excess_return_vs_mwig40tr_pct": -13.98,
+      "intra_cycle_min_ret_pct": -16.5,
       "intra_cycle_max_ret_pct": 1.72,
-      "calendar_days_in_trade": 56,
-      "sessions_in_trade": 40
+      "calendar_days_in_trade": 57,
+      "sessions_in_trade": 41
     },
     {
       "entry_id": "MWIG40_TOP5_2026_09_24",
@@ -66,28 +66,28 @@
         "JSW": 0.2
       },
       "current_prices": {
-        "ASB": 167.1,
-        "XTB": 113.66,
-        "ACP": 220.5,
-        "VOX": 152.6,
-        "JSW": 25.84
+        "ASB": 148.6,
+        "XTB": 109.9,
+        "ACP": 208.4,
+        "VOX": 145.0,
+        "JSW": 25.0
       },
       "ticker_returns_pct": {
-        "ASB": -4.24,
-        "XTB": -26.18,
-        "ACP": -0.59,
-        "VOX": 4.66,
-        "JSW": -17.07
+        "ASB": -14.84,
+        "XTB": -28.62,
+        "ACP": -6.04,
+        "VOX": -0.55,
+        "JSW": -19.77
       },
-      "portfolio_return_pct": -8.68,
-      "benchmark_mwig40_price_pct": -0.42,
-      "excess_return_vs_mwig40_pct": -8.26,
-      "benchmark_mwig40tr_pct": -0.14,
-      "excess_return_vs_mwig40tr_pct": -8.54,
-      "intra_cycle_min_ret_pct": -10.27,
+      "portfolio_return_pct": -13.96,
+      "benchmark_mwig40_price_pct": -2.79,
+      "excess_return_vs_mwig40_pct": -11.17,
+      "benchmark_mwig40tr_pct": -2.52,
+      "excess_return_vs_mwig40tr_pct": -11.44,
+      "intra_cycle_min_ret_pct": -13.96,
       "intra_cycle_max_ret_pct": 1.64,
-      "calendar_days_in_trade": 56,
-      "sessions_in_trade": 40
+      "calendar_days_in_trade": 57,
+      "sessions_in_trade": 41
     }
   ]
 }
