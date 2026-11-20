@@ -1,0 +1,201 @@
+{
+  "spec_version": "konwikcja_v2.0_frozen_20261120",
+  "spec_canonical_sha256": "21f191fcd2b70414490b02f4dfa7ddb769d65f870348cde787fc27879ec624aa",
+  "primary_variant": "V2_CORE_SEMI",
+  "tracked_variants": [
+    "V2_ROLLING_AUTH_SEMI",
+    "V2_CORE_SEMI",
+    "V2_MONTHLY_BUF10_RFVETO"
+  ],
+  "updated": "20261119",
+  "next_semi_rebalance_signal_date": "20270201",
+  "next_monthly_rebalance_signal_date": "20261130",
+  "semi_annual_cycle_2026_09_24": {
+    "cycle_label": "Jesien-Zima 2026/2027 (Rebalans 2026-09-24 -> Wejscie T+1 2026-09-25)",
+    "registration_type": "RETROACTIVE_RECONSTRUCTED",
+    "note": "Cykl wyznaczony z zamrozonych regul spec_v2.json na dzien decyzji 2026-09-24 (egzekucja T+1 2026-09-25). Pelny zapis EX_ANTE obowiazuje od 2026-11-20 oraz dla rebalansu 2027-02-01.",
+    "signal_date": "20260924",
+    "entry_date": "20260925",
+    "planned_exit": "20270201",
+    "one_way_cost_pct": 0.5,
+    "baskets": {
+      "1_V2_ROLLING_AUTH_SEMI": {
+        "tickers": [
+          "DAD",
+          "LPP",
+          "DIG"
+        ],
+        "entry_date": "20260925",
+        "as_of": "20261119",
+        "entry_prices": {
+          "DAD": 97.4,
+          "LPP": 24900.0,
+          "DIG": 385.0
+        },
+        "current_prices": {
+          "DAD": 82.0,
+          "LPP": 28640.0,
+          "DIG": 284.0
+        },
+        "ticker_returns_pct": {
+          "DAD": -15.81,
+          "LPP": 15.02,
+          "DIG": -26.23
+        },
+        "portfolio_gross_return_pct": -9.01,
+        "portfolio_net_return_pct": -9.46,
+        "wig_return_pct": 0.45,
+        "excess_net_vs_wig_pp": -9.91
+      },
+      "2_V2_CORE_SEMI": {
+        "tickers": [
+          "DAD",
+          "APR",
+          "ASB"
+        ],
+        "entry_date": "20260925",
+        "as_of": "20261119",
+        "entry_prices": {
+          "DAD": 97.4,
+          "APR": 30.0,
+          "ASB": 173.7
+        },
+        "current_prices": {
+          "DAD": 82.0,
+          "APR": 28.5,
+          "ASB": 167.1
+        },
+        "ticker_returns_pct": {
+          "DAD": -15.81,
+          "APR": -5.0,
+          "ASB": -3.8
+        },
+        "portfolio_gross_return_pct": -8.2,
+        "portfolio_net_return_pct": -8.66,
+        "wig_return_pct": 0.45,
+        "excess_net_vs_wig_pp": -9.11
+      },
+      "CONTROL_TOP3_QUAL_MOM_SEMI": {
+        "tickers": [
+          "ASB",
+          "S2B",
+          "ENG"
+        ],
+        "entry_date": "20260925",
+        "as_of": "20261119",
+        "entry_prices": {
+          "ASB": 173.7,
+          "S2B": 68.8,
+          "ENG": 27.35
+        },
+        "current_prices": {
+          "ASB": 167.1,
+          "S2B": 55.4,
+          "ENG": 27.45
+        },
+        "ticker_returns_pct": {
+          "ASB": -3.8,
+          "S2B": -19.48,
+          "ENG": 0.37
+        },
+        "portfolio_gross_return_pct": -7.64,
+        "portfolio_net_return_pct": -8.1,
+        "wig_return_pct": 0.45,
+        "excess_net_vs_wig_pp": -8.55
+      },
+      "CONTROL_TOP3_PURE_MOM_SEMI": {
+        "tickers": [
+          "ASB",
+          "S2B",
+          "ENG"
+        ],
+        "entry_date": "20260925",
+        "as_of": "20261119",
+        "entry_prices": {
+          "ASB": 173.7,
+          "S2B": 68.8,
+          "ENG": 27.35
+        },
+        "current_prices": {
+          "ASB": 167.1,
+          "S2B": 55.4,
+          "ENG": 27.45
+        },
+        "ticker_returns_pct": {
+          "ASB": -3.8,
+          "S2B": -19.48,
+          "ENG": 0.37
+        },
+        "portfolio_gross_return_pct": -7.64,
+        "portfolio_net_return_pct": -8.1,
+        "wig_return_pct": 0.45,
+        "excess_net_vs_wig_pp": -8.55
+      }
+    }
+  },
+  "monthly_cycle_2026_10_30": {
+    "cycle_label": "Listopad 2026 (Rebalans 2026-10-30 -> Wejscie T+1 2026-11-02)",
+    "registration_type": "RETROACTIVE_RECONSTRUCTED",
+    "signal_date": "20261030",
+    "entry_date": "20261102",
+    "planned_exit": "20261130",
+    "one_way_cost_pct": 0.5,
+    "basket_3_V2_MONTHLY_BUF10_RFVETO": {
+      "tickers": [
+        "ASB",
+        "ANR",
+        "CLD"
+      ],
+      "entry_date": "20261102",
+      "as_of": "20261119",
+      "entry_prices": {
+        "ASB": 157.2,
+        "ANR": 23.5,
+        "CLD": 110.0
+      },
+      "current_prices": {
+        "ASB": 167.1,
+        "ANR": 23.25,
+        "CLD": 113.5
+      },
+      "ticker_returns_pct": {
+        "ASB": 6.3,
+        "ANR": -1.06,
+        "CLD": 3.18
+      },
+      "portfolio_gross_return_pct": 2.81,
+      "portfolio_net_return_pct": 2.3,
+      "wig_return_pct": 0.95,
+      "excess_net_vs_wig_pp": 1.35
+    }
+  },
+  "ex_ante_daily_candidates_as_of": {
+    "signal_date": "20261119",
+    "registration_type": "EX_ANTE_SHADOW",
+    "1_V2_ROLLING_AUTH_SEMI": [
+      "CBF",
+      "ASB",
+      "LPP"
+    ],
+    "2_V2_CORE_SEMI": [
+      "CLD",
+      "CBF",
+      "ANR"
+    ],
+    "3_V2_MONTHLY_BUF10_RFVETO": [
+      "ASB",
+      "ANR",
+      "CLD"
+    ],
+    "CONTROL_TOP3_QUAL_MOM": [
+      "LPP",
+      "KGN",
+      "TOA"
+    ],
+    "CONTROL_TOP3_PURE_MOM": [
+      "NTT",
+      "PGE",
+      "WAS"
+    ]
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "signal_date": "20261119",
+  "liquid_top30_count": 30,
+  "qualifying_forum_pool_count": 11,
+  "qualified_rolling_authors_count": 50,
+  "top3_v2_core": [
+    {
+      "ticker": "CLD",
+      "name": "CLD",
+      "conv2": 79.1,
+      "sent2": 79.4,
+      "uniq90": 5,
+      "posts365": 12,
+      "momentum": 17.01,
+      "median_turnover_20d_pln": 435048.0,
+      "close": 113.5,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "CBF",
+      "name": "CBF",
+      "conv2": 72.5,
+      "sent2": 64.1,
+      "uniq90": 25,
+      "posts365": 121,
+      "momentum": 13.16,
+      "median_turnover_20d_pln": 3392207.0,
+      "close": 215.8,
+      "red_flags_14d": [
+        {
+          "date": "20261116",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "Jak dla mnie mocny raport. Przychody i skorygowana EBITDA po +30%, marża utrzymana w okolicach 35%. Zysk dla akcjonariuszy +85%, operacyjny +38%. Jest z czego b"
+        },
+        {
+          "date": "20261116",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "zajete  pisze:  ↑ 16 lis 2026 17:35   Seba_RSI  pisze:  ↑ 16 lis 2026 16:40  Czyli wzrost zn o 60%, licząc wyemitowane akcje, jesli dobrze liczę.    A ja bym ra"
+        },
+        {
+          "date": "20261117",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "Pojawił się komentarz biura maklerskiego mBanku:    Wyniki za 3Q'26 powyżej oczekiwań, pierwsze oszczędności  PrestaShop  Rekomendacja: kupuj | cena docelowa: 2"
+        },
+        {
+          "date": "20261117",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "Seba_RSI  pisze:  ↑ 17 lis 2026 09:25   jacek663  pisze:  ↑ 17 lis 2026 09:08  Warto mieć z tyłu głowy że w Q3 '25 liczba akcji wynosiła 15,3mln a w Q3 '26 już "
+        },
+        {
+          "date": "20261117",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "Konferencja    Obecni: Stasik, Dwernicki, Piecuch, Lewkowicz    - chcemy się rozwijać się mocniej w krajach Europy Zachodniej  - chcemy dbać o europejską suwere"
+        },
+        {
+          "date": "20261117",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "Pozwolę sobie uzupełnić wpis Grzegorza o moje notatki z konferencji, pogłębiające kilka kwestii:    - dużo miejsca poświęcono tematowi  Agentic Commerce , spółk"
+        }
+      ]
+    },
+    {
+      "ticker": "ANR",
+      "name": "ANR",
+      "conv2": 71.6,
+      "sent2": 66.3,
+      "uniq90": 4,
+      "posts365": 20,
+      "momentum": 9.41,
+      "median_turnover_20d_pln": 245394.0,
+      "close": 23.25,
+      "red_flags_14d": []
+    }
+  ],
+  "top3_v2_rolling_auth": [
+    {
+      "ticker": "CBF",
+      "name": "CBF",
+      "conv_r": 88.2,
+      "sent_r": 65.1,
+      "uniq90": 25,
+      "posts365": 121,
+      "momentum": 13.16,
+      "median_turnover_20d_pln": 3392207.0,
+      "close": 215.8
+    },
+    {
+      "ticker": "ASB",
+      "name": "ASB",
+      "conv_r": 86.3,
+      "sent_r": 60.9,
+      "uniq90": 34,
+      "posts365": 223,
+      "momentum": 27.17,
+      "median_turnover_20d_pln": 47145843.0,
+      "close": 167.1
+    },
+    {
+      "ticker": "LPP",
+      "name": "LPP",
+      "conv_r": 81.0,
+      "sent_r": 56.8,
+      "uniq90": 12,
+      "posts365": 74,
+      "momentum": 39.3,
+      "median_turnover_20d_pln": 108108910.0,
+      "close": 28640.0
+    }
+  ],
+  "top3_v2_monthly_buf10_rfveto": [
+    {
+      "ticker": "ASB",
+      "name": "ASB",
+      "conv2": 71.5,
+      "sent2": 61.1,
+      "uniq90": 34,
+      "posts365": 223,
+      "momentum": 27.17,
+      "median_turnover_20d_pln": 47145843.0,
+      "close": 167.1,
+      "red_flags_14d": [],
+      "buffer_kept": true,
+      "rank_in_v2": 4
+    },
+    {
+      "ticker": "ANR",
+      "name": "ANR",
+      "conv2": 71.6,
+      "sent2": 66.3,
+      "uniq90": 4,
+      "posts365": 20,
+      "momentum": 9.41,
+      "median_turnover_20d_pln": 245394.0,
+      "close": 23.25,
+      "red_flags_14d": [],
+      "buffer_kept": true,
+      "rank_in_v2": 3
+    },
+    {
+      "ticker": "CLD",
+      "name": "CLD",
+      "conv2": 79.1,
+      "sent2": 79.4,
+      "uniq90": 5,
+      "posts365": 12,
+      "momentum": 17.01,
+      "median_turnover_20d_pln": 435048.0,
+      "close": 113.5,
+      "red_flags_14d": [],
+      "buffer_kept": true,
+      "rank_in_v2": 1
+    }
+  ],
+  "monthly_rf_vetoed": [],
+  "top3_control_qual_mom": [
+    {
+      "ticker": "LPP",
+      "name": "LPP",
+      "conv2": 64.6,
+      "sent2": 55.5,
+      "uniq90": 12,
+      "posts365": 74,
+      "momentum": 39.3,
+      "median_turnover_20d_pln": 108108910.0,
+      "close": 28640.0,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "KGN",
+      "name": "KGN",
+      "conv2": 45.7,
+      "sent2": 42.2,
+      "uniq90": 11,
+      "posts365": 154,
+      "momentum": 35.37,
+      "median_turnover_20d_pln": 622464.0,
+      "close": 90.7,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "TOA",
+      "name": "TOA",
+      "conv2": 63.1,
+      "sent2": 54.7,
+      "uniq90": 6,
+      "posts365": 38,
+      "momentum": 35.08,
+      "median_turnover_20d_pln": 861431.0,
+      "close": 12.86,
+      "red_flags_14d": []
+    }
+  ],
+  "top3_control_pure_mom": [
+    {
+      "ticker": "NTT",
+      "name": "NTT",
+      "momentum": 121.94,
+      "median_turnover_20d_pln": 5144063.0,
+      "close": 35.4
+    },
+    {
+      "ticker": "PGE",
+      "name": "PGE",
+      "momentum": 59.55,
+      "median_turnover_20d_pln": 41652376.0,
+      "close": 16.29
+    },
+    {
+      "ticker": "WAS",
+      "name": "WAS",
+      "momentum": 56.06,
+      "median_turnover_20d_pln": 1524579.0,
+      "close": 9.02
+    }
+  ],
+  "full_qualifying_ranking_v2_core": [
+    {
+      "ticker": "CLD",
+      "name": "CLD",
+      "conv2": 79.1,
+      "sent2": 79.4,
+      "uniq90": 5,
+      "posts365": 12,
+      "momentum": 17.01,
+      "median_turnover_20d_pln": 435048.0,
+      "close": 113.5,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "CBF",
+      "name": "CBF",
+      "conv2": 72.5,
+      "sent2": 64.1,
+      "uniq90": 25,
+      "posts365": 121,
+      "momentum": 13.16,
+      "median_turnover_20d_pln": 3392207.0,
+      "close": 215.8,
+      "red_flags_14d": [
+        {
+          "date": "20261116",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "Jak dla mnie mocny raport. Przychody i skorygowana EBITDA po +30%, marża utrzymana w okolicach 35%. Zysk dla akcjonariuszy +85%, operacyjny +38%. Jest z czego b"
+        },
+        {
+          "date": "20261116",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "zajete  pisze:  ↑ 16 lis 2026 17:35   Seba_RSI  pisze:  ↑ 16 lis 2026 16:40  Czyli wzrost zn o 60%, licząc wyemitowane akcje, jesli dobrze liczę.    A ja bym ra"
+        },
+        {
+          "date": "20261117",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "Pojawił się komentarz biura maklerskiego mBanku:    Wyniki za 3Q'26 powyżej oczekiwań, pierwsze oszczędności  PrestaShop  Rekomendacja: kupuj | cena docelowa: 2"
+        },
+        {
+          "date": "20261117",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "Seba_RSI  pisze:  ↑ 17 lis 2026 09:25   jacek663  pisze:  ↑ 17 lis 2026 09:08  Warto mieć z tyłu głowy że w Q3 '25 liczba akcji wynosiła 15,3mln a w Q3 '26 już "
+        },
+        {
+          "date": "20261117",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "Konferencja    Obecni: Stasik, Dwernicki, Piecuch, Lewkowicz    - chcemy się rozwijać się mocniej w krajach Europy Zachodniej  - chcemy dbać o europejską suwere"
+        },
+        {
+          "date": "20261117",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "Pozwolę sobie uzupełnić wpis Grzegorza o moje notatki z konferencji, pogłębiające kilka kwestii:    - dużo miejsca poświęcono tematowi  Agentic Commerce , spółk"
+        }
+      ]
+    },
+    {
+      "ticker": "ANR",
+      "name": "ANR",
+      "conv2": 71.6,
+      "sent2": 66.3,
+      "uniq90": 4,
+      "posts365": 20,
+      "momentum": 9.41,
+      "median_turnover_20d_pln": 245394.0,
+      "close": 23.25,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "ASB",
+      "name": "ASB",
+      "conv2": 71.5,
+      "sent2": 61.1,
+      "uniq90": 34,
+      "posts365": 223,
+      "momentum": 27.17,
+      "median_turnover_20d_pln": 47145843.0,
+      "close": 167.1,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "BFT",
+      "name": "BFT",
+      "conv2": 69.0,
+      "sent2": 60.6,
+      "uniq90": 20,
+      "posts365": 54,
+      "momentum": 7.56,
+      "median_turnover_20d_pln": 42288035.0,
+      "close": 5905.0,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "VOX",
+      "name": "VOX",
+      "conv2": 66.9,
+      "sent2": 59.1,
+      "uniq90": 9,
+      "posts365": 29,
+      "momentum": 17.02,
+      "median_turnover_20d_pln": 1229540.0,
+      "close": 152.6,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "MBR",
+      "name": "MBR",
+      "conv2": 64.8,
+      "sent2": 55.4,
+      "uniq90": 20,
+      "posts365": 91,
+      "momentum": 15.96,
+      "median_turnover_20d_pln": 1544302.0,
+      "close": 425.0,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "LPP",
+      "name": "LPP",
+      "conv2": 64.6,
+      "sent2": 55.5,
+      "uniq90": 12,
+      "posts365": 74,
+      "momentum": 39.3,
+      "median_turnover_20d_pln": 108108910.0,
+      "close": 28640.0,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "TOA",
+      "name": "TOA",
+      "conv2": 63.1,
+      "sent2": 54.7,
+      "uniq90": 6,
+      "posts365": 38,
+      "momentum": 35.08,
+      "median_turnover_20d_pln": 861431.0,
+      "close": 12.86,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "KGN",
+      "name": "KGN",
+      "conv2": 45.7,
+      "sent2": 42.2,
+      "uniq90": 11,
+      "posts365": 154,
+      "momentum": 35.37,
+      "median_turnover_20d_pln": 622464.0,
+      "close": 90.7,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "PAS",
+      "name": "PAS",
+      "conv2": 31.7,
+      "sent2": 22.6,
+      "uniq90": 14,
+      "posts365": 61,
+      "momentum": 12.74,
+      "median_turnover_20d_pln": 776462.0,
+      "close": 152.2,
+      "red_flags_14d": []
+    }
+  ],
+  "spec_version": "konwikcja_v2.0_frozen_20261120",
+  "spec_canonical_sha256": "21f191fcd2b70414490b02f4dfa7ddb769d65f870348cde787fc27879ec624aa",
+  "primary_variant": "V2_CORE_SEMI",
+  "tracked_variants": [
+    "V2_ROLLING_AUTH_SEMI",
+    "V2_CORE_SEMI",
+    "V2_MONTHLY_BUF10_RFVETO"
+  ],
+  "wig_close": 157868.7656,
+  "last_entry_hash": "bad3ef40ac901a4c1dcf04cdf5873f25f02095eca32b0331aa233822c6665136"
+}
