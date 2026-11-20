@@ -3,17 +3,21 @@
   "spec_canonical_sha256": "21f191fcd2b70414490b02f4dfa7ddb769d65f870348cde787fc27879ec624aa",
   "primary_variant": "V2_CORE_SEMI",
   "tracked_variants": [
-    "V2_ROLLING_AUTH_SEMI",
-    "V2_CORE_SEMI",
-    "V2_MONTHLY_BUF10_RFVETO"
+    "1_V2_ROLLING_AUTH_SEMI",
+    "2_V2_CORE_SEMI",
+    "3_V2_MONTHLY_BUF10_RFVETO",
+    "4_V1_VET_MONTHLY_BUF5",
+    "5_V1_VET_BIWEEKLY_BUF5",
+    "6_V1_VET_WEEKLY_BUF5"
   ],
   "updated": "20261120",
   "next_semi_rebalance_signal_date": "20270201",
   "next_monthly_rebalance_signal_date": "20261130",
+  "next_biweekly_rebalance_signal_date": "20261127",
+  "next_weekly_rebalance_signal_date": "20261127",
   "semi_annual_cycle_2026_09_24": {
     "cycle_label": "Jesien-Zima 2026/2027 (Rebalans 2026-09-24 -> Wejscie T+1 2026-09-25)",
     "registration_type": "RETROACTIVE_RECONSTRUCTED",
-    "note": "Cykl wyznaczony z zamrozonych regul spec_v2.json na dzien decyzji 2026-09-24 (egzekucja T+1 2026-09-25). Pelny zapis EX_ANTE obowiazuje od 2026-11-20 oraz dla rebalansu 2027-02-01.",
     "signal_date": "20260924",
     "entry_date": "20260925",
     "planned_exit": "20270201",
@@ -167,6 +171,181 @@
       "portfolio_net_return_pct": -4.4,
       "wig_return_pct": -2.97,
       "excess_net_vs_wig_pp": -1.43
+    },
+    "basket_4_V1_VET_MONTHLY_BUF5_november_leg": {
+      "tickers": [
+        "ASB",
+        "TOA",
+        "WAS"
+      ],
+      "entry_date": "20261102",
+      "as_of": "20261120",
+      "entry_prices": {
+        "ASB": 157.2,
+        "TOA": 11.2,
+        "WAS": 6.88
+      },
+      "current_prices": {
+        "ASB": 148.6,
+        "TOA": 12.6,
+        "WAS": 8.84
+      },
+      "ticker_returns_pct": {
+        "ASB": -5.47,
+        "TOA": 12.5,
+        "WAS": 28.49
+      },
+      "portfolio_gross_return_pct": 11.84,
+      "portfolio_net_return_pct": 11.28,
+      "wig_return_pct": -2.97,
+      "excess_net_vs_wig_pp": 14.25
+    }
+  },
+  "v1_veterans_fast_rotation_live_since_2026_10_16": {
+    "note": "Pelne wyniki live od startu forward-testu v1 (sygnal 2026-10-16, wejscie T+1 2026-10-19) dla Weteranow v1 (ANALYSTS) + obrot >=100k PLN + bufor utrzymania TOP 5 (T+1 Close, koszt 0.5% one-way).",
+    "4_V1_VET_MONTHLY_BUF5": {
+      "live_track_start_signal": "20261016",
+      "live_track_start_exec": "20261019",
+      "as_of": "20261120",
+      "current_holdings": [
+        "ASB",
+        "WAS",
+        "TOA"
+      ],
+      "cumulative_gross_return_pct": 5.13,
+      "cumulative_net_return_pct": 3.91,
+      "wig_return_pct": -4.41,
+      "excess_net_vs_wig_pp": 8.32,
+      "total_trades": 7,
+      "rebalance_history": [
+        {
+          "signal_date": "20261016",
+          "exec_date": "20261019",
+          "previous_holdings": [],
+          "new_holdings": [
+            "ASB",
+            "GPP",
+            "DIG"
+          ],
+          "changed_count": 3
+        },
+        {
+          "signal_date": "20261030",
+          "exec_date": "20261102",
+          "previous_holdings": [
+            "ASB",
+            "GPP",
+            "DIG"
+          ],
+          "new_holdings": [
+            "ASB",
+            "WAS",
+            "TOA"
+          ],
+          "changed_count": 2
+        }
+      ]
+    },
+    "5_V1_VET_BIWEEKLY_BUF5": {
+      "live_track_start_signal": "20261016",
+      "live_track_start_exec": "20261019",
+      "as_of": "20261120",
+      "current_holdings": [
+        "ASB",
+        "WAS",
+        "TOA"
+      ],
+      "cumulative_gross_return_pct": 5.13,
+      "cumulative_net_return_pct": 3.91,
+      "wig_return_pct": -4.41,
+      "excess_net_vs_wig_pp": 8.32,
+      "total_trades": 7,
+      "rebalance_history": [
+        {
+          "signal_date": "20261016",
+          "exec_date": "20261019",
+          "previous_holdings": [],
+          "new_holdings": [
+            "ASB",
+            "GPP",
+            "DIG"
+          ],
+          "changed_count": 3
+        },
+        {
+          "signal_date": "20261030",
+          "exec_date": "20261102",
+          "previous_holdings": [
+            "ASB",
+            "GPP",
+            "DIG"
+          ],
+          "new_holdings": [
+            "ASB",
+            "WAS",
+            "TOA"
+          ],
+          "changed_count": 2
+        }
+      ]
+    },
+    "6_V1_VET_WEEKLY_BUF5": {
+      "live_track_start_signal": "20261016",
+      "live_track_start_exec": "20261019",
+      "as_of": "20261120",
+      "current_holdings": [
+        "ASB",
+        "TOA",
+        "WAS"
+      ],
+      "cumulative_gross_return_pct": 8.89,
+      "cumulative_net_return_pct": 7.26,
+      "wig_return_pct": -4.41,
+      "excess_net_vs_wig_pp": 11.67,
+      "total_trades": 9,
+      "rebalance_history": [
+        {
+          "signal_date": "20261016",
+          "exec_date": "20261019",
+          "previous_holdings": [],
+          "new_holdings": [
+            "ASB",
+            "GPP",
+            "DIG"
+          ],
+          "changed_count": 3
+        },
+        {
+          "signal_date": "20261023",
+          "exec_date": "20261026",
+          "previous_holdings": [
+            "ASB",
+            "GPP",
+            "DIG"
+          ],
+          "new_holdings": [
+            "ASB",
+            "TOA",
+            "IMS"
+          ],
+          "changed_count": 2
+        },
+        {
+          "signal_date": "20261030",
+          "exec_date": "20261102",
+          "previous_holdings": [
+            "ASB",
+            "TOA",
+            "IMS"
+          ],
+          "new_holdings": [
+            "ASB",
+            "TOA",
+            "WAS"
+          ],
+          "changed_count": 1
+        }
+      ]
     }
   },
   "ex_ante_daily_candidates_as_of": {
@@ -186,6 +365,26 @@
       "ASB",
       "ANR",
       "CLD"
+    ],
+    "4_V1_VET_MONTHLY_BUF5": [
+      "ASB",
+      "WAS",
+      "TOA"
+    ],
+    "5_V1_VET_BIWEEKLY_BUF5": [
+      "ASB",
+      "WAS",
+      "TOA"
+    ],
+    "6_V1_VET_WEEKLY_BUF5": [
+      "ASB",
+      "TOA",
+      "WAS"
+    ],
+    "V1_VET_LIQ_PURE_TOP3_TODAY": [
+      "BFT",
+      "ASB",
+      "4MS"
     ],
     "CONTROL_TOP3_QUAL_MOM": [
       "LPP",
