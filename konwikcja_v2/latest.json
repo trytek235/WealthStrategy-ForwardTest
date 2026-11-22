@@ -17,6 +17,18 @@
       "red_flags_14d": []
     },
     {
+      "ticker": "ANR",
+      "name": "ANR",
+      "conv2": 75.0,
+      "sent2": 71.0,
+      "uniq90": 6,
+      "posts365": 21,
+      "momentum": 3.94,
+      "median_turnover_20d_pln": 257487.0,
+      "close": 22.45,
+      "red_flags_14d": []
+    },
+    {
       "ticker": "CBF",
       "name": "CBF",
       "conv2": 72.5,
@@ -70,18 +82,6 @@
           "snippet": "Pozwolę sobie uzupełnić wpis Grzegorza o moje notatki z konferencji, pogłębiające kilka kwestii:    - dużo miejsca poświęcono tematowi  Agentic Commerce , spółk"
         }
       ]
-    },
-    {
-      "ticker": "BFT",
-      "name": "BFT",
-      "conv2": 72.3,
-      "sent2": 64.8,
-      "uniq90": 18,
-      "posts365": 56,
-      "momentum": 14.57,
-      "median_turnover_20d_pln": 43314898.0,
-      "close": 6250.0,
-      "red_flags_14d": []
     }
   ],
   "top3_v2_rolling_auth": [
@@ -137,16 +137,16 @@
     {
       "ticker": "ANR",
       "name": "ANR",
-      "conv2": 71.7,
-      "sent2": 66.5,
-      "uniq90": 4,
-      "posts365": 18,
+      "conv2": 75.0,
+      "sent2": 71.0,
+      "uniq90": 6,
+      "posts365": 21,
       "momentum": 3.94,
       "median_turnover_20d_pln": 257487.0,
       "close": 22.45,
       "red_flags_14d": [],
       "buffer_kept": true,
-      "rank_in_v2": 4
+      "rank_in_v2": 2
     },
     {
       "ticker": "CLD",
@@ -221,19 +221,6 @@
       "rank_in_v1_liq": 2
     },
     {
-      "ticker": "TOA",
-      "name": "TOA",
-      "conv1": 93.3,
-      "sent1": 85.2,
-      "posts365": 38,
-      "momentum": 31.94,
-      "median_turnover_20d_pln": 922115.0,
-      "close": 12.6,
-      "red_flags_14d": [],
-      "buffer_kept": true,
-      "rank_in_v1_liq": 5
-    },
-    {
       "ticker": "WAS",
       "name": "WAS",
       "conv1": 95.8,
@@ -245,6 +232,19 @@
       "red_flags_14d": [],
       "buffer_kept": true,
       "rank_in_v1_liq": 4
+    },
+    {
+      "ticker": "BFT",
+      "name": "BFT",
+      "conv1": 99.0,
+      "sent1": 95.6,
+      "posts365": 56,
+      "momentum": 14.57,
+      "median_turnover_20d_pln": 43314898.0,
+      "close": 6250.0,
+      "red_flags_14d": [],
+      "buffer_kept": false,
+      "rank_in_v1_liq": 1
     }
   ],
   "top10_v1_vet_liq": [
@@ -298,6 +298,17 @@
       "momentum": 52.41,
       "median_turnover_20d_pln": 1855383.0,
       "close": 8.84,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "ANR",
+      "name": "ANR",
+      "conv1": 93.7,
+      "sent1": 75.1,
+      "posts365": 21,
+      "momentum": 3.94,
+      "median_turnover_20d_pln": 257487.0,
+      "close": 22.45,
       "red_flags_14d": []
     },
     {
@@ -377,17 +388,6 @@
       "red_flags_14d": []
     },
     {
-      "ticker": "ANR",
-      "name": "ANR",
-      "conv1": 81.3,
-      "sent1": 61.0,
-      "posts365": 18,
-      "momentum": 3.94,
-      "median_turnover_20d_pln": 257487.0,
-      "close": 22.45,
-      "red_flags_14d": []
-    },
-    {
       "ticker": "KGN",
       "name": "KGN",
       "conv1": 77.8,
@@ -411,6 +411,7 @@
     }
   ],
   "monthly_rf_vetoed": [],
+  "monthly_rf_unverified": [],
   "top3_control_qual_mom": [
     {
       "ticker": "LPP",
@@ -486,6 +487,18 @@
       "red_flags_14d": []
     },
     {
+      "ticker": "ANR",
+      "name": "ANR",
+      "conv2": 75.0,
+      "sent2": 71.0,
+      "uniq90": 6,
+      "posts365": 21,
+      "momentum": 3.94,
+      "median_turnover_20d_pln": 257487.0,
+      "close": 22.45,
+      "red_flags_14d": []
+    },
+    {
       "ticker": "CBF",
       "name": "CBF",
       "conv2": 72.5,
@@ -550,18 +563,6 @@
       "momentum": 14.57,
       "median_turnover_20d_pln": 43314898.0,
       "close": 6250.0,
-      "red_flags_14d": []
-    },
-    {
-      "ticker": "ANR",
-      "name": "ANR",
-      "conv2": 71.7,
-      "sent2": 66.5,
-      "uniq90": 4,
-      "posts365": 18,
-      "momentum": 3.94,
-      "median_turnover_20d_pln": 257487.0,
-      "close": 22.45,
       "red_flags_14d": []
     },
     {
@@ -647,10 +648,10 @@
     {
       "ticker": "CDR",
       "name": "CDR",
-      "conv2": 61.4,
-      "sent2": 52.6,
-      "uniq90": 22,
-      "posts365": 124,
+      "conv2": 61.8,
+      "sent2": 52.7,
+      "uniq90": 25,
+      "posts365": 131,
       "momentum": 5.93,
       "median_turnover_20d_pln": 65870530.0,
       "close": 257.3,
@@ -690,7 +691,8 @@
     "3_V2_MONTHLY_BUF10_RFVETO",
     "4_V1_VET_MONTHLY_BUF5",
     "5_V1_VET_BIWEEKLY_BUF5",
-    "6_V1_VET_WEEKLY_BUF5"
+    "6_V1_VET_WEEKLY_BUF5",
+    "7_V1_VET_MONTHLY_BUF5_RFVETO"
   ],
   "wig_close": 151743.6719,
   "last_entry_hash": "6086d6e1eb9329f48512a744096b8b77821f782a39fb6a75b52b150e994f8e7b"

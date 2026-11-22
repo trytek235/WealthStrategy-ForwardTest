@@ -8,9 +8,14 @@
     "3_V2_MONTHLY_BUF10_RFVETO",
     "4_V1_VET_MONTHLY_BUF5",
     "5_V1_VET_BIWEEKLY_BUF5",
-    "6_V1_VET_WEEKLY_BUF5"
+    "6_V1_VET_WEEKLY_BUF5",
+    "7_V1_VET_MONTHLY_BUF5_RFVETO"
   ],
   "updated": "20261120",
+  "cost_levels_reported_pct": {
+    "c015": 0.15,
+    "c050": 0.5
+  },
   "next_semi_rebalance_signal_date": "20270201",
   "next_monthly_rebalance_signal_date": "20261130",
   "next_biweekly_rebalance_signal_date": "20261127",
@@ -46,10 +51,39 @@
           "LPP": 11.16,
           "DIG": -29.61
         },
+        "priced_tickers_count": 3,
         "portfolio_gross_return_pct": -12.1,
         "portfolio_net_return_pct": -12.54,
+        "costs": {
+          "gross": {
+            "one_way_cost_pct": 0.0,
+            "net_after_entry_pct": -12.1,
+            "liquidation_net_pct": -12.1
+          },
+          "c015": {
+            "one_way_cost_pct": 0.15,
+            "net_after_entry_pct": -12.24,
+            "liquidation_net_pct": -12.37
+          },
+          "c050": {
+            "one_way_cost_pct": 0.5,
+            "net_after_entry_pct": -12.54,
+            "liquidation_net_pct": -12.98
+          },
+          "spec": {
+            "one_way_cost_pct": 0.5,
+            "net_after_entry_pct": -12.54,
+            "liquidation_net_pct": -12.98
+          }
+        },
         "wig_return_pct": -3.45,
-        "excess_net_vs_wig_pp": -9.09
+        "excess_net_vs_wig_pp": -9.09,
+        "data_quality_flags": {
+          "tickers": {},
+          "wig": [
+            "wig_interpolated"
+          ]
+        }
       },
       "2_V2_CORE_SEMI": {
         "tickers": [
@@ -74,10 +108,39 @@
           "APR": -8.0,
           "ASB": -14.45
         },
+        "priced_tickers_count": 3,
         "portfolio_gross_return_pct": -13.44,
         "portfolio_net_return_pct": -13.87,
+        "costs": {
+          "gross": {
+            "one_way_cost_pct": 0.0,
+            "net_after_entry_pct": -13.44,
+            "liquidation_net_pct": -13.44
+          },
+          "c015": {
+            "one_way_cost_pct": 0.15,
+            "net_after_entry_pct": -13.57,
+            "liquidation_net_pct": -13.7
+          },
+          "c050": {
+            "one_way_cost_pct": 0.5,
+            "net_after_entry_pct": -13.87,
+            "liquidation_net_pct": -14.3
+          },
+          "spec": {
+            "one_way_cost_pct": 0.5,
+            "net_after_entry_pct": -13.87,
+            "liquidation_net_pct": -14.3
+          }
+        },
         "wig_return_pct": -3.45,
-        "excess_net_vs_wig_pp": -10.42
+        "excess_net_vs_wig_pp": -10.42,
+        "data_quality_flags": {
+          "tickers": {},
+          "wig": [
+            "wig_interpolated"
+          ]
+        }
       },
       "CONTROL_TOP3_QUAL_MOM_SEMI": {
         "tickers": [
@@ -102,10 +165,39 @@
           "S2B": -25.73,
           "ENG": 0.37
         },
+        "priced_tickers_count": 3,
         "portfolio_gross_return_pct": -13.27,
         "portfolio_net_return_pct": -13.7,
+        "costs": {
+          "gross": {
+            "one_way_cost_pct": 0.0,
+            "net_after_entry_pct": -13.27,
+            "liquidation_net_pct": -13.27
+          },
+          "c015": {
+            "one_way_cost_pct": 0.15,
+            "net_after_entry_pct": -13.4,
+            "liquidation_net_pct": -13.53
+          },
+          "c050": {
+            "one_way_cost_pct": 0.5,
+            "net_after_entry_pct": -13.7,
+            "liquidation_net_pct": -14.14
+          },
+          "spec": {
+            "one_way_cost_pct": 0.5,
+            "net_after_entry_pct": -13.7,
+            "liquidation_net_pct": -14.14
+          }
+        },
         "wig_return_pct": -3.45,
-        "excess_net_vs_wig_pp": -10.25
+        "excess_net_vs_wig_pp": -10.25,
+        "data_quality_flags": {
+          "tickers": {},
+          "wig": [
+            "wig_interpolated"
+          ]
+        }
       },
       "CONTROL_TOP3_PURE_MOM_SEMI": {
         "tickers": [
@@ -130,10 +222,39 @@
           "S2B": -25.73,
           "ENG": 0.37
         },
+        "priced_tickers_count": 3,
         "portfolio_gross_return_pct": -13.27,
         "portfolio_net_return_pct": -13.7,
+        "costs": {
+          "gross": {
+            "one_way_cost_pct": 0.0,
+            "net_after_entry_pct": -13.27,
+            "liquidation_net_pct": -13.27
+          },
+          "c015": {
+            "one_way_cost_pct": 0.15,
+            "net_after_entry_pct": -13.4,
+            "liquidation_net_pct": -13.53
+          },
+          "c050": {
+            "one_way_cost_pct": 0.5,
+            "net_after_entry_pct": -13.7,
+            "liquidation_net_pct": -14.14
+          },
+          "spec": {
+            "one_way_cost_pct": 0.5,
+            "net_after_entry_pct": -13.7,
+            "liquidation_net_pct": -14.14
+          }
+        },
         "wig_return_pct": -3.45,
-        "excess_net_vs_wig_pp": -10.25
+        "excess_net_vs_wig_pp": -10.25,
+        "data_quality_flags": {
+          "tickers": {},
+          "wig": [
+            "wig_interpolated"
+          ]
+        }
       }
     }
   },
@@ -167,43 +288,47 @@
         "ANR": -4.47,
         "CLD": -1.82
       },
+      "priced_tickers_count": 3,
       "portfolio_gross_return_pct": -3.92,
       "portfolio_net_return_pct": -4.4,
+      "costs": {
+        "gross": {
+          "one_way_cost_pct": 0.0,
+          "net_after_entry_pct": -3.92,
+          "liquidation_net_pct": -3.92
+        },
+        "c015": {
+          "one_way_cost_pct": 0.15,
+          "net_after_entry_pct": -4.06,
+          "liquidation_net_pct": -4.21
+        },
+        "c050": {
+          "one_way_cost_pct": 0.5,
+          "net_after_entry_pct": -4.4,
+          "liquidation_net_pct": -4.88
+        },
+        "spec": {
+          "one_way_cost_pct": 0.5,
+          "net_after_entry_pct": -4.4,
+          "liquidation_net_pct": -4.88
+        }
+      },
       "wig_return_pct": -2.97,
-      "excess_net_vs_wig_pp": -1.43
-    },
-    "basket_4_V1_VET_MONTHLY_BUF5_november_leg": {
-      "tickers": [
-        "ASB",
-        "TOA",
-        "WAS"
-      ],
-      "entry_date": "20261102",
-      "as_of": "20261120",
-      "entry_prices": {
-        "ASB": 157.2,
-        "TOA": 11.2,
-        "WAS": 6.88
-      },
-      "current_prices": {
-        "ASB": 148.6,
-        "TOA": 12.6,
-        "WAS": 8.84
-      },
-      "ticker_returns_pct": {
-        "ASB": -5.47,
-        "TOA": 12.5,
-        "WAS": 28.49
-      },
-      "portfolio_gross_return_pct": 11.84,
-      "portfolio_net_return_pct": 11.28,
-      "wig_return_pct": -2.97,
-      "excess_net_vs_wig_pp": 14.25
+      "excess_net_vs_wig_pp": -1.43,
+      "data_quality_flags": {
+        "tickers": {},
+        "wig": []
+      }
     }
   },
   "v1_veterans_fast_rotation_live_since_2026_10_16": {
-    "note": "Pelne wyniki live od startu forward-testu v1 (sygnal 2026-10-16, wejscie T+1 2026-10-19) dla Weteranow v1 (ANALYSTS) + obrot >=100k PLN + bufor utrzymania TOP 5 (T+1 Close, koszt 0.5% one-way).",
+    "note": "Weterani v1 (ANALYSTS) + obrot >= progu spec (mediana 20 sesji, dni bez obrotu = 0) + bufor TOP 5. Przeglady wg kalendarza sesji (ostatnia sesja tygodnia / co drugiego tygodnia / miesiaca), wykonanie T+1 Close, buy-and-hold miedzy rebalansami. Stan zamrozony w ledger.jsonl. Odcinek do daty bootstrapu = RETROACTIVE_BOOTSTRAP (warianty 4-7 zaprojektowano 2026-11-20 po obejrzeniu tego okresu).",
+    "state_source": "bootstrap",
     "4_V1_VET_MONTHLY_BUF5": {
+      "registration_type": "RETROACTIVE_BOOTSTRAP",
+      "bootstrap_as_of": "20261120",
+      "review_frequency": "monthly",
+      "rf_veto": false,
       "live_track_start_signal": "20261016",
       "live_track_start_exec": "20261019",
       "as_of": "20261120",
@@ -212,14 +337,43 @@
         "WAS",
         "TOA"
       ],
-      "cumulative_gross_return_pct": 5.13,
-      "cumulative_net_return_pct": 3.91,
+      "pending_order": null,
+      "next_review_signal_date": "20261130",
+      "cumulative_gross_return_pct": 4.72,
+      "cumulative_net_return_pct": 3.48,
+      "net_return_pct_by_cost": {
+        "c015": {
+          "mtm": 4.35,
+          "liquidation": 4.19
+        },
+        "c050": {
+          "mtm": 3.48,
+          "liquidation": 2.96
+        }
+      },
       "wig_return_pct": -4.41,
-      "excess_net_vs_wig_pp": 8.32,
+      "excess_net_vs_wig_pp": 7.89,
       "total_trades": 7,
+      "reviews": 2,
       "rebalance_history": [
         {
           "signal_date": "20261016",
+          "signal_source": "20261016",
+          "target": [
+            "ASB",
+            "GPP",
+            "DIG"
+          ],
+          "kept_by_buffer": [],
+          "top_buf_at_signal": [
+            "ASB",
+            "GPP",
+            "DIG",
+            "ACP",
+            "SKH"
+          ],
+          "signal_flags": [],
+          "rf_checks": [],
           "exec_date": "20261019",
           "previous_holdings": [],
           "new_holdings": [
@@ -227,10 +381,39 @@
             "GPP",
             "DIG"
           ],
-          "changed_count": 3
+          "sold": [],
+          "bought": [
+            "ASB",
+            "GPP",
+            "DIG"
+          ],
+          "exec_prices": {
+            "ASB": 154.8,
+            "GPP": 53.8,
+            "DIG": 352.0
+          },
+          "exec_flags": {}
         },
         {
           "signal_date": "20261030",
+          "signal_source": "20261030",
+          "target": [
+            "ASB",
+            "WAS",
+            "TOA"
+          ],
+          "kept_by_buffer": [
+            "ASB"
+          ],
+          "top_buf_at_signal": [
+            "ASB",
+            "WAS",
+            "TOA",
+            "LPP",
+            "ACP"
+          ],
+          "signal_flags": [],
+          "rf_checks": [],
           "exec_date": "20261102",
           "previous_holdings": [
             "ASB",
@@ -242,11 +425,33 @@
             "WAS",
             "TOA"
           ],
-          "changed_count": 2
+          "sold": [
+            "GPP",
+            "DIG"
+          ],
+          "bought": [
+            "WAS",
+            "TOA"
+          ],
+          "exec_prices": {
+            "GPP": 53.7,
+            "DIG": 286.0,
+            "WAS": 6.88,
+            "TOA": 11.2
+          },
+          "exec_flags": {}
         }
-      ]
+      ],
+      "data_quality_flags": {
+        "holdings": {},
+        "wig": []
+      }
     },
     "5_V1_VET_BIWEEKLY_BUF5": {
+      "registration_type": "RETROACTIVE_BOOTSTRAP",
+      "bootstrap_as_of": "20261120",
+      "review_frequency": "biweekly",
+      "rf_veto": false,
       "live_track_start_signal": "20261016",
       "live_track_start_exec": "20261019",
       "as_of": "20261120",
@@ -255,14 +460,43 @@
         "WAS",
         "TOA"
       ],
-      "cumulative_gross_return_pct": 5.13,
-      "cumulative_net_return_pct": 3.91,
+      "pending_order": null,
+      "next_review_signal_date": "20261127",
+      "cumulative_gross_return_pct": 4.72,
+      "cumulative_net_return_pct": 3.48,
+      "net_return_pct_by_cost": {
+        "c015": {
+          "mtm": 4.35,
+          "liquidation": 4.19
+        },
+        "c050": {
+          "mtm": 3.48,
+          "liquidation": 2.96
+        }
+      },
       "wig_return_pct": -4.41,
-      "excess_net_vs_wig_pp": 8.32,
+      "excess_net_vs_wig_pp": 7.89,
       "total_trades": 7,
+      "reviews": 3,
       "rebalance_history": [
         {
           "signal_date": "20261016",
+          "signal_source": "20261016",
+          "target": [
+            "ASB",
+            "GPP",
+            "DIG"
+          ],
+          "kept_by_buffer": [],
+          "top_buf_at_signal": [
+            "ASB",
+            "GPP",
+            "DIG",
+            "ACP",
+            "SKH"
+          ],
+          "signal_flags": [],
+          "rf_checks": [],
           "exec_date": "20261019",
           "previous_holdings": [],
           "new_holdings": [
@@ -270,10 +504,39 @@
             "GPP",
             "DIG"
           ],
-          "changed_count": 3
+          "sold": [],
+          "bought": [
+            "ASB",
+            "GPP",
+            "DIG"
+          ],
+          "exec_prices": {
+            "ASB": 154.8,
+            "GPP": 53.8,
+            "DIG": 352.0
+          },
+          "exec_flags": {}
         },
         {
           "signal_date": "20261030",
+          "signal_source": "20261030",
+          "target": [
+            "ASB",
+            "WAS",
+            "TOA"
+          ],
+          "kept_by_buffer": [
+            "ASB"
+          ],
+          "top_buf_at_signal": [
+            "ASB",
+            "WAS",
+            "TOA",
+            "LPP",
+            "ACP"
+          ],
+          "signal_flags": [],
+          "rf_checks": [],
           "exec_date": "20261102",
           "previous_holdings": [
             "ASB",
@@ -285,11 +548,33 @@
             "WAS",
             "TOA"
           ],
-          "changed_count": 2
+          "sold": [
+            "GPP",
+            "DIG"
+          ],
+          "bought": [
+            "WAS",
+            "TOA"
+          ],
+          "exec_prices": {
+            "GPP": 53.7,
+            "DIG": 286.0,
+            "WAS": 6.88,
+            "TOA": 11.2
+          },
+          "exec_flags": {}
         }
-      ]
+      ],
+      "data_quality_flags": {
+        "holdings": {},
+        "wig": []
+      }
     },
     "6_V1_VET_WEEKLY_BUF5": {
+      "registration_type": "RETROACTIVE_BOOTSTRAP",
+      "bootstrap_as_of": "20261120",
+      "review_frequency": "weekly",
+      "rf_veto": false,
       "live_track_start_signal": "20261016",
       "live_track_start_exec": "20261019",
       "as_of": "20261120",
@@ -298,14 +583,43 @@
         "TOA",
         "WAS"
       ],
-      "cumulative_gross_return_pct": 8.89,
-      "cumulative_net_return_pct": 7.26,
+      "pending_order": null,
+      "next_review_signal_date": "20261127",
+      "cumulative_gross_return_pct": -3.55,
+      "cumulative_net_return_pct": -5.23,
+      "net_return_pct_by_cost": {
+        "c015": {
+          "mtm": -4.06,
+          "liquidation": -4.2
+        },
+        "c050": {
+          "mtm": -5.23,
+          "liquidation": -5.7
+        }
+      },
       "wig_return_pct": -4.41,
-      "excess_net_vs_wig_pp": 11.67,
-      "total_trades": 9,
+      "excess_net_vs_wig_pp": -0.82,
+      "total_trades": 11,
+      "reviews": 6,
       "rebalance_history": [
         {
           "signal_date": "20261016",
+          "signal_source": "20261016",
+          "target": [
+            "ASB",
+            "GPP",
+            "DIG"
+          ],
+          "kept_by_buffer": [],
+          "top_buf_at_signal": [
+            "ASB",
+            "GPP",
+            "DIG",
+            "ACP",
+            "SKH"
+          ],
+          "signal_flags": [],
+          "rf_checks": [],
           "exec_date": "20261019",
           "previous_holdings": [],
           "new_holdings": [
@@ -313,10 +627,39 @@
             "GPP",
             "DIG"
           ],
-          "changed_count": 3
+          "sold": [],
+          "bought": [
+            "ASB",
+            "GPP",
+            "DIG"
+          ],
+          "exec_prices": {
+            "ASB": 154.8,
+            "GPP": 53.8,
+            "DIG": 352.0
+          },
+          "exec_flags": {}
         },
         {
           "signal_date": "20261023",
+          "signal_source": "20261023",
+          "target": [
+            "ASB",
+            "TOA",
+            "ACP"
+          ],
+          "kept_by_buffer": [
+            "ASB"
+          ],
+          "top_buf_at_signal": [
+            "ASB",
+            "TOA",
+            "ACP",
+            "ANR",
+            "CLD"
+          ],
+          "signal_flags": [],
+          "rf_checks": [],
           "exec_date": "20261026",
           "previous_holdings": [
             "ASB",
@@ -326,26 +669,240 @@
           "new_holdings": [
             "ASB",
             "TOA",
-            "IMS"
+            "ACP"
           ],
-          "changed_count": 2
+          "sold": [
+            "GPP",
+            "DIG"
+          ],
+          "bought": [
+            "TOA",
+            "ACP"
+          ],
+          "exec_prices": {
+            "GPP": 55.9,
+            "DIG": 313.6,
+            "TOA": 11.34,
+            "ACP": 250.9
+          },
+          "exec_flags": {}
         },
         {
-          "signal_date": "20261030",
-          "exec_date": "20261102",
+          "signal_date": "20261106",
+          "signal_source": "20261106",
+          "target": [
+            "ASB",
+            "TOA",
+            "BFT"
+          ],
+          "kept_by_buffer": [
+            "ASB",
+            "TOA"
+          ],
+          "top_buf_at_signal": [
+            "ASB",
+            "BFT",
+            "WAS",
+            "TOA",
+            "LPP"
+          ],
+          "signal_flags": [],
+          "rf_checks": [],
+          "exec_date": "20261109",
           "previous_holdings": [
             "ASB",
             "TOA",
+            "ACP"
+          ],
+          "new_holdings": [
+            "ASB",
+            "TOA",
+            "BFT"
+          ],
+          "sold": [
+            "ACP"
+          ],
+          "bought": [
+            "BFT"
+          ],
+          "exec_prices": {
+            "ACP": 233.0,
+            "BFT": 6180.0
+          },
+          "exec_flags": {}
+        },
+        {
+          "signal_date": "20261113",
+          "signal_source": "20261113",
+          "target": [
+            "ASB",
+            "TOA",
+            "WAS"
+          ],
+          "kept_by_buffer": [
+            "ASB",
+            "TOA"
+          ],
+          "top_buf_at_signal": [
+            "ASB",
+            "TOA",
+            "WAS",
+            "LPP",
             "IMS"
+          ],
+          "signal_flags": [],
+          "rf_checks": [],
+          "exec_date": "20261116",
+          "previous_holdings": [
+            "ASB",
+            "TOA",
+            "BFT"
           ],
           "new_holdings": [
             "ASB",
             "TOA",
             "WAS"
           ],
-          "changed_count": 1
+          "sold": [
+            "BFT"
+          ],
+          "bought": [
+            "WAS"
+          ],
+          "exec_prices": {
+            "BFT": 6250.0,
+            "WAS": 9.3
+          },
+          "exec_flags": {}
         }
-      ]
+      ],
+      "data_quality_flags": {
+        "holdings": {},
+        "wig": []
+      }
+    },
+    "7_V1_VET_MONTHLY_BUF5_RFVETO": {
+      "registration_type": "RETROACTIVE_BOOTSTRAP",
+      "bootstrap_as_of": "20261120",
+      "review_frequency": "monthly",
+      "rf_veto": true,
+      "live_track_start_signal": "20261016",
+      "live_track_start_exec": "20261019",
+      "as_of": "20261120",
+      "current_holdings": [
+        "ASB",
+        "WAS",
+        "TOA"
+      ],
+      "pending_order": null,
+      "next_review_signal_date": "20261130",
+      "cumulative_gross_return_pct": 4.72,
+      "cumulative_net_return_pct": 3.48,
+      "net_return_pct_by_cost": {
+        "c015": {
+          "mtm": 4.35,
+          "liquidation": 4.19
+        },
+        "c050": {
+          "mtm": 3.48,
+          "liquidation": 2.96
+        }
+      },
+      "wig_return_pct": -4.41,
+      "excess_net_vs_wig_pp": 7.89,
+      "total_trades": 7,
+      "reviews": 2,
+      "rebalance_history": [
+        {
+          "signal_date": "20261016",
+          "signal_source": "20261016",
+          "target": [
+            "ASB",
+            "GPP",
+            "DIG"
+          ],
+          "kept_by_buffer": [],
+          "top_buf_at_signal": [
+            "ASB",
+            "GPP",
+            "DIG",
+            "ACP",
+            "SKH"
+          ],
+          "signal_flags": [],
+          "rf_checks": [],
+          "exec_date": "20261019",
+          "previous_holdings": [],
+          "new_holdings": [
+            "ASB",
+            "GPP",
+            "DIG"
+          ],
+          "sold": [],
+          "bought": [
+            "ASB",
+            "GPP",
+            "DIG"
+          ],
+          "exec_prices": {
+            "ASB": 154.8,
+            "GPP": 53.8,
+            "DIG": 352.0
+          },
+          "exec_flags": {}
+        },
+        {
+          "signal_date": "20261030",
+          "signal_source": "20261030",
+          "target": [
+            "ASB",
+            "WAS",
+            "TOA"
+          ],
+          "kept_by_buffer": [
+            "ASB"
+          ],
+          "top_buf_at_signal": [
+            "ASB",
+            "WAS",
+            "TOA",
+            "LPP",
+            "ACP"
+          ],
+          "signal_flags": [],
+          "rf_checks": [],
+          "exec_date": "20261102",
+          "previous_holdings": [
+            "ASB",
+            "GPP",
+            "DIG"
+          ],
+          "new_holdings": [
+            "ASB",
+            "WAS",
+            "TOA"
+          ],
+          "sold": [
+            "GPP",
+            "DIG"
+          ],
+          "bought": [
+            "WAS",
+            "TOA"
+          ],
+          "exec_prices": {
+            "GPP": 53.7,
+            "DIG": 286.0,
+            "WAS": 6.88,
+            "TOA": 11.2
+          },
+          "exec_flags": {}
+        }
+      ],
+      "data_quality_flags": {
+        "holdings": {},
+        "wig": []
+      }
     }
   },
   "ex_ante_daily_candidates_as_of": {
@@ -358,8 +915,8 @@
     ],
     "2_V2_CORE_SEMI": [
       "CLD",
-      "CBF",
-      "BFT"
+      "ANR",
+      "CBF"
     ],
     "3_V2_MONTHLY_BUF10_RFVETO": [
       "ASB",
@@ -380,6 +937,11 @@
       "ASB",
       "TOA",
       "WAS"
+    ],
+    "7_V1_VET_MONTHLY_BUF5_RFVETO": [
+      "ASB",
+      "WAS",
+      "TOA"
     ],
     "V1_VET_LIQ_PURE_TOP3_TODAY": [
       "BFT",
