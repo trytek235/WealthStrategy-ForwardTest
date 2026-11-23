@@ -1,7 +1,7 @@
 {
-  "signal_date": "20261120",
+  "signal_date": "20261123",
   "liquid_top30_count": 30,
-  "qualifying_forum_pool_count": 13,
+  "qualifying_forum_pool_count": 12,
   "qualified_rolling_authors_count": 50,
   "top3_v2_core": [
     {
@@ -11,112 +11,69 @@
       "sent2": 79.4,
       "uniq90": 5,
       "posts365": 12,
-      "momentum": 10.2,
-      "median_turnover_20d_pln": 408104.0,
-      "close": 108.0,
+      "momentum": 14.74,
+      "median_turnover_20d_pln": 341602.0,
+      "close": 109.0,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "ALL",
+      "name": "ALL",
+      "conv2": 76.4,
+      "sent2": 74.1,
+      "uniq90": 4,
+      "posts365": 22,
+      "momentum": 10.82,
+      "median_turnover_20d_pln": 271299.0,
+      "close": 17.0,
       "red_flags_14d": []
     },
     {
       "ticker": "ANR",
       "name": "ANR",
-      "conv2": 75.0,
-      "sent2": 71.0,
+      "conv2": 74.9,
+      "sent2": 70.8,
       "uniq90": 6,
-      "posts365": 21,
-      "momentum": 3.94,
-      "median_turnover_20d_pln": 257487.0,
-      "close": 22.45,
+      "posts365": 19,
+      "momentum": 10.24,
+      "median_turnover_20d_pln": 229113.0,
+      "close": 22.6,
       "red_flags_14d": []
-    },
-    {
-      "ticker": "CBF",
-      "name": "CBF",
-      "conv2": 72.5,
-      "sent2": 64.1,
-      "uniq90": 25,
-      "posts365": 120,
-      "momentum": 9.78,
-      "median_turnover_20d_pln": 3719539.0,
-      "close": 210.0,
-      "red_flags_14d": [
-        {
-          "date": "20261116",
-          "patterns": [
-            "restrukturyzac"
-          ],
-          "snippet": "Jak dla mnie mocny raport. Przychody i skorygowana EBITDA po +30%, marża utrzymana w okolicach 35%. Zysk dla akcjonariuszy +85%, operacyjny +38%. Jest z czego b"
-        },
-        {
-          "date": "20261116",
-          "patterns": [
-            "restrukturyzac"
-          ],
-          "snippet": "zajete  pisze:  ↑ 16 lis 2026 17:35   Seba_RSI  pisze:  ↑ 16 lis 2026 16:40  Czyli wzrost zn o 60%, licząc wyemitowane akcje, jesli dobrze liczę.    A ja bym ra"
-        },
-        {
-          "date": "20261117",
-          "patterns": [
-            "restrukturyzac"
-          ],
-          "snippet": "Pojawił się komentarz biura maklerskiego mBanku:    Wyniki za 3Q'26 powyżej oczekiwań, pierwsze oszczędności  PrestaShop  Rekomendacja: kupuj | cena docelowa: 2"
-        },
-        {
-          "date": "20261117",
-          "patterns": [
-            "restrukturyzac"
-          ],
-          "snippet": "Seba_RSI  pisze:  ↑ 17 lis 2026 09:25   jacek663  pisze:  ↑ 17 lis 2026 09:08  Warto mieć z tyłu głowy że w Q3 '25 liczba akcji wynosiła 15,3mln a w Q3 '26 już "
-        },
-        {
-          "date": "20261117",
-          "patterns": [
-            "restrukturyzac"
-          ],
-          "snippet": "Konferencja    Obecni: Stasik, Dwernicki, Piecuch, Lewkowicz    - chcemy się rozwijać się mocniej w krajach Europy Zachodniej  - chcemy dbać o europejską suwere"
-        },
-        {
-          "date": "20261117",
-          "patterns": [
-            "restrukturyzac"
-          ],
-          "snippet": "Pozwolę sobie uzupełnić wpis Grzegorza o moje notatki z konferencji, pogłębiające kilka kwestii:    - dużo miejsca poświęcono tematowi  Agentic Commerce , spółk"
-        }
-      ]
     }
   ],
   "top3_v2_rolling_auth": [
-    {
-      "ticker": "CBF",
-      "name": "CBF",
-      "conv_r": 88.1,
-      "sent_r": 65.1,
-      "uniq90": 25,
-      "posts365": 120,
-      "momentum": 9.78,
-      "median_turnover_20d_pln": 3719539.0,
-      "close": 210.0
-    },
     {
       "ticker": "ASB",
       "name": "ASB",
       "conv_r": 86.2,
       "sent_r": 60.7,
-      "uniq90": 33,
-      "posts365": 224,
-      "momentum": 9.26,
+      "uniq90": 34,
+      "posts365": 226,
+      "momentum": 19.11,
       "median_turnover_20d_pln": 47145843.0,
-      "close": 148.6
+      "close": 161.4
     },
     {
       "ticker": "LPP",
       "name": "LPP",
-      "conv_r": 81.0,
+      "conv_r": 80.9,
       "sent_r": 56.8,
       "uniq90": 12,
       "posts365": 74,
-      "momentum": 33.72,
+      "momentum": 35.24,
       "median_turnover_20d_pln": 108108910.0,
-      "close": 27680.0
+      "close": 28400.0
+    },
+    {
+      "ticker": "ALL",
+      "name": "ALL",
+      "conv_r": 80.0,
+      "sent_r": 73.9,
+      "uniq90": 4,
+      "posts365": 22,
+      "momentum": 10.82,
+      "median_turnover_20d_pln": 271299.0,
+      "close": 17.0
     }
   ],
   "top3_v2_monthly_buf10_rfveto": [
@@ -125,28 +82,28 @@
       "name": "ASB",
       "conv2": 71.3,
       "sent2": 60.9,
-      "uniq90": 33,
-      "posts365": 224,
-      "momentum": 9.26,
+      "uniq90": 34,
+      "posts365": 226,
+      "momentum": 19.11,
       "median_turnover_20d_pln": 47145843.0,
-      "close": 148.6,
+      "close": 161.4,
       "red_flags_14d": [],
       "buffer_kept": true,
-      "rank_in_v2": 5
+      "rank_in_v2": 4
     },
     {
       "ticker": "ANR",
       "name": "ANR",
-      "conv2": 75.0,
-      "sent2": 71.0,
+      "conv2": 74.9,
+      "sent2": 70.8,
       "uniq90": 6,
-      "posts365": 21,
-      "momentum": 3.94,
-      "median_turnover_20d_pln": 257487.0,
-      "close": 22.45,
+      "posts365": 19,
+      "momentum": 10.24,
+      "median_turnover_20d_pln": 229113.0,
+      "close": 22.6,
       "red_flags_14d": [],
       "buffer_kept": true,
-      "rank_in_v2": 2
+      "rank_in_v2": 3
     },
     {
       "ticker": "CLD",
@@ -155,9 +112,9 @@
       "sent2": 79.4,
       "uniq90": 5,
       "posts365": 12,
-      "momentum": 10.2,
-      "median_turnover_20d_pln": 408104.0,
-      "close": 108.0,
+      "momentum": 14.74,
+      "median_turnover_20d_pln": 341602.0,
+      "close": 109.0,
       "red_flags_14d": [],
       "buffer_kept": true,
       "rank_in_v2": 1
@@ -168,57 +125,62 @@
       "ticker": "BFT",
       "name": "BFT",
       "conv1": 99.0,
-      "sent1": 95.6,
-      "posts365": 56,
-      "momentum": 14.57,
-      "median_turnover_20d_pln": 43314898.0,
-      "close": 6250.0,
+      "sent1": 87.0,
+      "posts365": 62,
+      "momentum": 18.48,
+      "median_turnover_20d_pln": 44228620.0,
+      "close": 6475.0,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "ALL",
+      "name": "ALL",
+      "conv1": 99.0,
+      "sent1": 87.8,
+      "posts365": 22,
+      "momentum": 10.82,
+      "median_turnover_20d_pln": 271299.0,
+      "close": 17.0,
       "red_flags_14d": []
     },
     {
       "ticker": "ASB",
       "name": "ASB",
-      "conv1": 97.4,
-      "sent1": 78.4,
-      "posts365": 224,
-      "momentum": 9.26,
+      "conv1": 97.1,
+      "sent1": 77.9,
+      "posts365": 226,
+      "momentum": 19.11,
       "median_turnover_20d_pln": 47145843.0,
-      "close": 148.6,
+      "close": 161.4,
       "red_flags_14d": []
-    },
-    {
-      "ticker": "4MS",
-      "name": "4MS",
-      "conv1": 95.8,
-      "sent1": 76.5,
-      "posts365": 61,
-      "momentum": 9.09,
-      "median_turnover_20d_pln": 126214.0,
-      "close": 6.0,
-      "red_flags_14d": [
-        {
-          "date": "20261109",
-          "patterns": [
-            "restrukturyzac"
-          ],
-          "snippet": "Z racji, że jestem z okolicy to wpadłem dzisiaj na pewien pomysł a chodzi o to, że obiektem przejęcia może być gorzowski Silcare. Podsumowanie AI mojej tezy: Ab"
-        }
-      ]
     }
   ],
   "top3_v1_vet_liq_buf5": [
     {
       "ticker": "ASB",
       "name": "ASB",
-      "conv1": 97.4,
-      "sent1": 78.4,
-      "posts365": 224,
-      "momentum": 9.26,
+      "conv1": 97.1,
+      "sent1": 77.9,
+      "posts365": 226,
+      "momentum": 19.11,
       "median_turnover_20d_pln": 47145843.0,
-      "close": 148.6,
+      "close": 161.4,
       "red_flags_14d": [],
       "buffer_kept": true,
-      "rank_in_v1_liq": 2
+      "rank_in_v1_liq": 3
+    },
+    {
+      "ticker": "TOA",
+      "name": "TOA",
+      "conv1": 93.3,
+      "sent1": 85.2,
+      "posts365": 38,
+      "momentum": 23.05,
+      "median_turnover_20d_pln": 922115.0,
+      "close": 12.92,
+      "red_flags_14d": [],
+      "buffer_kept": true,
+      "rank_in_v1_liq": 5
     },
     {
       "ticker": "WAS",
@@ -226,25 +188,12 @@
       "conv1": 95.8,
       "sent1": 89.6,
       "posts365": 11,
-      "momentum": 52.41,
-      "median_turnover_20d_pln": 1855383.0,
-      "close": 8.84,
+      "momentum": 62.37,
+      "median_turnover_20d_pln": 2049627.0,
+      "close": 9.32,
       "red_flags_14d": [],
       "buffer_kept": true,
       "rank_in_v1_liq": 4
-    },
-    {
-      "ticker": "BFT",
-      "name": "BFT",
-      "conv1": 99.0,
-      "sent1": 95.6,
-      "posts365": 56,
-      "momentum": 14.57,
-      "median_turnover_20d_pln": 43314898.0,
-      "close": 6250.0,
-      "red_flags_14d": [],
-      "buffer_kept": false,
-      "rank_in_v1_liq": 1
     }
   ],
   "top10_v1_vet_liq": [
@@ -252,42 +201,34 @@
       "ticker": "BFT",
       "name": "BFT",
       "conv1": 99.0,
-      "sent1": 95.6,
-      "posts365": 56,
-      "momentum": 14.57,
-      "median_turnover_20d_pln": 43314898.0,
-      "close": 6250.0,
+      "sent1": 87.0,
+      "posts365": 62,
+      "momentum": 18.48,
+      "median_turnover_20d_pln": 44228620.0,
+      "close": 6475.0,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "ALL",
+      "name": "ALL",
+      "conv1": 99.0,
+      "sent1": 87.8,
+      "posts365": 22,
+      "momentum": 10.82,
+      "median_turnover_20d_pln": 271299.0,
+      "close": 17.0,
       "red_flags_14d": []
     },
     {
       "ticker": "ASB",
       "name": "ASB",
-      "conv1": 97.4,
-      "sent1": 78.4,
-      "posts365": 224,
-      "momentum": 9.26,
+      "conv1": 97.1,
+      "sent1": 77.9,
+      "posts365": 226,
+      "momentum": 19.11,
       "median_turnover_20d_pln": 47145843.0,
-      "close": 148.6,
+      "close": 161.4,
       "red_flags_14d": []
-    },
-    {
-      "ticker": "4MS",
-      "name": "4MS",
-      "conv1": 95.8,
-      "sent1": 76.5,
-      "posts365": 61,
-      "momentum": 9.09,
-      "median_turnover_20d_pln": 126214.0,
-      "close": 6.0,
-      "red_flags_14d": [
-        {
-          "date": "20261109",
-          "patterns": [
-            "restrukturyzac"
-          ],
-          "snippet": "Z racji, że jestem z okolicy to wpadłem dzisiaj na pewien pomysł a chodzi o to, że obiektem przejęcia może być gorzowski Silcare. Podsumowanie AI mojej tezy: Ab"
-        }
-      ]
     },
     {
       "ticker": "WAS",
@@ -295,20 +236,9 @@
       "conv1": 95.8,
       "sent1": 89.6,
       "posts365": 11,
-      "momentum": 52.41,
-      "median_turnover_20d_pln": 1855383.0,
-      "close": 8.84,
-      "red_flags_14d": []
-    },
-    {
-      "ticker": "ANR",
-      "name": "ANR",
-      "conv1": 93.7,
-      "sent1": 75.1,
-      "posts365": 21,
-      "momentum": 3.94,
-      "median_turnover_20d_pln": 257487.0,
-      "close": 22.45,
+      "momentum": 62.37,
+      "median_turnover_20d_pln": 2049627.0,
+      "close": 9.32,
       "red_flags_14d": []
     },
     {
@@ -317,64 +247,10 @@
       "conv1": 93.3,
       "sent1": 85.2,
       "posts365": 38,
-      "momentum": 31.94,
+      "momentum": 23.05,
       "median_turnover_20d_pln": 922115.0,
-      "close": 12.6,
+      "close": 12.92,
       "red_flags_14d": []
-    },
-    {
-      "ticker": "CBF",
-      "name": "CBF",
-      "conv1": 92.7,
-      "sent1": 69.9,
-      "posts365": 120,
-      "momentum": 9.78,
-      "median_turnover_20d_pln": 3719539.0,
-      "close": 210.0,
-      "red_flags_14d": [
-        {
-          "date": "20261116",
-          "patterns": [
-            "restrukturyzac"
-          ],
-          "snippet": "Jak dla mnie mocny raport. Przychody i skorygowana EBITDA po +30%, marża utrzymana w okolicach 35%. Zysk dla akcjonariuszy +85%, operacyjny +38%. Jest z czego b"
-        },
-        {
-          "date": "20261116",
-          "patterns": [
-            "restrukturyzac"
-          ],
-          "snippet": "zajete  pisze:  ↑ 16 lis 2026 17:35   Seba_RSI  pisze:  ↑ 16 lis 2026 16:40  Czyli wzrost zn o 60%, licząc wyemitowane akcje, jesli dobrze liczę.    A ja bym ra"
-        },
-        {
-          "date": "20261117",
-          "patterns": [
-            "restrukturyzac"
-          ],
-          "snippet": "Pojawił się komentarz biura maklerskiego mBanku:    Wyniki za 3Q'26 powyżej oczekiwań, pierwsze oszczędności  PrestaShop  Rekomendacja: kupuj | cena docelowa: 2"
-        },
-        {
-          "date": "20261117",
-          "patterns": [
-            "restrukturyzac"
-          ],
-          "snippet": "Seba_RSI  pisze:  ↑ 17 lis 2026 09:25   jacek663  pisze:  ↑ 17 lis 2026 09:08  Warto mieć z tyłu głowy że w Q3 '25 liczba akcji wynosiła 15,3mln a w Q3 '26 już "
-        },
-        {
-          "date": "20261117",
-          "patterns": [
-            "restrukturyzac"
-          ],
-          "snippet": "Konferencja    Obecni: Stasik, Dwernicki, Piecuch, Lewkowicz    - chcemy się rozwijać się mocniej w krajach Europy Zachodniej  - chcemy dbać o europejską suwere"
-        },
-        {
-          "date": "20261117",
-          "patterns": [
-            "restrukturyzac"
-          ],
-          "snippet": "Pozwolę sobie uzupełnić wpis Grzegorza o moje notatki z konferencji, pogłębiające kilka kwestii:    - dużo miejsca poświęcono tematowi  Agentic Commerce , spółk"
-        }
-      ]
     },
     {
       "ticker": "LPP",
@@ -382,9 +258,20 @@
       "conv1": 88.6,
       "sent1": 64.2,
       "posts365": 74,
-      "momentum": 33.72,
+      "momentum": 35.24,
       "median_turnover_20d_pln": 108108910.0,
-      "close": 27680.0,
+      "close": 28400.0,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "MBR",
+      "name": "MBR",
+      "conv1": 78.9,
+      "sent1": 53.2,
+      "posts365": 94,
+      "momentum": 6.28,
+      "median_turnover_20d_pln": 1687580.0,
+      "close": 414.5,
       "red_flags_14d": []
     },
     {
@@ -392,10 +279,10 @@
       "name": "KGN",
       "conv1": 77.8,
       "sent1": 52.4,
-      "posts365": 163,
-      "momentum": 29.8,
-      "median_turnover_20d_pln": 663576.0,
-      "close": 90.6,
+      "posts365": 159,
+      "momentum": 32.76,
+      "median_turnover_20d_pln": 691610.0,
+      "close": 92.0,
       "red_flags_14d": []
     },
     {
@@ -404,9 +291,20 @@
       "conv1": 76.1,
       "sent1": 71.7,
       "posts365": 12,
-      "momentum": 10.2,
-      "median_turnover_20d_pln": 408104.0,
-      "close": 108.0,
+      "momentum": 14.74,
+      "median_turnover_20d_pln": 341602.0,
+      "close": 109.0,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "CDR",
+      "name": "CDR",
+      "conv1": 72.2,
+      "sent1": 50.1,
+      "posts365": 132,
+      "momentum": 13.78,
+      "median_turnover_20d_pln": 73819431.0,
+      "close": 269.1,
       "red_flags_14d": []
     }
   ],
@@ -420,9 +318,21 @@
       "sent2": 55.5,
       "uniq90": 12,
       "posts365": 74,
-      "momentum": 33.72,
+      "momentum": 35.24,
       "median_turnover_20d_pln": 108108910.0,
-      "close": 27680.0,
+      "close": 28400.0,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "KGN",
+      "name": "KGN",
+      "conv2": 45.4,
+      "sent2": 41.4,
+      "uniq90": 11,
+      "posts365": 159,
+      "momentum": 32.76,
+      "median_turnover_20d_pln": 691610.0,
+      "close": 92.0,
       "red_flags_14d": []
     },
     {
@@ -432,21 +342,9 @@
       "sent2": 54.7,
       "uniq90": 6,
       "posts365": 38,
-      "momentum": 31.94,
+      "momentum": 23.05,
       "median_turnover_20d_pln": 922115.0,
-      "close": 12.6,
-      "red_flags_14d": []
-    },
-    {
-      "ticker": "KGN",
-      "name": "KGN",
-      "conv2": 45.4,
-      "sent2": 41.4,
-      "uniq90": 11,
-      "posts365": 163,
-      "momentum": 29.8,
-      "median_turnover_20d_pln": 663576.0,
-      "close": 90.6,
+      "close": 12.92,
       "red_flags_14d": []
     }
   ],
@@ -454,23 +352,23 @@
     {
       "ticker": "NTT",
       "name": "NTT",
-      "momentum": 95.08,
-      "median_turnover_20d_pln": 4733609.0,
-      "close": 31.7
+      "momentum": 118.3,
+      "median_turnover_20d_pln": 4686133.0,
+      "close": 34.6
     },
     {
       "ticker": "WAS",
       "name": "WAS",
-      "momentum": 52.41,
-      "median_turnover_20d_pln": 1855383.0,
-      "close": 8.84
+      "momentum": 62.37,
+      "median_turnover_20d_pln": 2049627.0,
+      "close": 9.32
     },
     {
-      "ticker": "PGE",
-      "name": "PGE",
-      "momentum": 47.96,
-      "median_turnover_20d_pln": 42382279.0,
-      "close": 15.595
+      "ticker": "ALE",
+      "name": "ALE",
+      "momentum": 49.24,
+      "median_turnover_20d_pln": 309072265.0,
+      "close": 67.68
     }
   ],
   "full_qualifying_ranking_v2_core": [
@@ -481,88 +379,33 @@
       "sent2": 79.4,
       "uniq90": 5,
       "posts365": 12,
-      "momentum": 10.2,
-      "median_turnover_20d_pln": 408104.0,
-      "close": 108.0,
+      "momentum": 14.74,
+      "median_turnover_20d_pln": 341602.0,
+      "close": 109.0,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "ALL",
+      "name": "ALL",
+      "conv2": 76.4,
+      "sent2": 74.1,
+      "uniq90": 4,
+      "posts365": 22,
+      "momentum": 10.82,
+      "median_turnover_20d_pln": 271299.0,
+      "close": 17.0,
       "red_flags_14d": []
     },
     {
       "ticker": "ANR",
       "name": "ANR",
-      "conv2": 75.0,
-      "sent2": 71.0,
+      "conv2": 74.9,
+      "sent2": 70.8,
       "uniq90": 6,
-      "posts365": 21,
-      "momentum": 3.94,
-      "median_turnover_20d_pln": 257487.0,
-      "close": 22.45,
-      "red_flags_14d": []
-    },
-    {
-      "ticker": "CBF",
-      "name": "CBF",
-      "conv2": 72.5,
-      "sent2": 64.1,
-      "uniq90": 25,
-      "posts365": 120,
-      "momentum": 9.78,
-      "median_turnover_20d_pln": 3719539.0,
-      "close": 210.0,
-      "red_flags_14d": [
-        {
-          "date": "20261116",
-          "patterns": [
-            "restrukturyzac"
-          ],
-          "snippet": "Jak dla mnie mocny raport. Przychody i skorygowana EBITDA po +30%, marża utrzymana w okolicach 35%. Zysk dla akcjonariuszy +85%, operacyjny +38%. Jest z czego b"
-        },
-        {
-          "date": "20261116",
-          "patterns": [
-            "restrukturyzac"
-          ],
-          "snippet": "zajete  pisze:  ↑ 16 lis 2026 17:35   Seba_RSI  pisze:  ↑ 16 lis 2026 16:40  Czyli wzrost zn o 60%, licząc wyemitowane akcje, jesli dobrze liczę.    A ja bym ra"
-        },
-        {
-          "date": "20261117",
-          "patterns": [
-            "restrukturyzac"
-          ],
-          "snippet": "Pojawił się komentarz biura maklerskiego mBanku:    Wyniki za 3Q'26 powyżej oczekiwań, pierwsze oszczędności  PrestaShop  Rekomendacja: kupuj | cena docelowa: 2"
-        },
-        {
-          "date": "20261117",
-          "patterns": [
-            "restrukturyzac"
-          ],
-          "snippet": "Seba_RSI  pisze:  ↑ 17 lis 2026 09:25   jacek663  pisze:  ↑ 17 lis 2026 09:08  Warto mieć z tyłu głowy że w Q3 '25 liczba akcji wynosiła 15,3mln a w Q3 '26 już "
-        },
-        {
-          "date": "20261117",
-          "patterns": [
-            "restrukturyzac"
-          ],
-          "snippet": "Konferencja    Obecni: Stasik, Dwernicki, Piecuch, Lewkowicz    - chcemy się rozwijać się mocniej w krajach Europy Zachodniej  - chcemy dbać o europejską suwere"
-        },
-        {
-          "date": "20261117",
-          "patterns": [
-            "restrukturyzac"
-          ],
-          "snippet": "Pozwolę sobie uzupełnić wpis Grzegorza o moje notatki z konferencji, pogłębiające kilka kwestii:    - dużo miejsca poświęcono tematowi  Agentic Commerce , spółk"
-        }
-      ]
-    },
-    {
-      "ticker": "BFT",
-      "name": "BFT",
-      "conv2": 72.3,
-      "sent2": 64.8,
-      "uniq90": 18,
-      "posts365": 56,
-      "momentum": 14.57,
-      "median_turnover_20d_pln": 43314898.0,
-      "close": 6250.0,
+      "posts365": 19,
+      "momentum": 10.24,
+      "median_turnover_20d_pln": 229113.0,
+      "close": 22.6,
       "red_flags_14d": []
     },
     {
@@ -570,11 +413,23 @@
       "name": "ASB",
       "conv2": 71.3,
       "sent2": 60.9,
-      "uniq90": 33,
-      "posts365": 224,
-      "momentum": 9.26,
+      "uniq90": 34,
+      "posts365": 226,
+      "momentum": 19.11,
       "median_turnover_20d_pln": 47145843.0,
-      "close": 148.6,
+      "close": 161.4,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "BFT",
+      "name": "BFT",
+      "conv2": 70.6,
+      "sent2": 62.0,
+      "uniq90": 21,
+      "posts365": 62,
+      "momentum": 18.48,
+      "median_turnover_20d_pln": 44228620.0,
+      "close": 6475.0,
       "red_flags_14d": []
     },
     {
@@ -584,9 +439,9 @@
       "sent2": 59.1,
       "uniq90": 9,
       "posts365": 29,
-      "momentum": 8.05,
+      "momentum": 9.61,
       "median_turnover_20d_pln": 1312436.0,
-      "close": 145.0,
+      "close": 146.0,
       "red_flags_14d": []
     },
     {
@@ -596,9 +451,9 @@
       "sent2": 55.5,
       "uniq90": 12,
       "posts365": 74,
-      "momentum": 33.72,
+      "momentum": 35.24,
       "median_turnover_20d_pln": 108108910.0,
-      "close": 27680.0,
+      "close": 28400.0,
       "red_flags_14d": []
     },
     {
@@ -608,53 +463,33 @@
       "sent2": 54.7,
       "uniq90": 6,
       "posts365": 38,
-      "momentum": 31.94,
+      "momentum": 23.05,
       "median_turnover_20d_pln": 922115.0,
-      "close": 12.6,
+      "close": 12.92,
       "red_flags_14d": []
-    },
-    {
-      "ticker": "4MS",
-      "name": "4MS",
-      "conv2": 62.2,
-      "sent2": 53.0,
-      "uniq90": 13,
-      "posts365": 61,
-      "momentum": 9.09,
-      "median_turnover_20d_pln": 126214.0,
-      "close": 6.0,
-      "red_flags_14d": [
-        {
-          "date": "20261109",
-          "patterns": [
-            "restrukturyzac"
-          ],
-          "snippet": "Z racji, że jestem z okolicy to wpadłem dzisiaj na pewien pomysł a chodzi o to, że obiektem przejęcia może być gorzowski Silcare. Podsumowanie AI mojej tezy: Ab"
-        }
-      ]
     },
     {
       "ticker": "MBR",
       "name": "MBR",
-      "conv2": 62.1,
-      "sent2": 53.0,
-      "uniq90": 23,
-      "posts365": 96,
-      "momentum": 13.66,
-      "median_turnover_20d_pln": 1544302.0,
-      "close": 412.0,
+      "conv2": 61.9,
+      "sent2": 52.8,
+      "uniq90": 24,
+      "posts365": 94,
+      "momentum": 6.28,
+      "median_turnover_20d_pln": 1687580.0,
+      "close": 414.5,
       "red_flags_14d": []
     },
     {
       "ticker": "CDR",
       "name": "CDR",
-      "conv2": 61.8,
-      "sent2": 52.7,
-      "uniq90": 25,
-      "posts365": 131,
-      "momentum": 5.93,
-      "median_turnover_20d_pln": 65870530.0,
-      "close": 257.3,
+      "conv2": 61.6,
+      "sent2": 52.6,
+      "uniq90": 26,
+      "posts365": 132,
+      "momentum": 13.78,
+      "median_turnover_20d_pln": 73819431.0,
+      "close": 269.1,
       "red_flags_14d": []
     },
     {
@@ -663,22 +498,22 @@
       "conv2": 45.4,
       "sent2": 41.4,
       "uniq90": 11,
-      "posts365": 163,
-      "momentum": 29.8,
-      "median_turnover_20d_pln": 663576.0,
-      "close": 90.6,
+      "posts365": 159,
+      "momentum": 32.76,
+      "median_turnover_20d_pln": 691610.0,
+      "close": 92.0,
       "red_flags_14d": []
     },
     {
       "ticker": "PAS",
       "name": "PAS",
-      "conv2": 31.6,
-      "sent2": 22.6,
+      "conv2": 31.5,
+      "sent2": 22.5,
       "uniq90": 14,
-      "posts365": 61,
-      "momentum": 11.61,
-      "median_turnover_20d_pln": 776462.0,
-      "close": 148.0,
+      "posts365": 60,
+      "momentum": 14.46,
+      "median_turnover_20d_pln": 756326.0,
+      "close": 153.6,
       "red_flags_14d": []
     }
   ],
@@ -694,6 +529,6 @@
     "6_V1_VET_WEEKLY_BUF5",
     "7_V1_VET_MONTHLY_BUF5_RFVETO"
   ],
-  "wig_close": 151743.6719,
-  "last_entry_hash": "6086d6e1eb9329f48512a744096b8b77821f782a39fb6a75b52b150e994f8e7b"
+  "wig_close": 156509.2031,
+  "last_entry_hash": "dc1df03f33055fee783db92445494c9f82b1460980c0ebe4dc38beb1552296cf"
 }

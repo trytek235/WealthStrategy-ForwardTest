@@ -11,7 +11,7 @@
     "6_V1_VET_WEEKLY_BUF5",
     "7_V1_VET_MONTHLY_BUF5_RFVETO"
   ],
-  "updated": "20261120",
+  "updated": "20261123",
   "cost_levels_reported_pct": {
     "c015": 0.15,
     "c050": 0.5
@@ -35,49 +35,49 @@
           "DIG"
         ],
         "entry_date": "20260925",
-        "as_of": "20261120",
+        "as_of": "20261123",
         "entry_prices": {
           "DAD": 97.4,
           "LPP": 24900.0,
           "DIG": 385.0
         },
         "current_prices": {
-          "DAD": 80.0,
-          "LPP": 27680.0,
-          "DIG": 271.0
+          "DAD": 76.1,
+          "LPP": 28400.0,
+          "DIG": 272.2
         },
         "ticker_returns_pct": {
-          "DAD": -17.86,
-          "LPP": 11.16,
-          "DIG": -29.61
+          "DAD": -21.87,
+          "LPP": 14.06,
+          "DIG": -29.3
         },
         "priced_tickers_count": 3,
-        "portfolio_gross_return_pct": -12.1,
-        "portfolio_net_return_pct": -12.54,
+        "portfolio_gross_return_pct": -12.37,
+        "portfolio_net_return_pct": -12.81,
         "costs": {
           "gross": {
             "one_way_cost_pct": 0.0,
-            "net_after_entry_pct": -12.1,
-            "liquidation_net_pct": -12.1
+            "net_after_entry_pct": -12.37,
+            "liquidation_net_pct": -12.37
           },
           "c015": {
             "one_way_cost_pct": 0.15,
-            "net_after_entry_pct": -12.24,
-            "liquidation_net_pct": -12.37
+            "net_after_entry_pct": -12.5,
+            "liquidation_net_pct": -12.63
           },
           "c050": {
             "one_way_cost_pct": 0.5,
-            "net_after_entry_pct": -12.54,
-            "liquidation_net_pct": -12.98
+            "net_after_entry_pct": -12.81,
+            "liquidation_net_pct": -13.24
           },
           "spec": {
             "one_way_cost_pct": 0.5,
-            "net_after_entry_pct": -12.54,
-            "liquidation_net_pct": -12.98
+            "net_after_entry_pct": -12.81,
+            "liquidation_net_pct": -13.24
           }
         },
-        "wig_return_pct": -3.45,
-        "excess_net_vs_wig_pp": -9.09,
+        "wig_return_pct": -0.42,
+        "excess_net_vs_wig_pp": -12.39,
         "data_quality_flags": {
           "tickers": {},
           "wig": [
@@ -92,49 +92,49 @@
           "ASB"
         ],
         "entry_date": "20260925",
-        "as_of": "20261120",
+        "as_of": "20261123",
         "entry_prices": {
           "DAD": 97.4,
           "APR": 30.0,
           "ASB": 173.7
         },
         "current_prices": {
-          "DAD": 80.0,
-          "APR": 27.6,
-          "ASB": 148.6
+          "DAD": 76.1,
+          "APR": 27.8,
+          "ASB": 161.4
         },
         "ticker_returns_pct": {
-          "DAD": -17.86,
-          "APR": -8.0,
-          "ASB": -14.45
+          "DAD": -21.87,
+          "APR": -7.33,
+          "ASB": -7.08
         },
         "priced_tickers_count": 3,
-        "portfolio_gross_return_pct": -13.44,
-        "portfolio_net_return_pct": -13.87,
+        "portfolio_gross_return_pct": -12.09,
+        "portfolio_net_return_pct": -12.53,
         "costs": {
           "gross": {
             "one_way_cost_pct": 0.0,
-            "net_after_entry_pct": -13.44,
-            "liquidation_net_pct": -13.44
+            "net_after_entry_pct": -12.09,
+            "liquidation_net_pct": -12.09
           },
           "c015": {
             "one_way_cost_pct": 0.15,
-            "net_after_entry_pct": -13.57,
-            "liquidation_net_pct": -13.7
+            "net_after_entry_pct": -12.23,
+            "liquidation_net_pct": -12.36
           },
           "c050": {
             "one_way_cost_pct": 0.5,
-            "net_after_entry_pct": -13.87,
-            "liquidation_net_pct": -14.3
+            "net_after_entry_pct": -12.53,
+            "liquidation_net_pct": -12.97
           },
           "spec": {
             "one_way_cost_pct": 0.5,
-            "net_after_entry_pct": -13.87,
-            "liquidation_net_pct": -14.3
+            "net_after_entry_pct": -12.53,
+            "liquidation_net_pct": -12.97
           }
         },
-        "wig_return_pct": -3.45,
-        "excess_net_vs_wig_pp": -10.42,
+        "wig_return_pct": -0.42,
+        "excess_net_vs_wig_pp": -12.11,
         "data_quality_flags": {
           "tickers": {},
           "wig": [
@@ -149,49 +149,49 @@
           "ENG"
         ],
         "entry_date": "20260925",
-        "as_of": "20261120",
+        "as_of": "20261123",
         "entry_prices": {
           "ASB": 173.7,
           "S2B": 68.8,
           "ENG": 27.35
         },
         "current_prices": {
-          "ASB": 148.6,
-          "S2B": 51.1,
+          "ASB": 161.4,
+          "S2B": 53.08,
           "ENG": 27.45
         },
         "ticker_returns_pct": {
-          "ASB": -14.45,
-          "S2B": -25.73,
+          "ASB": -7.08,
+          "S2B": -22.85,
           "ENG": 0.37
         },
         "priced_tickers_count": 3,
-        "portfolio_gross_return_pct": -13.27,
-        "portfolio_net_return_pct": -13.7,
+        "portfolio_gross_return_pct": -9.85,
+        "portfolio_net_return_pct": -10.31,
         "costs": {
           "gross": {
             "one_way_cost_pct": 0.0,
-            "net_after_entry_pct": -13.27,
-            "liquidation_net_pct": -13.27
+            "net_after_entry_pct": -9.85,
+            "liquidation_net_pct": -9.85
           },
           "c015": {
             "one_way_cost_pct": 0.15,
-            "net_after_entry_pct": -13.4,
-            "liquidation_net_pct": -13.53
+            "net_after_entry_pct": -9.99,
+            "liquidation_net_pct": -10.13
           },
           "c050": {
             "one_way_cost_pct": 0.5,
-            "net_after_entry_pct": -13.7,
-            "liquidation_net_pct": -14.14
+            "net_after_entry_pct": -10.31,
+            "liquidation_net_pct": -10.75
           },
           "spec": {
             "one_way_cost_pct": 0.5,
-            "net_after_entry_pct": -13.7,
-            "liquidation_net_pct": -14.14
+            "net_after_entry_pct": -10.31,
+            "liquidation_net_pct": -10.75
           }
         },
-        "wig_return_pct": -3.45,
-        "excess_net_vs_wig_pp": -10.25,
+        "wig_return_pct": -0.42,
+        "excess_net_vs_wig_pp": -9.89,
         "data_quality_flags": {
           "tickers": {},
           "wig": [
@@ -206,49 +206,49 @@
           "ENG"
         ],
         "entry_date": "20260925",
-        "as_of": "20261120",
+        "as_of": "20261123",
         "entry_prices": {
           "ASB": 173.7,
           "S2B": 68.8,
           "ENG": 27.35
         },
         "current_prices": {
-          "ASB": 148.6,
-          "S2B": 51.1,
+          "ASB": 161.4,
+          "S2B": 53.08,
           "ENG": 27.45
         },
         "ticker_returns_pct": {
-          "ASB": -14.45,
-          "S2B": -25.73,
+          "ASB": -7.08,
+          "S2B": -22.85,
           "ENG": 0.37
         },
         "priced_tickers_count": 3,
-        "portfolio_gross_return_pct": -13.27,
-        "portfolio_net_return_pct": -13.7,
+        "portfolio_gross_return_pct": -9.85,
+        "portfolio_net_return_pct": -10.31,
         "costs": {
           "gross": {
             "one_way_cost_pct": 0.0,
-            "net_after_entry_pct": -13.27,
-            "liquidation_net_pct": -13.27
+            "net_after_entry_pct": -9.85,
+            "liquidation_net_pct": -9.85
           },
           "c015": {
             "one_way_cost_pct": 0.15,
-            "net_after_entry_pct": -13.4,
-            "liquidation_net_pct": -13.53
+            "net_after_entry_pct": -9.99,
+            "liquidation_net_pct": -10.13
           },
           "c050": {
             "one_way_cost_pct": 0.5,
-            "net_after_entry_pct": -13.7,
-            "liquidation_net_pct": -14.14
+            "net_after_entry_pct": -10.31,
+            "liquidation_net_pct": -10.75
           },
           "spec": {
             "one_way_cost_pct": 0.5,
-            "net_after_entry_pct": -13.7,
-            "liquidation_net_pct": -14.14
+            "net_after_entry_pct": -10.31,
+            "liquidation_net_pct": -10.75
           }
         },
-        "wig_return_pct": -3.45,
-        "excess_net_vs_wig_pp": -10.25,
+        "wig_return_pct": -0.42,
+        "excess_net_vs_wig_pp": -9.89,
         "data_quality_flags": {
           "tickers": {},
           "wig": [
@@ -272,49 +272,49 @@
         "CLD"
       ],
       "entry_date": "20261102",
-      "as_of": "20261120",
+      "as_of": "20261123",
       "entry_prices": {
         "ASB": 157.2,
         "ANR": 23.5,
         "CLD": 110.0
       },
       "current_prices": {
-        "ASB": 148.6,
-        "ANR": 22.45,
-        "CLD": 108.0
+        "ASB": 161.4,
+        "ANR": 22.6,
+        "CLD": 109.0
       },
       "ticker_returns_pct": {
-        "ASB": -5.47,
-        "ANR": -4.47,
-        "CLD": -1.82
+        "ASB": 2.67,
+        "ANR": -3.83,
+        "CLD": -0.91
       },
       "priced_tickers_count": 3,
-      "portfolio_gross_return_pct": -3.92,
-      "portfolio_net_return_pct": -4.4,
+      "portfolio_gross_return_pct": -0.69,
+      "portfolio_net_return_pct": -1.19,
       "costs": {
         "gross": {
           "one_way_cost_pct": 0.0,
-          "net_after_entry_pct": -3.92,
-          "liquidation_net_pct": -3.92
+          "net_after_entry_pct": -0.69,
+          "liquidation_net_pct": -0.69
         },
         "c015": {
           "one_way_cost_pct": 0.15,
-          "net_after_entry_pct": -4.06,
-          "liquidation_net_pct": -4.21
+          "net_after_entry_pct": -0.84,
+          "liquidation_net_pct": -0.99
         },
         "c050": {
           "one_way_cost_pct": 0.5,
-          "net_after_entry_pct": -4.4,
-          "liquidation_net_pct": -4.88
+          "net_after_entry_pct": -1.19,
+          "liquidation_net_pct": -1.68
         },
         "spec": {
           "one_way_cost_pct": 0.5,
-          "net_after_entry_pct": -4.4,
-          "liquidation_net_pct": -4.88
+          "net_after_entry_pct": -1.19,
+          "liquidation_net_pct": -1.68
         }
       },
-      "wig_return_pct": -2.97,
-      "excess_net_vs_wig_pp": -1.43,
+      "wig_return_pct": 0.08,
+      "excess_net_vs_wig_pp": -1.27,
       "data_quality_flags": {
         "tickers": {},
         "wig": []
@@ -326,12 +326,12 @@
     "state_source": "bootstrap",
     "4_V1_VET_MONTHLY_BUF5": {
       "registration_type": "RETROACTIVE_BOOTSTRAP",
-      "bootstrap_as_of": "20261120",
+      "bootstrap_as_of": "20261123",
       "review_frequency": "monthly",
       "rf_veto": false,
       "live_track_start_signal": "20261016",
       "live_track_start_exec": "20261019",
-      "as_of": "20261120",
+      "as_of": "20261123",
       "current_holdings": [
         "ASB",
         "WAS",
@@ -339,20 +339,20 @@
       ],
       "pending_order": null,
       "next_review_signal_date": "20261130",
-      "cumulative_gross_return_pct": 4.72,
-      "cumulative_net_return_pct": 3.48,
+      "cumulative_gross_return_pct": 10.45,
+      "cumulative_net_return_pct": 9.14,
       "net_return_pct_by_cost": {
         "c015": {
-          "mtm": 4.35,
-          "liquidation": 4.19
+          "mtm": 10.05,
+          "liquidation": 9.89
         },
         "c050": {
-          "mtm": 3.48,
-          "liquidation": 2.96
+          "mtm": 9.14,
+          "liquidation": 8.6
         }
       },
-      "wig_return_pct": -4.41,
-      "excess_net_vs_wig_pp": 7.89,
+      "wig_return_pct": -1.4,
+      "excess_net_vs_wig_pp": 10.54,
       "total_trades": 7,
       "reviews": 2,
       "rebalance_history": [
@@ -449,12 +449,12 @@
     },
     "5_V1_VET_BIWEEKLY_BUF5": {
       "registration_type": "RETROACTIVE_BOOTSTRAP",
-      "bootstrap_as_of": "20261120",
+      "bootstrap_as_of": "20261123",
       "review_frequency": "biweekly",
       "rf_veto": false,
       "live_track_start_signal": "20261016",
       "live_track_start_exec": "20261019",
-      "as_of": "20261120",
+      "as_of": "20261123",
       "current_holdings": [
         "ASB",
         "WAS",
@@ -462,20 +462,20 @@
       ],
       "pending_order": null,
       "next_review_signal_date": "20261127",
-      "cumulative_gross_return_pct": 4.72,
-      "cumulative_net_return_pct": 3.48,
+      "cumulative_gross_return_pct": 10.45,
+      "cumulative_net_return_pct": 9.14,
       "net_return_pct_by_cost": {
         "c015": {
-          "mtm": 4.35,
-          "liquidation": 4.19
+          "mtm": 10.05,
+          "liquidation": 9.89
         },
         "c050": {
-          "mtm": 3.48,
-          "liquidation": 2.96
+          "mtm": 9.14,
+          "liquidation": 8.6
         }
       },
-      "wig_return_pct": -4.41,
-      "excess_net_vs_wig_pp": 7.89,
+      "wig_return_pct": -1.4,
+      "excess_net_vs_wig_pp": 10.54,
       "total_trades": 7,
       "reviews": 3,
       "rebalance_history": [
@@ -572,12 +572,12 @@
     },
     "6_V1_VET_WEEKLY_BUF5": {
       "registration_type": "RETROACTIVE_BOOTSTRAP",
-      "bootstrap_as_of": "20261120",
+      "bootstrap_as_of": "20261123",
       "review_frequency": "weekly",
       "rf_veto": false,
       "live_track_start_signal": "20261016",
       "live_track_start_exec": "20261019",
-      "as_of": "20261120",
+      "as_of": "20261123",
       "current_holdings": [
         "ASB",
         "TOA",
@@ -585,20 +585,20 @@
       ],
       "pending_order": null,
       "next_review_signal_date": "20261127",
-      "cumulative_gross_return_pct": -3.55,
-      "cumulative_net_return_pct": -5.23,
+      "cumulative_gross_return_pct": 1.68,
+      "cumulative_net_return_pct": -0.09,
       "net_return_pct_by_cost": {
         "c015": {
-          "mtm": -4.06,
-          "liquidation": -4.2
+          "mtm": 1.14,
+          "liquidation": 0.99
         },
         "c050": {
-          "mtm": -5.23,
-          "liquidation": -5.7
+          "mtm": -0.09,
+          "liquidation": -0.59
         }
       },
-      "wig_return_pct": -4.41,
-      "excess_net_vs_wig_pp": -0.82,
+      "wig_return_pct": -1.4,
+      "excess_net_vs_wig_pp": 1.31,
       "total_trades": 11,
       "reviews": 6,
       "rebalance_history": [
@@ -783,12 +783,12 @@
     },
     "7_V1_VET_MONTHLY_BUF5_RFVETO": {
       "registration_type": "RETROACTIVE_BOOTSTRAP",
-      "bootstrap_as_of": "20261120",
+      "bootstrap_as_of": "20261123",
       "review_frequency": "monthly",
       "rf_veto": true,
       "live_track_start_signal": "20261016",
       "live_track_start_exec": "20261019",
-      "as_of": "20261120",
+      "as_of": "20261123",
       "current_holdings": [
         "ASB",
         "WAS",
@@ -796,20 +796,20 @@
       ],
       "pending_order": null,
       "next_review_signal_date": "20261130",
-      "cumulative_gross_return_pct": 4.72,
-      "cumulative_net_return_pct": 3.48,
+      "cumulative_gross_return_pct": 10.45,
+      "cumulative_net_return_pct": 9.14,
       "net_return_pct_by_cost": {
         "c015": {
-          "mtm": 4.35,
-          "liquidation": 4.19
+          "mtm": 10.05,
+          "liquidation": 9.89
         },
         "c050": {
-          "mtm": 3.48,
-          "liquidation": 2.96
+          "mtm": 9.14,
+          "liquidation": 8.6
         }
       },
-      "wig_return_pct": -4.41,
-      "excess_net_vs_wig_pp": 7.89,
+      "wig_return_pct": -1.4,
+      "excess_net_vs_wig_pp": 10.54,
       "total_trades": 7,
       "reviews": 2,
       "rebalance_history": [
@@ -906,17 +906,17 @@
     }
   },
   "ex_ante_daily_candidates_as_of": {
-    "signal_date": "20261120",
+    "signal_date": "20261123",
     "registration_type": "EX_ANTE_SHADOW",
     "1_V2_ROLLING_AUTH_SEMI": [
-      "CBF",
       "ASB",
-      "LPP"
+      "LPP",
+      "ALL"
     ],
     "2_V2_CORE_SEMI": [
       "CLD",
-      "ANR",
-      "CBF"
+      "ALL",
+      "ANR"
     ],
     "3_V2_MONTHLY_BUF10_RFVETO": [
       "ASB",
@@ -945,18 +945,18 @@
     ],
     "V1_VET_LIQ_PURE_TOP3_TODAY": [
       "BFT",
-      "ASB",
-      "4MS"
+      "ALL",
+      "ASB"
     ],
     "CONTROL_TOP3_QUAL_MOM": [
       "LPP",
-      "TOA",
-      "KGN"
+      "KGN",
+      "TOA"
     ],
     "CONTROL_TOP3_PURE_MOM": [
       "NTT",
       "WAS",
-      "PGE"
+      "ALE"
     ]
   }
 }
