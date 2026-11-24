@@ -1,0 +1,238 @@
+{
+  "schema": "konwikcja_v3_shadow_v1",
+  "spec_version": "v3.0",
+  "updated": "20261124",
+  "anchor_date": "20261124",
+  "cost_levels_reported_pct": {
+    "c015": 0.15,
+    "c050": 0.5
+  },
+  "variants": {
+    "1_V3_VET_MONTHLY_BUF5_FULL": {
+      "registration_type": "EX_ANTE_SHADOW",
+      "review_frequency": "monthly",
+      "mode": "vet_full",
+      "live_track_start_signal": "20261124",
+      "live_track_start_exec": null,
+      "as_of": "20261124",
+      "current_holdings": [],
+      "pending_order": {
+        "signal_date": "20261124",
+        "signal_source": "20261124",
+        "target": [
+          "ALL",
+          "BFT",
+          "ASB"
+        ],
+        "kept_by_buffer": [],
+        "top_buf_at_signal": [
+          "ALL",
+          "BFT",
+          "ASB",
+          "WAS",
+          "TOA"
+        ],
+        "signal_flags": [
+          "next_session_guessed"
+        ],
+        "rf_checks": []
+      },
+      "next_review_signal_date": "20261130",
+      "cumulative_gross_return_pct": 0.0,
+      "cumulative_net_return_pct": 0.0,
+      "net_return_pct_by_cost": {
+        "c015": {
+          "mtm": 0.0,
+          "liquidation": 0.0
+        },
+        "c050": {
+          "mtm": 0.0,
+          "liquidation": 0.0
+        }
+      },
+      "wig_return_pct": null,
+      "excess_net_vs_wig_pp": null,
+      "total_trades": 0,
+      "reviews": 1,
+      "rebalance_history": [],
+      "data_quality_flags": {
+        "holdings": {},
+        "wig": []
+      }
+    },
+    "2_V3_VET_BIWEEKLY_BUF5_FULL": {
+      "registration_type": "EX_ANTE_SHADOW",
+      "review_frequency": "biweekly",
+      "mode": "vet_full",
+      "live_track_start_signal": "20261124",
+      "live_track_start_exec": null,
+      "as_of": "20261124",
+      "current_holdings": [],
+      "pending_order": {
+        "signal_date": "20261124",
+        "signal_source": "20261124",
+        "target": [
+          "ALL",
+          "BFT",
+          "ASB"
+        ],
+        "kept_by_buffer": [],
+        "top_buf_at_signal": [
+          "ALL",
+          "BFT",
+          "ASB",
+          "WAS",
+          "TOA"
+        ],
+        "signal_flags": [
+          "next_session_guessed"
+        ],
+        "rf_checks": []
+      },
+      "next_review_signal_date": "20261127",
+      "cumulative_gross_return_pct": 0.0,
+      "cumulative_net_return_pct": 0.0,
+      "net_return_pct_by_cost": {
+        "c015": {
+          "mtm": 0.0,
+          "liquidation": 0.0
+        },
+        "c050": {
+          "mtm": 0.0,
+          "liquidation": 0.0
+        }
+      },
+      "wig_return_pct": null,
+      "excess_net_vs_wig_pp": null,
+      "total_trades": 0,
+      "reviews": 1,
+      "rebalance_history": [],
+      "data_quality_flags": {
+        "holdings": {},
+        "wig": []
+      }
+    },
+    "3_V3_CORE_MONTHLY_BUF5_FULL": {
+      "registration_type": "EX_ANTE_SHADOW",
+      "review_frequency": "monthly",
+      "mode": "core_full",
+      "live_track_start_signal": "20261124",
+      "live_track_start_exec": null,
+      "as_of": "20261124",
+      "current_holdings": [],
+      "pending_order": {
+        "signal_date": "20261124",
+        "signal_source": "20261124",
+        "target": [
+          "CLD",
+          "ALL",
+          "ASB"
+        ],
+        "kept_by_buffer": [],
+        "top_buf_at_signal": [
+          "CLD",
+          "ALL",
+          "ASB",
+          "ANR",
+          "VOX"
+        ],
+        "signal_flags": [
+          "next_session_guessed"
+        ],
+        "rf_checks": []
+      },
+      "next_review_signal_date": "20261130",
+      "cumulative_gross_return_pct": 0.0,
+      "cumulative_net_return_pct": 0.0,
+      "net_return_pct_by_cost": {
+        "c015": {
+          "mtm": 0.0,
+          "liquidation": 0.0
+        },
+        "c050": {
+          "mtm": 0.0,
+          "liquidation": 0.0
+        }
+      },
+      "wig_return_pct": null,
+      "excess_net_vs_wig_pp": null,
+      "total_trades": 0,
+      "reviews": 1,
+      "rebalance_history": [],
+      "data_quality_flags": {
+        "holdings": {},
+        "wig": []
+      }
+    },
+    "4_V3_HARD_SIGNALS_ONLY_MONTHLY_BUF5": {
+      "registration_type": "EX_ANTE_SHADOW",
+      "review_frequency": "monthly",
+      "mode": "hard_only",
+      "live_track_start_signal": "20261124",
+      "live_track_start_exec": null,
+      "as_of": "20261124",
+      "current_holdings": [],
+      "pending_order": {
+        "signal_date": "20261124",
+        "signal_source": "20261124",
+        "target": [
+          "PCO",
+          "PAS",
+          "PGE"
+        ],
+        "kept_by_buffer": [],
+        "top_buf_at_signal": [
+          "PCO",
+          "PAS",
+          "PGE",
+          "ASB",
+          "ACT"
+        ],
+        "signal_flags": [
+          "next_session_guessed"
+        ],
+        "rf_checks": []
+      },
+      "next_review_signal_date": "20261130",
+      "cumulative_gross_return_pct": 0.0,
+      "cumulative_net_return_pct": 0.0,
+      "net_return_pct_by_cost": {
+        "c015": {
+          "mtm": 0.0,
+          "liquidation": 0.0
+        },
+        "c050": {
+          "mtm": 0.0,
+          "liquidation": 0.0
+        }
+      },
+      "wig_return_pct": null,
+      "excess_net_vs_wig_pp": null,
+      "total_trades": 0,
+      "reviews": 1,
+      "rebalance_history": [],
+      "data_quality_flags": {
+        "holdings": {},
+        "wig": []
+      }
+    }
+  },
+  "ex_ante_daily_candidates_as_of": {
+    "signal_date": "20261124",
+    "top3_vet_full": [
+      "ALL",
+      "BFT",
+      "ASB"
+    ],
+    "top3_core_full": [
+      "CLD",
+      "ALL",
+      "ASB"
+    ],
+    "top3_hard_only": [
+      "PCO",
+      "PAS",
+      "PGE"
+    ]
+  }
+}
