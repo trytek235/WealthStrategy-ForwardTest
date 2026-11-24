@@ -1,18 +1,18 @@
 {
-  "signal_date": "20261123",
+  "signal_date": "20261124",
   "liquid_top30_count": 30,
-  "qualifying_forum_pool_count": 12,
+  "qualifying_forum_pool_count": 13,
   "qualified_rolling_authors_count": 50,
   "top3_v2_core": [
     {
       "ticker": "CLD",
       "name": "CLD",
-      "conv2": 79.1,
+      "conv2": 79.0,
       "sent2": 79.4,
       "uniq90": 5,
       "posts365": 12,
       "momentum": 14.74,
-      "median_turnover_20d_pln": 341602.0,
+      "median_turnover_20d_pln": 304370.0,
       "close": 109.0,
       "red_flags_14d": []
     },
@@ -23,9 +23,9 @@
       "sent2": 74.1,
       "uniq90": 4,
       "posts365": 22,
-      "momentum": 10.82,
-      "median_turnover_20d_pln": 271299.0,
-      "close": 17.0,
+      "momentum": 7.56,
+      "median_turnover_20d_pln": 249452.0,
+      "close": 16.5,
       "red_flags_14d": []
     },
     {
@@ -35,9 +35,9 @@
       "sent2": 70.8,
       "uniq90": 6,
       "posts365": 19,
-      "momentum": 10.24,
-      "median_turnover_20d_pln": 229113.0,
-      "close": 22.6,
+      "momentum": 9.51,
+      "median_turnover_20d_pln": 208664.0,
+      "close": 22.45,
       "red_flags_14d": []
     }
   ],
@@ -45,13 +45,13 @@
     {
       "ticker": "ASB",
       "name": "ASB",
-      "conv_r": 86.2,
-      "sent_r": 60.7,
-      "uniq90": 34,
-      "posts365": 226,
-      "momentum": 19.11,
-      "median_turnover_20d_pln": 47145843.0,
-      "close": 161.4
+      "conv_r": 86.9,
+      "sent_r": 61.6,
+      "uniq90": 33,
+      "posts365": 228,
+      "momentum": 10.63,
+      "median_turnover_20d_pln": 43318053.0,
+      "close": 149.9
     },
     {
       "ticker": "LPP",
@@ -60,9 +60,9 @@
       "sent_r": 56.8,
       "uniq90": 12,
       "posts365": 74,
-      "momentum": 35.24,
+      "momentum": 30.38,
       "median_turnover_20d_pln": 108108910.0,
-      "close": 28400.0
+      "close": 27380.0
     },
     {
       "ticker": "ALL",
@@ -71,22 +71,22 @@
       "sent_r": 73.9,
       "uniq90": 4,
       "posts365": 22,
-      "momentum": 10.82,
-      "median_turnover_20d_pln": 271299.0,
-      "close": 17.0
+      "momentum": 7.56,
+      "median_turnover_20d_pln": 249452.0,
+      "close": 16.5
     }
   ],
   "top3_v2_monthly_buf10_rfveto": [
     {
       "ticker": "ASB",
       "name": "ASB",
-      "conv2": 71.3,
-      "sent2": 60.9,
-      "uniq90": 34,
-      "posts365": 226,
-      "momentum": 19.11,
-      "median_turnover_20d_pln": 47145843.0,
-      "close": 161.4,
+      "conv2": 71.8,
+      "sent2": 61.4,
+      "uniq90": 33,
+      "posts365": 228,
+      "momentum": 10.63,
+      "median_turnover_20d_pln": 43318053.0,
+      "close": 149.9,
       "red_flags_14d": [],
       "buffer_kept": true,
       "rank_in_v2": 4
@@ -98,9 +98,9 @@
       "sent2": 70.8,
       "uniq90": 6,
       "posts365": 19,
-      "momentum": 10.24,
-      "median_turnover_20d_pln": 229113.0,
-      "close": 22.6,
+      "momentum": 9.51,
+      "median_turnover_20d_pln": 208664.0,
+      "close": 22.45,
       "red_flags_14d": [],
       "buffer_kept": true,
       "rank_in_v2": 3
@@ -108,12 +108,12 @@
     {
       "ticker": "CLD",
       "name": "CLD",
-      "conv2": 79.1,
+      "conv2": 79.0,
       "sent2": 79.4,
       "uniq90": 5,
       "posts365": 12,
       "momentum": 14.74,
-      "median_turnover_20d_pln": 341602.0,
+      "median_turnover_20d_pln": 304370.0,
       "close": 109.0,
       "red_flags_14d": [],
       "buffer_kept": true,
@@ -127,9 +127,9 @@
       "conv1": 99.0,
       "sent1": 87.0,
       "posts365": 62,
-      "momentum": 18.48,
+      "momentum": 18.12,
       "median_turnover_20d_pln": 44228620.0,
-      "close": 6475.0,
+      "close": 6455.0,
       "red_flags_14d": []
     },
     {
@@ -138,9 +138,9 @@
       "conv1": 99.0,
       "sent1": 87.8,
       "posts365": 22,
-      "momentum": 10.82,
-      "median_turnover_20d_pln": 271299.0,
-      "close": 17.0,
+      "momentum": 7.56,
+      "median_turnover_20d_pln": 249452.0,
+      "close": 16.5,
       "red_flags_14d": []
     },
     {
@@ -148,10 +148,10 @@
       "name": "ASB",
       "conv1": 97.1,
       "sent1": 77.9,
-      "posts365": 226,
-      "momentum": 19.11,
-      "median_turnover_20d_pln": 47145843.0,
-      "close": 161.4,
+      "posts365": 228,
+      "momentum": 10.63,
+      "median_turnover_20d_pln": 43318053.0,
+      "close": 149.9,
       "red_flags_14d": []
     }
   ],
@@ -161,10 +161,10 @@
       "name": "ASB",
       "conv1": 97.1,
       "sent1": 77.9,
-      "posts365": 226,
-      "momentum": 19.11,
-      "median_turnover_20d_pln": 47145843.0,
-      "close": 161.4,
+      "posts365": 228,
+      "momentum": 10.63,
+      "median_turnover_20d_pln": 43318053.0,
+      "close": 149.9,
       "red_flags_14d": [],
       "buffer_kept": true,
       "rank_in_v1_liq": 3
@@ -172,13 +172,21 @@
     {
       "ticker": "TOA",
       "name": "TOA",
-      "conv1": 93.3,
-      "sent1": 85.2,
-      "posts365": 38,
-      "momentum": 23.05,
-      "median_turnover_20d_pln": 922115.0,
-      "close": 12.92,
-      "red_flags_14d": [],
+      "conv1": 93.2,
+      "sent1": 85.1,
+      "posts365": 39,
+      "momentum": 26.29,
+      "median_turnover_20d_pln": 996386.0,
+      "close": 13.26,
+      "red_flags_14d": [
+        {
+          "date": "20261124",
+          "patterns": [
+            "rozwodnien"
+          ],
+          "snippet": "Trigon DM podniósł cenę docelową akcji Toya do 17,5 zł  PAP - Biznes  24 lis 2026, 13:46      24.11.2026, Warszawa (PAP) - Analitycy Trigon DM, w raporcie z 18 "
+        }
+      ],
       "buffer_kept": true,
       "rank_in_v1_liq": 5
     },
@@ -188,9 +196,9 @@
       "conv1": 95.8,
       "sent1": 89.6,
       "posts365": 11,
-      "momentum": 62.37,
+      "momentum": 57.49,
       "median_turnover_20d_pln": 2049627.0,
-      "close": 9.32,
+      "close": 9.04,
       "red_flags_14d": [],
       "buffer_kept": true,
       "rank_in_v1_liq": 4
@@ -203,9 +211,9 @@
       "conv1": 99.0,
       "sent1": 87.0,
       "posts365": 62,
-      "momentum": 18.48,
+      "momentum": 18.12,
       "median_turnover_20d_pln": 44228620.0,
-      "close": 6475.0,
+      "close": 6455.0,
       "red_flags_14d": []
     },
     {
@@ -214,9 +222,9 @@
       "conv1": 99.0,
       "sent1": 87.8,
       "posts365": 22,
-      "momentum": 10.82,
-      "median_turnover_20d_pln": 271299.0,
-      "close": 17.0,
+      "momentum": 7.56,
+      "median_turnover_20d_pln": 249452.0,
+      "close": 16.5,
       "red_flags_14d": []
     },
     {
@@ -224,10 +232,10 @@
       "name": "ASB",
       "conv1": 97.1,
       "sent1": 77.9,
-      "posts365": 226,
-      "momentum": 19.11,
-      "median_turnover_20d_pln": 47145843.0,
-      "close": 161.4,
+      "posts365": 228,
+      "momentum": 10.63,
+      "median_turnover_20d_pln": 43318053.0,
+      "close": 149.9,
       "red_flags_14d": []
     },
     {
@@ -236,21 +244,29 @@
       "conv1": 95.8,
       "sent1": 89.6,
       "posts365": 11,
-      "momentum": 62.37,
+      "momentum": 57.49,
       "median_turnover_20d_pln": 2049627.0,
-      "close": 9.32,
+      "close": 9.04,
       "red_flags_14d": []
     },
     {
       "ticker": "TOA",
       "name": "TOA",
-      "conv1": 93.3,
-      "sent1": 85.2,
-      "posts365": 38,
-      "momentum": 23.05,
-      "median_turnover_20d_pln": 922115.0,
-      "close": 12.92,
-      "red_flags_14d": []
+      "conv1": 93.2,
+      "sent1": 85.1,
+      "posts365": 39,
+      "momentum": 26.29,
+      "median_turnover_20d_pln": 996386.0,
+      "close": 13.26,
+      "red_flags_14d": [
+        {
+          "date": "20261124",
+          "patterns": [
+            "rozwodnien"
+          ],
+          "snippet": "Trigon DM podniósł cenę docelową akcji Toya do 17,5 zł  PAP - Biznes  24 lis 2026, 13:46      24.11.2026, Warszawa (PAP) - Analitycy Trigon DM, w raporcie z 18 "
+        }
+      ]
     },
     {
       "ticker": "LPP",
@@ -258,9 +274,9 @@
       "conv1": 88.6,
       "sent1": 64.2,
       "posts365": 74,
-      "momentum": 35.24,
+      "momentum": 30.38,
       "median_turnover_20d_pln": 108108910.0,
-      "close": 28400.0,
+      "close": 27380.0,
       "red_flags_14d": []
     },
     {
@@ -269,9 +285,9 @@
       "conv1": 78.9,
       "sent1": 53.2,
       "posts365": 94,
-      "momentum": 6.28,
+      "momentum": 6.67,
       "median_turnover_20d_pln": 1687580.0,
-      "close": 414.5,
+      "close": 416.0,
       "red_flags_14d": []
     },
     {
@@ -279,10 +295,10 @@
       "name": "KGN",
       "conv1": 77.8,
       "sent1": 52.4,
-      "posts365": 159,
-      "momentum": 32.76,
-      "median_turnover_20d_pln": 691610.0,
-      "close": 92.0,
+      "posts365": 161,
+      "momentum": 32.47,
+      "median_turnover_20d_pln": 663576.0,
+      "close": 91.8,
       "red_flags_14d": []
     },
     {
@@ -292,19 +308,19 @@
       "sent1": 71.7,
       "posts365": 12,
       "momentum": 14.74,
-      "median_turnover_20d_pln": 341602.0,
+      "median_turnover_20d_pln": 304370.0,
       "close": 109.0,
       "red_flags_14d": []
     },
     {
-      "ticker": "CDR",
-      "name": "CDR",
-      "conv1": 72.2,
-      "sent1": 50.1,
-      "posts365": 132,
-      "momentum": 13.78,
-      "median_turnover_20d_pln": 73819431.0,
-      "close": 269.1,
+      "ticker": "ECH",
+      "name": "ECH",
+      "conv1": 74.0,
+      "sent1": 62.6,
+      "posts365": 13,
+      "momentum": 4.17,
+      "median_turnover_20d_pln": 139460.0,
+      "close": 5.5,
       "red_flags_14d": []
     }
   ],
@@ -312,75 +328,83 @@
   "monthly_rf_unverified": [],
   "top3_control_qual_mom": [
     {
+      "ticker": "KGN",
+      "name": "KGN",
+      "conv2": 45.3,
+      "sent2": 41.3,
+      "uniq90": 11,
+      "posts365": 161,
+      "momentum": 32.47,
+      "median_turnover_20d_pln": 663576.0,
+      "close": 91.8,
+      "red_flags_14d": []
+    },
+    {
       "ticker": "LPP",
       "name": "LPP",
       "conv2": 64.6,
       "sent2": 55.5,
       "uniq90": 12,
       "posts365": 74,
-      "momentum": 35.24,
+      "momentum": 30.38,
       "median_turnover_20d_pln": 108108910.0,
-      "close": 28400.0,
-      "red_flags_14d": []
-    },
-    {
-      "ticker": "KGN",
-      "name": "KGN",
-      "conv2": 45.4,
-      "sent2": 41.4,
-      "uniq90": 11,
-      "posts365": 159,
-      "momentum": 32.76,
-      "median_turnover_20d_pln": 691610.0,
-      "close": 92.0,
+      "close": 27380.0,
       "red_flags_14d": []
     },
     {
       "ticker": "TOA",
       "name": "TOA",
-      "conv2": 63.1,
-      "sent2": 54.7,
+      "conv2": 62.7,
+      "sent2": 54.3,
       "uniq90": 6,
-      "posts365": 38,
-      "momentum": 23.05,
-      "median_turnover_20d_pln": 922115.0,
-      "close": 12.92,
-      "red_flags_14d": []
+      "posts365": 39,
+      "momentum": 26.29,
+      "median_turnover_20d_pln": 996386.0,
+      "close": 13.26,
+      "red_flags_14d": [
+        {
+          "date": "20261124",
+          "patterns": [
+            "rozwodnien"
+          ],
+          "snippet": "Trigon DM podniósł cenę docelową akcji Toya do 17,5 zł  PAP - Biznes  24 lis 2026, 13:46      24.11.2026, Warszawa (PAP) - Analitycy Trigon DM, w raporcie z 18 "
+        }
+      ]
     }
   ],
   "top3_control_pure_mom": [
     {
       "ticker": "NTT",
       "name": "NTT",
-      "momentum": 118.3,
+      "momentum": 106.94,
       "median_turnover_20d_pln": 4686133.0,
-      "close": 34.6
+      "close": 32.8
     },
     {
       "ticker": "WAS",
       "name": "WAS",
-      "momentum": 62.37,
+      "momentum": 57.49,
       "median_turnover_20d_pln": 2049627.0,
-      "close": 9.32
+      "close": 9.04
     },
     {
       "ticker": "ALE",
       "name": "ALE",
-      "momentum": 49.24,
+      "momentum": 46.02,
       "median_turnover_20d_pln": 309072265.0,
-      "close": 67.68
+      "close": 66.22
     }
   ],
   "full_qualifying_ranking_v2_core": [
     {
       "ticker": "CLD",
       "name": "CLD",
-      "conv2": 79.1,
+      "conv2": 79.0,
       "sent2": 79.4,
       "uniq90": 5,
       "posts365": 12,
       "momentum": 14.74,
-      "median_turnover_20d_pln": 341602.0,
+      "median_turnover_20d_pln": 304370.0,
       "close": 109.0,
       "red_flags_14d": []
     },
@@ -391,9 +415,9 @@
       "sent2": 74.1,
       "uniq90": 4,
       "posts365": 22,
-      "momentum": 10.82,
-      "median_turnover_20d_pln": 271299.0,
-      "close": 17.0,
+      "momentum": 7.56,
+      "median_turnover_20d_pln": 249452.0,
+      "close": 16.5,
       "red_flags_14d": []
     },
     {
@@ -403,21 +427,21 @@
       "sent2": 70.8,
       "uniq90": 6,
       "posts365": 19,
-      "momentum": 10.24,
-      "median_turnover_20d_pln": 229113.0,
-      "close": 22.6,
+      "momentum": 9.51,
+      "median_turnover_20d_pln": 208664.0,
+      "close": 22.45,
       "red_flags_14d": []
     },
     {
       "ticker": "ASB",
       "name": "ASB",
-      "conv2": 71.3,
-      "sent2": 60.9,
-      "uniq90": 34,
-      "posts365": 226,
-      "momentum": 19.11,
-      "median_turnover_20d_pln": 47145843.0,
-      "close": 161.4,
+      "conv2": 71.8,
+      "sent2": 61.4,
+      "uniq90": 33,
+      "posts365": 228,
+      "momentum": 10.63,
+      "median_turnover_20d_pln": 43318053.0,
+      "close": 149.9,
       "red_flags_14d": []
     },
     {
@@ -427,9 +451,9 @@
       "sent2": 62.0,
       "uniq90": 21,
       "posts365": 62,
-      "momentum": 18.48,
+      "momentum": 18.12,
       "median_turnover_20d_pln": 44228620.0,
-      "close": 6475.0,
+      "close": 6455.0,
       "red_flags_14d": []
     },
     {
@@ -439,9 +463,9 @@
       "sent2": 59.1,
       "uniq90": 9,
       "posts365": 29,
-      "momentum": 9.61,
-      "median_turnover_20d_pln": 1312436.0,
-      "close": 146.0,
+      "momentum": 5.41,
+      "median_turnover_20d_pln": 1171476.0,
+      "close": 140.4,
       "red_flags_14d": []
     },
     {
@@ -451,69 +475,89 @@
       "sent2": 55.5,
       "uniq90": 12,
       "posts365": 74,
-      "momentum": 35.24,
+      "momentum": 30.38,
       "median_turnover_20d_pln": 108108910.0,
-      "close": 28400.0,
+      "close": 27380.0,
       "red_flags_14d": []
     },
     {
       "ticker": "TOA",
       "name": "TOA",
-      "conv2": 63.1,
-      "sent2": 54.7,
+      "conv2": 62.7,
+      "sent2": 54.3,
       "uniq90": 6,
-      "posts365": 38,
-      "momentum": 23.05,
-      "median_turnover_20d_pln": 922115.0,
-      "close": 12.92,
-      "red_flags_14d": []
+      "posts365": 39,
+      "momentum": 26.29,
+      "median_turnover_20d_pln": 996386.0,
+      "close": 13.26,
+      "red_flags_14d": [
+        {
+          "date": "20261124",
+          "patterns": [
+            "rozwodnien"
+          ],
+          "snippet": "Trigon DM podniósł cenę docelową akcji Toya do 17,5 zł  PAP - Biznes  24 lis 2026, 13:46      24.11.2026, Warszawa (PAP) - Analitycy Trigon DM, w raporcie z 18 "
+        }
+      ]
     },
     {
       "ticker": "MBR",
       "name": "MBR",
       "conv2": 61.9,
       "sent2": 52.8,
-      "uniq90": 24,
+      "uniq90": 23,
       "posts365": 94,
-      "momentum": 6.28,
+      "momentum": 6.67,
       "median_turnover_20d_pln": 1687580.0,
-      "close": 414.5,
+      "close": 416.0,
       "red_flags_14d": []
     },
     {
       "ticker": "CDR",
       "name": "CDR",
-      "conv2": 61.6,
-      "sent2": 52.6,
-      "uniq90": 26,
-      "posts365": 132,
-      "momentum": 13.78,
-      "median_turnover_20d_pln": 73819431.0,
-      "close": 269.1,
+      "conv2": 60.6,
+      "sent2": 51.9,
+      "uniq90": 24,
+      "posts365": 134,
+      "momentum": 15.52,
+      "median_turnover_20d_pln": 76252454.0,
+      "close": 273.2,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "ECH",
+      "name": "ECH",
+      "conv2": 46.7,
+      "sent2": 45.9,
+      "uniq90": 3,
+      "posts365": 13,
+      "momentum": 4.17,
+      "median_turnover_20d_pln": 139460.0,
+      "close": 5.5,
       "red_flags_14d": []
     },
     {
       "ticker": "KGN",
       "name": "KGN",
-      "conv2": 45.4,
-      "sent2": 41.4,
+      "conv2": 45.3,
+      "sent2": 41.3,
       "uniq90": 11,
-      "posts365": 159,
-      "momentum": 32.76,
-      "median_turnover_20d_pln": 691610.0,
-      "close": 92.0,
+      "posts365": 161,
+      "momentum": 32.47,
+      "median_turnover_20d_pln": 663576.0,
+      "close": 91.8,
       "red_flags_14d": []
     },
     {
       "ticker": "PAS",
       "name": "PAS",
-      "conv2": 31.5,
-      "sent2": 22.5,
-      "uniq90": 14,
-      "posts365": 60,
-      "momentum": 14.46,
-      "median_turnover_20d_pln": 756326.0,
-      "close": 153.6,
+      "conv2": 32.5,
+      "sent2": 23.9,
+      "uniq90": 15,
+      "posts365": 61,
+      "momentum": 13.86,
+      "median_turnover_20d_pln": 744198.0,
+      "close": 152.8,
       "red_flags_14d": []
     }
   ],
@@ -529,6 +573,6 @@
     "6_V1_VET_WEEKLY_BUF5",
     "7_V1_VET_MONTHLY_BUF5_RFVETO"
   ],
-  "wig_close": 156509.2031,
-  "last_entry_hash": "dc1df03f33055fee783db92445494c9f82b1460980c0ebe4dc38beb1552296cf"
+  "wig_close": 152740.125,
+  "last_entry_hash": "2c1e7d8ac147e1fd899cd038b0d47c1e7f93f615de48c73ea0957eee76a1b6c8"
 }
