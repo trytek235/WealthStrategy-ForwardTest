@@ -1,23 +1,23 @@
 {
   "schema": "konwikcja_v3_shadow_v1",
   "spec_version": "v3.0",
-  "updated_utc": "2026-11-24T23:39:52Z",
-  "signal_date": "20261124",
+  "updated_utc": "2026-11-25T20:40:12Z",
+  "signal_date": "20261125",
   "anchor_date": "20261124",
-  "wig_close": 152740.125,
-  "last_entry_hash": "fdbe4f6b274a3a5e7d19cee98e17054aba42e8ee64dac73bd350d07d05ba1d39",
+  "wig_close": 150363.0938,
+  "last_entry_hash": "91ab9eefaaafeeadc0829b2b33d13840f98ad282d3031138066e72bffb725f27",
   "signal_collection_stats": {
-    "as_of": "20261124",
+    "as_of": "20261125",
     "pool_size": 30,
     "mapped_bankier_count": 30,
-    "espi_items_45d": 150,
-    "espi_archived_added": 871,
-    "rek_items_120d": 17,
-    "rek_archived_added": 499,
-    "knf_shorts_total": 27,
+    "espi_items_45d": 154,
+    "espi_archived_added": 92,
+    "rek_items_120d": 14,
+    "rek_archived_added": 58,
+    "knf_shorts_total": 28,
     "bos_mentions_count": 0,
-    "ollama_calls_made": 147,
-    "ollama_cache_hits": 0,
+    "ollama_calls_made": 16,
+    "ollama_cache_hits": 135,
     "ollama_errors": 0
   },
   "top3_vet_full": [
@@ -26,46 +26,46 @@
       "name": "ALL",
       "score": 80.72,
       "p1_vet": 90.91,
-      "p1_core": 91.67,
-      "p2_hard_signals": 62.05,
+      "p1_core": 90.91,
+      "p2_hard_signals": 62.06,
       "p3_risk_flow": 90.0,
       "conv1": 99.0,
       "conv2": 76.4,
-      "momentum": 7.56,
-      "espi_score_raw": 0.41,
-      "broker_score_raw": 0.949,
+      "momentum": 6.78,
+      "espi_score_raw": 0.397,
+      "broker_score_raw": 0.958,
       "insider_score_raw": 0.0,
       "knf_short_pct": 0.0
     },
     {
       "ticker": "BFT",
       "name": "BFT",
-      "score": 78.74,
+      "score": 78.83,
       "p1_vet": 100.0,
-      "p1_core": 66.67,
-      "p2_hard_signals": 42.12,
+      "p1_core": 63.64,
+      "p2_hard_signals": 42.38,
       "p3_risk_flow": 90.0,
       "conv1": 99.0,
       "conv2": 70.6,
-      "momentum": 18.12,
-      "espi_score_raw": -1.26,
+      "momentum": 19.67,
+      "espi_score_raw": -1.219,
       "broker_score_raw": 0.0,
       "insider_score_raw": 0.0,
       "knf_short_pct": 0.0
     },
     {
-      "ticker": "ASB",
-      "name": "ASB",
-      "score": 77.21,
+      "ticker": "WAS",
+      "name": "WAS",
+      "score": 74.25,
       "p1_vet": 81.82,
-      "p1_core": 75.0,
-      "p2_hard_signals": 66.3,
+      "p1_core": null,
+      "p2_hard_signals": 57.86,
       "p3_risk_flow": 90.0,
-      "conv1": 97.1,
-      "conv2": 71.8,
-      "momentum": 10.63,
-      "espi_score_raw": 1.799,
-      "broker_score_raw": 0.506,
+      "conv1": 95.8,
+      "conv2": 0.0,
+      "momentum": 54.01,
+      "espi_score_raw": 1.258,
+      "broker_score_raw": 0.0,
       "insider_score_raw": 0.0,
       "knf_short_pct": 0.0
     }
@@ -74,48 +74,48 @@
     {
       "ticker": "CLD",
       "name": "CLD",
-      "score": 84.07,
+      "score": 84.21,
       "p1_vet": 27.27,
       "p1_core": 100.0,
-      "p2_hard_signals": 57.33,
+      "p2_hard_signals": 57.73,
       "p3_risk_flow": 90.0,
       "conv1": 76.1,
       "conv2": 79.0,
-      "momentum": 14.74,
-      "espi_score_raw": 0.968,
-      "broker_score_raw": 0.128,
+      "momentum": 8.95,
+      "espi_score_raw": 0.936,
+      "broker_score_raw": 0.188,
       "insider_score_raw": 0.0,
       "knf_short_pct": 0.0
     },
     {
       "ticker": "ALL",
       "name": "ALL",
-      "score": 81.14,
+      "score": 80.72,
       "p1_vet": 90.91,
-      "p1_core": 91.67,
-      "p2_hard_signals": 62.05,
+      "p1_core": 90.91,
+      "p2_hard_signals": 62.06,
       "p3_risk_flow": 90.0,
       "conv1": 99.0,
       "conv2": 76.4,
-      "momentum": 7.56,
-      "espi_score_raw": 0.41,
-      "broker_score_raw": 0.949,
+      "momentum": 6.78,
+      "espi_score_raw": 0.397,
+      "broker_score_raw": 0.958,
       "insider_score_raw": 0.0,
       "knf_short_pct": 0.0
     },
     {
-      "ticker": "ASB",
-      "name": "ASB",
-      "score": 73.45,
-      "p1_vet": 81.82,
-      "p1_core": 75.0,
-      "p2_hard_signals": 66.3,
+      "ticker": "ANR",
+      "name": "ANR",
+      "score": 72.52,
+      "p1_vet": 0.0,
+      "p1_core": 81.82,
+      "p2_hard_signals": 52.92,
       "p3_risk_flow": 90.0,
-      "conv1": 97.1,
-      "conv2": 71.8,
-      "momentum": 10.63,
-      "espi_score_raw": 1.799,
-      "broker_score_raw": 0.506,
+      "conv1": 71.9,
+      "conv2": 74.8,
+      "momentum": 7.32,
+      "espi_score_raw": 0.468,
+      "broker_score_raw": 0.0,
       "insider_score_raw": 0.0,
       "knf_short_pct": 0.0
     }
@@ -124,15 +124,15 @@
     {
       "ticker": "PCO",
       "name": "PCO",
-      "score": 86.39,
+      "score": 85.84,
       "p1_vet": null,
       "p1_core": null,
-      "p2_hard_signals": 85.18,
+      "p2_hard_signals": 84.46,
       "p3_risk_flow": 90.0,
       "conv1": 0.0,
       "conv2": 0.0,
-      "momentum": 16.48,
-      "espi_score_raw": 3.549,
+      "momentum": 15.74,
+      "espi_score_raw": 3.434,
       "broker_score_raw": 0.7,
       "insider_score_raw": 1.5,
       "knf_short_pct": 0.0
@@ -140,15 +140,15 @@
     {
       "ticker": "PAS",
       "name": "PAS",
-      "score": 76.72,
+      "score": 76.19,
       "p1_vet": null,
       "p1_core": 0.0,
-      "p2_hard_signals": 72.3,
+      "p2_hard_signals": 71.58,
       "p3_risk_flow": 90.0,
       "conv1": 56.8,
-      "conv2": 32.5,
-      "momentum": 13.86,
-      "espi_score_raw": 3.568,
+      "conv2": 32.4,
+      "momentum": 10.28,
+      "espi_score_raw": 3.452,
       "broker_score_raw": 0.0,
       "insider_score_raw": 0.0,
       "knf_short_pct": 0.0
@@ -156,17 +156,17 @@
     {
       "ticker": "PGE",
       "name": "PGE",
-      "score": 74.5,
+      "score": 69.75,
       "p1_vet": null,
       "p1_core": null,
-      "p2_hard_signals": 69.34,
+      "p2_hard_signals": 63.0,
       "p3_risk_flow": 90.0,
       "conv1": 0.0,
       "conv2": 0.0,
-      "momentum": 37.74,
-      "espi_score_raw": 1.23,
-      "broker_score_raw": 0.165,
-      "insider_score_raw": 2.5,
+      "momentum": 40.22,
+      "espi_score_raw": 1.19,
+      "broker_score_raw": 0.156,
+      "insider_score_raw": 1.0,
       "knf_short_pct": 0.0
     }
   ],
@@ -179,9 +179,9 @@
     {
       "ticker": "PCO",
       "name": "PCO",
-      "momentum": 16.48,
-      "median_turnover_20d_pln": 71729319.0,
-      "close": 50.32,
+      "momentum": 15.74,
+      "median_turnover_20d_pln": 71209811.0,
+      "close": 50.0,
       "conv1": 0.0,
       "sent1": 50.0,
       "posts365": 0,
@@ -189,9 +189,9 @@
       "sent2": 50.0,
       "uniq90": 0,
       "ok2": false,
-      "p2_hard_signals": 85.18,
+      "p2_hard_signals": 84.46,
       "p3_risk_flow": 90.0,
-      "espi_score_raw": 3.549,
+      "espi_score_raw": 3.434,
       "broker_score_raw": 0.7,
       "insider_score_raw": 1.5,
       "knf_short_pct": 0.0,
@@ -263,7 +263,7 @@
       "p1_core": null,
       "v3_score_vet": null,
       "v3_score_core": null,
-      "v3_score_hard_only": 86.39,
+      "v3_score_hard_only": 85.84,
       "dual_veto": {
         "vetoed": false,
         "source": "none",
@@ -274,19 +274,19 @@
     {
       "ticker": "PAS",
       "name": "PAS",
-      "momentum": 13.86,
+      "momentum": 10.28,
       "median_turnover_20d_pln": 744198.0,
-      "close": 152.8,
+      "close": 148.0,
       "conv1": 56.8,
       "sent1": 35.9,
       "posts365": 61,
-      "conv2": 32.5,
+      "conv2": 32.4,
       "sent2": 23.9,
       "uniq90": 15,
       "ok2": true,
-      "p2_hard_signals": 72.3,
+      "p2_hard_signals": 71.58,
       "p3_risk_flow": 90.0,
-      "espi_score_raw": 3.568,
+      "espi_score_raw": 3.452,
       "broker_score_raw": 0.0,
       "insider_score_raw": 0.0,
       "knf_short_pct": 0.0,
@@ -331,8 +331,8 @@
       "p1_vet": null,
       "p1_core": 0.0,
       "v3_score_vet": null,
-      "v3_score_core": 34.3,
-      "v3_score_hard_only": 76.72,
+      "v3_score_core": 34.05,
+      "v3_score_hard_only": 76.19,
       "dual_veto": {
         "vetoed": false,
         "source": "none",
@@ -343,9 +343,9 @@
     {
       "ticker": "PGE",
       "name": "PGE",
-      "momentum": 37.74,
-      "median_turnover_20d_pln": 42918806.0,
-      "close": 15.0,
+      "momentum": 40.22,
+      "median_turnover_20d_pln": 43042463.0,
+      "close": 15.27,
       "conv1": 0.0,
       "sent1": 50.0,
       "posts365": 1,
@@ -353,17 +353,23 @@
       "sent2": 50.0,
       "uniq90": 0,
       "ok2": false,
-      "p2_hard_signals": 69.34,
+      "p2_hard_signals": 63.0,
       "p3_risk_flow": 90.0,
-      "espi_score_raw": 1.23,
-      "broker_score_raw": 0.165,
-      "insider_score_raw": 2.5,
+      "espi_score_raw": 1.19,
+      "broker_score_raw": 0.156,
+      "insider_score_raw": 1.0,
       "knf_short_pct": 0.0,
       "whale_acc": false,
       "whale_dist": false,
       "espi_red_flags": [],
       "espi_count_45d": 25,
       "espi_recent": [
+        {
+          "date": "2026-11-25",
+          "title": "Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
+          "sentiment": 0,
+          "category": "formalny"
+        },
         {
           "date": "2026-11-24",
           "title": "Wyniki finansowe QSr 3/2026",
@@ -387,29 +393,29 @@
           "title": "Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
           "sentiment": 0,
           "category": "formalny"
-        },
-        {
-          "date": "2026-11-17",
-          "title": "Informacja o transakcjach w trybie art. 19 Rozporządzenia MAR",
-          "sentiment": 0,
-          "category": "formalny"
         }
       ],
       "recommendations_recent": [
         {
           "date": "2026-11-19",
           "rating": "Redukuj",
-          "upside_pct": -7.47,
+          "upside_pct": -9.1,
           "institution": "Noble Securities DM SA"
         },
         {
           "date": "2026-10-20",
           "rating": "Kupuj",
-          "upside_pct": 33.33,
+          "upside_pct": 30.98,
           "institution": "DM BOŚ SA"
         }
       ],
       "insider_events": [
+        {
+          "date": "2026-11-25",
+          "kind": "art19",
+          "delta": 1.0,
+          "label": "🟢 KUPNO / NABYCIE"
+        },
         {
           "date": "2026-11-24",
           "kind": "art19",
@@ -469,119 +475,13 @@
           "kind": "art19",
           "delta": 1.0,
           "label": "🟢 KUPNO / NABYCIE"
-        },
-        {
-          "date": "2026-11-03",
-          "kind": "art19",
-          "delta": 1.0,
-          "label": "🟢 KUPNO / NABYCIE"
-        },
-        {
-          "date": "2026-11-02",
-          "kind": "art19",
-          "delta": 1.0,
-          "label": "🟢 KUPNO / NABYCIE"
-        },
-        {
-          "date": "2026-10-30",
-          "kind": "art19",
-          "delta": 1.0,
-          "label": "🟢 KUPNO / NABYCIE"
         }
       ],
       "p1_vet": null,
       "p1_core": null,
       "v3_score_vet": null,
       "v3_score_core": null,
-      "v3_score_hard_only": 74.5,
-      "dual_veto": {
-        "vetoed": false,
-        "source": "none",
-        "status": "clean",
-        "reason": "Brak trafien red-flag"
-      }
-    },
-    {
-      "ticker": "ASB",
-      "name": "ASB",
-      "momentum": 10.63,
-      "median_turnover_20d_pln": 43318053.0,
-      "close": 149.9,
-      "conv1": 97.1,
-      "sent1": 77.9,
-      "posts365": 228,
-      "conv2": 71.8,
-      "sent2": 61.4,
-      "uniq90": 33,
-      "ok2": true,
-      "p2_hard_signals": 66.3,
-      "p3_risk_flow": 90.0,
-      "espi_score_raw": 1.799,
-      "broker_score_raw": 0.506,
-      "insider_score_raw": 0.0,
-      "knf_short_pct": 0.0,
-      "whale_acc": false,
-      "whale_dist": false,
-      "espi_red_flags": [],
-      "espi_count_45d": 4,
-      "espi_recent": [
-        {
-          "date": "2026-11-23",
-          "title": "Informacja o szacunkowych miesięcznych skonsolidowanych przychodach za październik 2026 r.",
-          "sentiment": 1,
-          "category": "wyniki"
-        },
-        {
-          "date": "2026-11-05",
-          "title": "Wyniki finansowe QS 3/2026",
-          "sentiment": 0,
-          "category": "wyniki"
-        },
-        {
-          "date": "2026-11-04",
-          "title": "Decyzja Rady Dyrektorów o wypłacie zaliczki na poczet dywidendy za 2026 rok.",
-          "sentiment": 1,
-          "category": "dywidenda"
-        },
-        {
-          "date": "2026-10-20",
-          "title": "Informacja o szacunkowych miesięcznych skonsolidowanych przychodach za wrzesień 2026 r.",
-          "sentiment": 1,
-          "category": "wyniki"
-        }
-      ],
-      "recommendations_recent": [
-        {
-          "date": "2026-10-28",
-          "rating": "Kupuj",
-          "upside_pct": 34.76,
-          "institution": "DM BOŚ SA"
-        },
-        {
-          "date": "2026-10-23",
-          "rating": "Trzymaj",
-          "upside_pct": 6.6,
-          "institution": "Ipopema Securities SA"
-        },
-        {
-          "date": "2026-08-18",
-          "rating": "Wycena",
-          "upside_pct": 14.74,
-          "institution": "Argus Research Company"
-        },
-        {
-          "date": "2026-07-31",
-          "rating": "Kupuj",
-          "upside_pct": 2.94,
-          "institution": "Ipopema Securities SA"
-        }
-      ],
-      "insider_events": [],
-      "p1_vet": 81.82,
-      "p1_core": 75.0,
-      "v3_score_vet": 77.21,
-      "v3_score_core": 73.45,
-      "v3_score_hard_only": 72.22,
+      "v3_score_hard_only": 69.75,
       "dual_veto": {
         "vetoed": false,
         "source": "none",
@@ -592,9 +492,9 @@
     {
       "ticker": "ACT",
       "name": "ACT",
-      "momentum": 36.18,
-      "median_turnover_20d_pln": 1235964.0,
-      "close": 60.6,
+      "momentum": 33.03,
+      "median_turnover_20d_pln": 1202933.0,
+      "close": 59.2,
       "conv1": 0.0,
       "sent1": 50.0,
       "posts365": 0,
@@ -602,13 +502,13 @@
       "sent2": 50.0,
       "uniq90": 0,
       "ok2": false,
-      "p2_hard_signals": 62.41,
-      "p3_risk_flow": 100.0,
-      "espi_score_raw": 0.794,
-      "broker_score_raw": 0.745,
+      "p2_hard_signals": 62.49,
+      "p3_risk_flow": 90.0,
+      "espi_score_raw": 0.768,
+      "broker_score_raw": 0.769,
       "insider_score_raw": 0.0,
       "knf_short_pct": 0.0,
-      "whale_acc": true,
+      "whale_acc": false,
       "whale_dist": false,
       "espi_red_flags": [],
       "espi_count_45d": 5,
@@ -648,7 +548,7 @@
         {
           "date": "2026-10-22",
           "rating": "Kupuj",
-          "upside_pct": 4.46,
+          "upside_pct": 6.93,
           "institution": "DM BOŚ SA"
         }
       ],
@@ -657,7 +557,7 @@
       "p1_core": null,
       "v3_score_vet": null,
       "v3_score_core": null,
-      "v3_score_hard_only": 71.81,
+      "v3_score_hard_only": 69.37,
       "dual_veto": {
         "vetoed": false,
         "source": "none",
@@ -668,9 +568,9 @@
     {
       "ticker": "ALL",
       "name": "ALL",
-      "momentum": 7.56,
+      "momentum": 6.78,
       "median_turnover_20d_pln": 249452.0,
-      "close": 16.5,
+      "close": 16.38,
       "conv1": 99.0,
       "sent1": 87.8,
       "posts365": 22,
@@ -678,10 +578,10 @@
       "sent2": 74.1,
       "uniq90": 4,
       "ok2": true,
-      "p2_hard_signals": 62.05,
+      "p2_hard_signals": 62.06,
       "p3_risk_flow": 90.0,
-      "espi_score_raw": 0.41,
-      "broker_score_raw": 0.949,
+      "espi_score_raw": 0.397,
+      "broker_score_raw": 0.958,
       "insider_score_raw": 0.0,
       "knf_short_pct": 0.0,
       "whale_acc": false,
@@ -700,142 +600,16 @@
         {
           "date": "2026-10-21",
           "rating": "Kupuj",
-          "upside_pct": 24.85,
+          "upside_pct": 25.76,
           "institution": "Trigon DM SA"
         }
       ],
       "insider_events": [],
       "p1_vet": 90.91,
-      "p1_core": 91.67,
+      "p1_core": 90.91,
       "v3_score_vet": 80.72,
-      "v3_score_core": 81.14,
-      "v3_score_hard_only": 69.04,
-      "dual_veto": {
-        "vetoed": false,
-        "source": "none",
-        "status": "clean",
-        "reason": "Brak trafien red-flag"
-      }
-    },
-    {
-      "ticker": "TOA",
-      "name": "TOA",
-      "momentum": 26.29,
-      "median_turnover_20d_pln": 996386.0,
-      "close": 13.26,
-      "conv1": 93.2,
-      "sent1": 85.1,
-      "posts365": 39,
-      "conv2": 62.7,
-      "sent2": 54.3,
-      "uniq90": 6,
-      "ok2": true,
-      "p2_hard_signals": 59.82,
-      "p3_risk_flow": 90.0,
-      "espi_score_raw": 0.0,
-      "broker_score_raw": 0.982,
-      "insider_score_raw": 0.0,
-      "knf_short_pct": 0.0,
-      "whale_acc": false,
-      "whale_dist": false,
-      "espi_red_flags": [],
-      "espi_count_45d": 1,
-      "espi_recent": [
-        {
-          "date": "2026-11-05",
-          "title": "Wyniki finansowe QSr 3/2026",
-          "sentiment": 0,
-          "category": "neutralny"
-        }
-      ],
-      "recommendations_recent": [
-        {
-          "date": "2026-10-16",
-          "rating": "Kupuj",
-          "upside_pct": 28.21,
-          "institution": "Noble Securities DM SA"
-        }
-      ],
-      "insider_events": [],
-      "p1_vet": 63.64,
-      "p1_core": 41.67,
-      "v3_score_vet": 64.94,
-      "v3_score_core": 52.86,
-      "v3_score_hard_only": 67.37,
-      "dual_veto": {
-        "vetoed": false,
-        "source": "forum_ollama",
-        "status": "rejected",
-        "reason": "nie opisuje realnego ryzyka",
-        "detail": {
-          "model": "llama3.1:8b",
-          "prompt_sha256": "38d8bebdb70ad72ac0b4af9b10f2d42d0428bb867a12b022917c2ff8fcfe28ab",
-          "created_at": "2026-11-24T23:39:50Z",
-          "rf_hits_count": 1,
-          "status": "rejected",
-          "is_genuine_red_flag": false,
-          "reason": "nie opisuje realnego ryzyka",
-          "raw_response": "{\"is_genuine_red_flag\": false, \"reason\": \"nie opisuje realnego ryzyka\"}"
-        }
-      }
-    },
-    {
-      "ticker": "VOX",
-      "name": "VOX",
-      "momentum": 5.41,
-      "median_turnover_20d_pln": 1171476.0,
-      "close": 140.4,
-      "conv1": 63.4,
-      "sent1": 45.2,
-      "posts365": 29,
-      "conv2": 66.9,
-      "sent2": 59.1,
-      "uniq90": 9,
-      "ok2": true,
-      "p2_hard_signals": 59.49,
-      "p3_risk_flow": 90.0,
-      "espi_score_raw": 0.0,
-      "broker_score_raw": 0.949,
-      "insider_score_raw": 0.0,
-      "knf_short_pct": 0.0,
-      "whale_acc": false,
-      "whale_dist": false,
-      "espi_red_flags": [],
-      "espi_count_45d": 3,
-      "espi_recent": [
-        {
-          "date": "2026-11-23",
-          "title": "Zmiana terminu publikacji skonsolidowanego raportu kwartalnego za III kwartał 2026 roku",
-          "sentiment": 0,
-          "category": "formalny"
-        },
-        {
-          "date": "2026-10-16",
-          "title": "Informacja o transakcjach uzyskana w trybie art. 19 MAR",
-          "sentiment": 0,
-          "category": "formalny"
-        },
-        {
-          "date": "2026-10-15",
-          "title": "Informacja o transakcjach uzyskana w trybie art. 19 MAR",
-          "sentiment": 0,
-          "category": "formalny"
-        }
-      ],
-      "recommendations_recent": [
-        {
-          "date": "2026-11-12",
-          "rating": "Kupuj",
-          "upside_pct": 24.86,
-          "institution": "DM BOŚ SA"
-        }
-      ],
-      "insider_events": [],
-      "p1_vet": null,
-      "p1_core": 58.33,
-      "v3_score_vet": null,
-      "v3_score_core": 61.9,
-      "v3_score_hard_only": 67.12,
+      "v3_score_core": 80.72,
+      "v3_score_hard_only": 69.05,
       "dual_veto": {
         "vetoed": false,
         "source": "none",
@@ -846,9 +620,9 @@
     {
       "ticker": "MAB",
       "name": "MAB",
-      "momentum": 4.74,
-      "median_turnover_20d_pln": 265351.0,
-      "close": 8.17,
+      "momentum": 1.92,
+      "median_turnover_20d_pln": 293552.0,
+      "close": 7.95,
       "conv1": 0.0,
       "sent1": 50.0,
       "posts365": 1,
@@ -856,17 +630,23 @@
       "sent2": 50.0,
       "uniq90": 0,
       "ok2": false,
-      "p2_hard_signals": 59.41,
+      "p2_hard_signals": 61.1,
       "p3_risk_flow": 90.0,
-      "espi_score_raw": 1.505,
+      "espi_score_raw": 1.456,
       "broker_score_raw": 0.0,
-      "insider_score_raw": 0.0,
+      "insider_score_raw": 0.5,
       "knf_short_pct": 0.0,
       "whale_acc": false,
       "whale_dist": false,
       "espi_red_flags": [],
-      "espi_count_45d": 4,
+      "espi_count_45d": 5,
       "espi_recent": [
+        {
+          "date": "2026-11-25",
+          "title": "Otrzymanie zawiadomienia o zmniejszeniu stanu posiadania poniżej 10% ogólnej liczby głosów w Spółce",
+          "sentiment": 0,
+          "category": "inne"
+        },
         {
           "date": "2026-11-17",
           "title": "Wyniki finansowe Q 3/2026",
@@ -893,12 +673,19 @@
         }
       ],
       "recommendations_recent": [],
-      "insider_events": [],
+      "insider_events": [
+        {
+          "date": "2026-11-25",
+          "kind": "art69",
+          "delta": 0.5,
+          "label": "🟢 ZWIĘKSZENIE (>5%)"
+        }
+      ],
       "p1_vet": null,
       "p1_core": null,
       "v3_score_vet": null,
       "v3_score_core": null,
-      "v3_score_hard_only": 67.06,
+      "v3_score_hard_only": 68.33,
       "dual_veto": {
         "vetoed": false,
         "source": "none",
@@ -907,11 +694,73 @@
       }
     },
     {
+      "ticker": "TOA",
+      "name": "TOA",
+      "momentum": 26.67,
+      "median_turnover_20d_pln": 1047475.0,
+      "close": 13.3,
+      "conv1": 93.2,
+      "sent1": 85.1,
+      "posts365": 39,
+      "conv2": 62.7,
+      "sent2": 54.3,
+      "uniq90": 5,
+      "ok2": true,
+      "p2_hard_signals": 59.78,
+      "p3_risk_flow": 90.0,
+      "espi_score_raw": 0.0,
+      "broker_score_raw": 0.978,
+      "insider_score_raw": 0.0,
+      "knf_short_pct": 0.0,
+      "whale_acc": false,
+      "whale_dist": false,
+      "espi_red_flags": [],
+      "espi_count_45d": 1,
+      "espi_recent": [
+        {
+          "date": "2026-11-05",
+          "title": "Wyniki finansowe QSr 3/2026",
+          "sentiment": 0,
+          "category": "neutralny"
+        }
+      ],
+      "recommendations_recent": [
+        {
+          "date": "2026-10-16",
+          "rating": "Kupuj",
+          "upside_pct": 27.82,
+          "institution": "Noble Securities DM SA"
+        }
+      ],
+      "insider_events": [],
+      "p1_vet": 72.73,
+      "p1_core": 45.45,
+      "v3_score_vet": 69.92,
+      "v3_score_core": 54.92,
+      "v3_score_hard_only": 67.34,
+      "dual_veto": {
+        "vetoed": false,
+        "source": "forum_ollama",
+        "status": "rejected",
+        "reason": "nie opisuje realnego ryzyka",
+        "detail": {
+          "model": "llama3.1:8b",
+          "prompt_sha256": "38d8bebdb70ad72ac0b4af9b10f2d42d0428bb867a12b022917c2ff8fcfe28ab",
+          "created_at": "2026-11-25T20:40:06Z",
+          "rf_hits_count": 1,
+          "status": "rejected",
+          "is_genuine_red_flag": false,
+          "reason": "nie opisuje realnego ryzyka",
+          "raw_response": "{\"is_genuine_red_flag\": false, \"reason\": \"nie opisuje realnego ryzyka\"}"
+        }
+      }
+    },
+    {
       "ticker": "ECH",
       "name": "ECH",
-      "momentum": 4.17,
+      "momentum": 3.03,
       "median_turnover_20d_pln": 139460.0,
-      "close": 5.5,
+      "close": 5.44,
       "conv1": 74.0,
       "sent1": 62.6,
       "posts365": 13,
@@ -919,17 +768,23 @@
       "sent2": 45.9,
       "uniq90": 3,
       "ok2": true,
-      "p2_hard_signals": 59.41,
+      "p2_hard_signals": 59.11,
       "p3_risk_flow": 90.0,
-      "espi_score_raw": 1.506,
+      "espi_score_raw": 1.457,
       "broker_score_raw": 0.0,
       "insider_score_raw": 0.0,
       "knf_short_pct": 0.0,
       "whale_acc": false,
       "whale_dist": false,
       "espi_red_flags": [],
-      "espi_count_45d": 7,
+      "espi_count_45d": 8,
       "espi_recent": [
+        {
+          "date": "2026-11-25",
+          "title": "Emisja obligacji serii 9I/2026",
+          "sentiment": 0,
+          "category": "inne"
+        },
         {
           "date": "2026-11-20",
           "title": "Spełnienie warunku do wypłaty zaliczki na poczet przyszłej dywidendy za rok obrotowy 2026",
@@ -953,21 +808,15 @@
           "title": "Stanowisko Zarządu Echo Investment S.A. dotyczące wezwania do zapisywania się na sprzedaz akcji Echo Investment S.A.",
           "sentiment": 0,
           "category": "formalny"
-        },
-        {
-          "date": "2026-11-10",
-          "title": "Uchwała w sprawie warunkowej wypłaty zaliczki na poczet przyszłej dywidendy za rok obrotowy 2026",
-          "sentiment": 1,
-          "category": "wyniki"
         }
       ],
       "recommendations_recent": [],
       "insider_events": [],
-      "p1_vet": 18.18,
-      "p1_core": 16.67,
-      "v3_score_vet": 39.79,
-      "v3_score_core": 38.96,
-      "v3_score_hard_only": 67.06,
+      "p1_vet": 9.09,
+      "p1_core": 18.18,
+      "v3_score_vet": 34.69,
+      "v3_score_core": 39.69,
+      "v3_score_hard_only": 66.83,
       "dual_veto": {
         "vetoed": false,
         "source": "none",
@@ -978,9 +827,9 @@
     {
       "ticker": "WAS",
       "name": "WAS",
-      "momentum": 57.49,
-      "median_turnover_20d_pln": 2049627.0,
-      "close": 9.04,
+      "momentum": 54.01,
+      "median_turnover_20d_pln": 2217762.0,
+      "close": 8.84,
       "conv1": 95.8,
       "sent1": 89.6,
       "posts365": 11,
@@ -988,9 +837,9 @@
       "sent2": 50.0,
       "uniq90": 2,
       "ok2": false,
-      "p2_hard_signals": 58.12,
+      "p2_hard_signals": 57.86,
       "p3_risk_flow": 90.0,
-      "espi_score_raw": 1.3,
+      "espi_score_raw": 1.258,
       "broker_score_raw": 0.0,
       "insider_score_raw": 0.0,
       "knf_short_pct": 0.0,
@@ -1032,11 +881,11 @@
       ],
       "recommendations_recent": [],
       "insider_events": [],
-      "p1_vet": 72.73,
+      "p1_vet": 81.82,
       "p1_core": null,
-      "v3_score_vet": 69.34,
+      "v3_score_vet": 74.25,
       "v3_score_core": null,
-      "v3_score_hard_only": 66.09,
+      "v3_score_hard_only": 65.89,
       "dual_veto": {
         "vetoed": false,
         "source": "none",
@@ -1045,11 +894,69 @@
       }
     },
     {
-      "ticker": "AGO",
-      "name": "AGO",
-      "momentum": 29.78,
-      "median_turnover_20d_pln": 451502.0,
-      "close": 11.55,
+      "ticker": "CLD",
+      "name": "CLD",
+      "momentum": 8.95,
+      "median_turnover_20d_pln": 300332.0,
+      "close": 103.5,
+      "conv1": 76.1,
+      "sent1": 71.7,
+      "posts365": 12,
+      "conv2": 79.0,
+      "sent2": 79.4,
+      "uniq90": 5,
+      "ok2": true,
+      "p2_hard_signals": 57.73,
+      "p3_risk_flow": 90.0,
+      "espi_score_raw": 0.936,
+      "broker_score_raw": 0.188,
+      "insider_score_raw": 0.0,
+      "knf_short_pct": 0.0,
+      "whale_acc": false,
+      "whale_dist": false,
+      "espi_red_flags": [],
+      "espi_count_45d": 2,
+      "espi_recent": [
+        {
+          "date": "2026-11-23",
+          "title": "Szacunkowa miesięczna dynamika sprzedaży danych do kluczowych klientów za wrzesień 2026 roku",
+          "sentiment": 1,
+          "category": "wyniki"
+        },
+        {
+          "date": "2026-10-26",
+          "title": "Szacunkowa miesięczna dynamika sprzedaży danych do kluczowych klientów za sierpień 2026 roku",
+          "sentiment": 0,
+          "category": "wyniki"
+        }
+      ],
+      "recommendations_recent": [
+        {
+          "date": "2026-09-29",
+          "rating": "Trzymaj",
+          "upside_pct": 18.84,
+          "institution": "DM BOŚ SA"
+        }
+      ],
+      "insider_events": [],
+      "p1_vet": 27.27,
+      "p1_core": 100.0,
+      "v3_score_vet": 44.2,
+      "v3_score_core": 84.21,
+      "v3_score_hard_only": 65.8,
+      "dual_veto": {
+        "vetoed": false,
+        "source": "none",
+        "status": "clean",
+        "reason": "Brak trafien red-flag"
+      }
+    },
+    {
+      "ticker": "TPE",
+      "name": "TPE",
+      "momentum": 4.12,
+      "median_turnover_20d_pln": 20392355.0,
+      "close": 8.734,
       "conv1": 0.0,
       "sent1": 50.0,
       "posts365": 0,
@@ -1057,10 +964,80 @@
       "sent2": 50.0,
       "uniq90": 0,
       "ok2": false,
-      "p2_hard_signals": 57.46,
+      "p2_hard_signals": 57.63,
+      "p3_risk_flow": 90.0,
+      "espi_score_raw": 1.173,
+      "broker_score_raw": 0.03,
+      "insider_score_raw": 0.0,
+      "knf_short_pct": 0.0,
+      "whale_acc": false,
+      "whale_dist": false,
+      "espi_red_flags": [],
+      "espi_count_45d": 6,
+      "espi_recent": [
+        {
+          "date": "2026-11-18",
+          "title": "Wyniki finansowe QSr 3/2026",
+          "sentiment": 0,
+          "category": "wyniki"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "Zawarcie listu intencyjnego w sprawie rozwoju projektów OZE przez spółkę zależną Emitenta",
+          "sentiment": 1,
+          "category": "umowa"
+        },
+        {
+          "date": "2026-11-04",
+          "title": "Podjęcie decyzji o wyborze wykonawcy i zawarcie umowy na dostawę dwóch wysp turbinowych dla kogeneracyjnego źródła ciepł",
+          "sentiment": 1,
+          "category": "umowa"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "Szacunkowe wyniki Grupy Kapitałowej TAURON za 9 miesięcy 2026 r. i III kwartał 2026 r.",
+          "sentiment": 0,
+          "category": "wyniki"
+        },
+        {
+          "date": "2026-10-28",
+          "title": "Podpisanie aneksu do umowy kredytu z Bankiem Gospodarstwa Krajowego",
+          "sentiment": 0,
+          "category": "umowa"
+        }
+      ],
+      "recommendations_recent": [
+        {
+          "date": "2026-10-20",
+          "rating": "Trzymaj",
+          "upside_pct": 3.05,
+          "institution": "DM BOŚ SA"
+        }
+      ],
+      "insider_events": [],
+      "p1_vet": null,
+      "p1_core": null,
+      "v3_score_vet": null,
+      "v3_score_core": null,
+      "v3_score_hard_only": 65.72
+    },
+    {
+      "ticker": "AGO",
+      "name": "AGO",
+      "momentum": 30.9,
+      "median_turnover_20d_pln": 451502.0,
+      "close": 11.65,
+      "conv1": 0.0,
+      "sent1": 50.0,
+      "posts365": 0,
+      "conv2": 0.0,
+      "sent2": 50.0,
+      "uniq90": 0,
+      "ok2": false,
+      "p2_hard_signals": 57.37,
       "p3_risk_flow": 90.0,
       "espi_score_raw": 0.0,
-      "broker_score_raw": 0.746,
+      "broker_score_raw": 0.737,
       "insider_score_raw": 0.0,
       "knf_short_pct": 0.0,
       "whale_acc": false,
@@ -1103,7 +1080,7 @@
         {
           "date": "2026-09-03",
           "rating": "Kupuj",
-          "upside_pct": 4.59,
+          "upside_pct": 3.69,
           "institution": "DM BDM SA"
         }
       ],
@@ -1112,82 +1089,24 @@
       "p1_core": null,
       "v3_score_vet": null,
       "v3_score_core": null,
-      "v3_score_hard_only": 65.59
-    },
-    {
-      "ticker": "CLD",
-      "name": "CLD",
-      "momentum": 14.74,
-      "median_turnover_20d_pln": 304370.0,
-      "close": 109.0,
-      "conv1": 76.1,
-      "sent1": 71.7,
-      "posts365": 12,
-      "conv2": 79.0,
-      "sent2": 79.4,
-      "uniq90": 5,
-      "ok2": true,
-      "p2_hard_signals": 57.33,
-      "p3_risk_flow": 90.0,
-      "espi_score_raw": 0.968,
-      "broker_score_raw": 0.128,
-      "insider_score_raw": 0.0,
-      "knf_short_pct": 0.0,
-      "whale_acc": false,
-      "whale_dist": false,
-      "espi_red_flags": [],
-      "espi_count_45d": 2,
-      "espi_recent": [
-        {
-          "date": "2026-11-23",
-          "title": "Szacunkowa miesięczna dynamika sprzedaży danych do kluczowych klientów za wrzesień 2026 roku",
-          "sentiment": 1,
-          "category": "wyniki"
-        },
-        {
-          "date": "2026-10-26",
-          "title": "Szacunkowa miesięczna dynamika sprzedaży danych do kluczowych klientów za sierpień 2026 roku",
-          "sentiment": 0,
-          "category": "wyniki"
-        }
-      ],
-      "recommendations_recent": [
-        {
-          "date": "2026-09-29",
-          "rating": "Trzymaj",
-          "upside_pct": 12.84,
-          "institution": "DM BOŚ SA"
-        }
-      ],
-      "insider_events": [],
-      "p1_vet": 27.27,
-      "p1_core": 100.0,
-      "v3_score_vet": 44.06,
-      "v3_score_core": 84.07,
-      "v3_score_hard_only": 65.5,
-      "dual_veto": {
-        "vetoed": false,
-        "source": "none",
-        "status": "clean",
-        "reason": "Brak trafien red-flag"
-      }
+      "v3_score_hard_only": 65.53
     },
     {
       "ticker": "CDR",
       "name": "CDR",
-      "momentum": 15.52,
+      "momentum": 15.01,
       "median_turnover_20d_pln": 76252454.0,
-      "close": 273.2,
-      "conv1": 72.2,
-      "sent1": 50.1,
-      "posts365": 134,
-      "conv2": 60.6,
-      "sent2": 51.9,
-      "uniq90": 24,
+      "close": 272.0,
+      "conv1": 75.6,
+      "sent1": 51.2,
+      "posts365": 135,
+      "conv2": 61.4,
+      "sent2": 52.4,
+      "uniq90": 20,
       "ok2": true,
-      "p2_hard_signals": 56.25,
+      "p2_hard_signals": 56.05,
       "p3_risk_flow": 90.0,
-      "espi_score_raw": 1.0,
+      "espi_score_raw": 0.968,
       "broker_score_raw": 0.0,
       "insider_score_raw": 0.0,
       "knf_short_pct": 0.0,
@@ -1211,11 +1130,11 @@
       ],
       "recommendations_recent": [],
       "insider_events": [],
-      "p1_vet": 9.09,
-      "p1_core": 25.0,
-      "v3_score_vet": 33.69,
-      "v3_score_core": 42.44,
-      "v3_score_hard_only": 64.69,
+      "p1_vet": 18.18,
+      "p1_core": 27.27,
+      "v3_score_vet": 38.62,
+      "v3_score_core": 43.62,
+      "v3_score_hard_only": 64.54,
       "dual_veto": {
         "vetoed": false,
         "source": "none",
@@ -1224,11 +1143,81 @@
       }
     },
     {
-      "ticker": "ALE",
-      "name": "ALE",
-      "momentum": 46.02,
-      "median_turnover_20d_pln": 309072265.0,
-      "close": 66.22,
+      "ticker": "MBR",
+      "name": "MBR",
+      "momentum": 7.31,
+      "median_turnover_20d_pln": 1687580.0,
+      "close": 418.5,
+      "conv1": 79.5,
+      "sent1": 53.7,
+      "posts365": 91,
+      "conv2": 61.9,
+      "sent2": 52.8,
+      "uniq90": 23,
+      "ok2": true,
+      "p2_hard_signals": 54.54,
+      "p3_risk_flow": 90.0,
+      "espi_score_raw": 0.0,
+      "broker_score_raw": 0.454,
+      "insider_score_raw": 0.0,
+      "knf_short_pct": 0.0,
+      "whale_acc": false,
+      "whale_dist": false,
+      "espi_red_flags": [],
+      "espi_count_45d": 4,
+      "espi_recent": [
+        {
+          "date": "2026-11-25",
+          "title": "Przyjęcie przez Fundację Rodzinną DOTS „Opcji Put” dotyczącej 5% udziałów w EL-KAJO Sp. z o.o.",
+          "sentiment": 0,
+          "category": "inne"
+        },
+        {
+          "date": "2026-11-25",
+          "title": "Ustanowienie zastawu rejestrowego",
+          "sentiment": 0,
+          "category": "formalny"
+        },
+        {
+          "date": "2026-11-19",
+          "title": "Wyniki finansowe QSr 3/2026",
+          "sentiment": 0,
+          "category": "formalny"
+        },
+        {
+          "date": "2026-10-26",
+          "title": "Ustanowienie zastawu rejestrowego",
+          "sentiment": 0,
+          "category": "formalny"
+        }
+      ],
+      "recommendations_recent": [
+        {
+          "date": "2026-08-31",
+          "rating": "Akumuluj",
+          "upside_pct": 10.39,
+          "institution": "Noble Securities DM SA"
+        }
+      ],
+      "insider_events": [],
+      "p1_vet": 45.45,
+      "p1_core": 36.36,
+      "v3_score_vet": 53.09,
+      "v3_score_core": 48.09,
+      "v3_score_hard_only": 63.41,
+      "dual_veto": {
+        "vetoed": false,
+        "source": "none",
+        "status": "clean",
+        "reason": "Brak trafien red-flag"
+      }
+    },
+    {
+      "ticker": "STX",
+      "name": "STX",
+      "momentum": 14.19,
+      "median_turnover_20d_pln": 652993.0,
+      "close": 2.06,
       "conv1": 0.0,
       "sent1": 50.0,
       "posts365": 0,
@@ -1236,12 +1225,524 @@
       "sent2": 50.0,
       "uniq90": 0,
       "ok2": false,
-      "p2_hard_signals": 56.21,
+      "p2_hard_signals": 54.37,
       "p3_risk_flow": 90.0,
-      "espi_score_raw": 0.673,
+      "espi_score_raw": 0.699,
+      "broker_score_raw": 0.0,
+      "insider_score_raw": 0.0,
+      "knf_short_pct": 0.0,
+      "whale_acc": false,
+      "whale_dist": false,
+      "espi_red_flags": [],
+      "espi_count_45d": 5,
+      "espi_recent": [
+        {
+          "date": "2026-11-18",
+          "title": "Uchwała o zamiarze przeprowadzenia procedury zwolnień grupowych w Stalexport Autostrada Małopolska S.A., spółce zależnej",
+          "sentiment": 0,
+          "category": "inne"
+        },
+        {
+          "date": "2026-11-12",
+          "title": "Wyniki finansowe QSr 3/2026",
+          "sentiment": 0,
+          "category": "wyniki"
+        },
+        {
+          "date": "2026-10-27",
+          "title": "Podjęcie przez Radę Nadzorczą Stalexport Autostrada Małopolska S.A. uchwały o wypłacie akcjonariuszom Stalexport Autostr",
+          "sentiment": 1,
+          "category": "dywidenda"
+        },
+        {
+          "date": "2026-10-23",
+          "title": "Wybrane wstępne skonsolidowane dane finansowe Grupy Stalexport Autostrady S.A. za okres 9 miesięcy 2026 r. (kończący się",
+          "sentiment": 0,
+          "category": "wyniki"
+        },
+        {
+          "date": "2026-10-21",
+          "title": "Podjęcie przez Zarząd Stalexport Autostrada Małopolska S.A. uchwały o wypłacie zaliczki na poczet przewidywanej dywidend",
+          "sentiment": 1,
+          "category": "wyniki"
+        }
+      ],
+      "recommendations_recent": [],
+      "insider_events": [],
+      "p1_vet": null,
+      "p1_core": null,
+      "v3_score_vet": null,
+      "v3_score_core": null,
+      "v3_score_hard_only": 63.28
+    },
+    {
+      "ticker": "CAR",
+      "name": "CAR",
+      "momentum": 5.44,
+      "median_turnover_20d_pln": 5051054.0,
+      "close": 1028.0,
+      "conv1": 0.0,
+      "sent1": 50.0,
+      "posts365": 0,
+      "conv2": 0.0,
+      "sent2": 50.0,
+      "uniq90": 0,
+      "ok2": false,
+      "p2_hard_signals": 54.37,
+      "p3_risk_flow": 90.0,
+      "espi_score_raw": 0.0,
+      "broker_score_raw": 0.437,
+      "insider_score_raw": 0.0,
+      "knf_short_pct": 0.0,
+      "whale_acc": false,
+      "whale_dist": false,
+      "espi_red_flags": [],
+      "espi_count_45d": 3,
+      "espi_recent": [
+        {
+          "date": "2026-11-17",
+          "title": "Wyniki finansowe QSr 3/2026",
+          "sentiment": 0,
+          "category": "wyniki"
+        },
+        {
+          "date": "2026-11-09",
+          "title": "Informacja o miesięcznych przychodach ze sprzedaży Grupy Kapitałowej Inter Cars",
+          "sentiment": 0,
+          "category": "wyniki"
+        },
+        {
+          "date": "2026-10-29",
+          "title": "Informacja o stanie stosowania Dobrych Praktyk 2021",
+          "sentiment": 0,
+          "category": "inne"
+        }
+      ],
+      "recommendations_recent": [
+        {
+          "date": "2026-08-13",
+          "rating": "Akumuluj",
+          "upside_pct": 8.66,
+          "institution": "Noble Securities DM SA"
+        }
+      ],
+      "insider_events": [],
+      "p1_vet": null,
+      "p1_core": null,
+      "v3_score_vet": null,
+      "v3_score_core": null,
+      "v3_score_hard_only": 63.28
+    },
+    {
+      "ticker": "ANR",
+      "name": "ANR",
+      "momentum": 7.32,
+      "median_turnover_20d_pln": 237276.0,
+      "close": 22.0,
+      "conv1": 71.9,
+      "sent1": 50.6,
+      "posts365": 19,
+      "conv2": 74.8,
+      "sent2": 70.8,
+      "uniq90": 6,
+      "ok2": true,
+      "p2_hard_signals": 52.92,
+      "p3_risk_flow": 90.0,
+      "espi_score_raw": 0.468,
+      "broker_score_raw": 0.0,
+      "insider_score_raw": 0.0,
+      "knf_short_pct": 0.0,
+      "whale_acc": false,
+      "whale_dist": false,
+      "espi_red_flags": [],
+      "espi_count_45d": 2,
+      "espi_recent": [
+        {
+          "date": "2026-11-17",
+          "title": "Wyniki finansowe Q 3/2026",
+          "sentiment": 0,
+          "category": "wyniki"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "Przedłużenie umów na finansowanie zawartych z Bankiem Handlowym SA z siedzibą w Warszawie",
+          "sentiment": 1,
+          "category": "umowa"
+        }
+      ],
+      "recommendations_recent": [],
+      "insider_events": [],
+      "p1_vet": 0.0,
+      "p1_core": 81.82,
+      "v3_score_vet": 27.52,
+      "v3_score_core": 72.52,
+      "v3_score_hard_only": 62.19,
+      "dual_veto": {
+        "vetoed": false,
+        "source": "none",
+        "status": "clean",
+        "reason": "Brak trafien red-flag"
+      }
+    },
+    {
+      "ticker": "NTT",
+      "name": "NTT",
+      "momentum": 101.89,
+      "median_turnover_20d_pln": 4506437.0,
+      "close": 32.0,
+      "conv1": 0.0,
+      "sent1": 50.0,
+      "posts365": 0,
+      "conv2": 0.0,
+      "sent2": 50.0,
+      "uniq90": 0,
+      "ok2": false,
+      "p2_hard_signals": 50.0,
+      "p3_risk_flow": 90.0,
+      "espi_score_raw": 0.0,
+      "broker_score_raw": 0.0,
+      "insider_score_raw": 0.0,
+      "knf_short_pct": 0.0,
+      "whale_acc": false,
+      "whale_dist": false,
+      "espi_red_flags": [],
+      "espi_count_45d": 0,
+      "espi_recent": [],
+      "recommendations_recent": [],
+      "insider_events": [],
+      "p1_vet": null,
+      "p1_core": null,
+      "v3_score_vet": null,
+      "v3_score_core": null,
+      "v3_score_hard_only": 60.0
+    },
+    {
+      "ticker": "ZEP",
+      "name": "ZEP",
+      "momentum": 36.13,
+      "median_turnover_20d_pln": 297214.0,
+      "close": 24.15,
+      "conv1": 0.0,
+      "sent1": 50.0,
+      "posts365": 0,
+      "conv2": 0.0,
+      "sent2": 50.0,
+      "uniq90": 0,
+      "ok2": false,
+      "p2_hard_signals": 50.0,
+      "p3_risk_flow": 90.0,
+      "espi_score_raw": 0.242,
+      "broker_score_raw": -0.151,
+      "insider_score_raw": 0.0,
+      "knf_short_pct": 0.0,
+      "whale_acc": false,
+      "whale_dist": false,
+      "espi_red_flags": [],
+      "espi_count_45d": 4,
+      "espi_recent": [
+        {
+          "date": "2026-11-20",
+          "title": "Otrzymanie zawiadomienia od Argumenol Investment Company Limited o podwyższeniu ceny w wezwaniu do zapisywania się na sp",
+          "sentiment": 0,
+          "category": "inne"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia ZE PAK SA",
+          "sentiment": 0,
+          "category": "formalny"
+        },
+        {
+          "date": "2026-11-10",
+          "title": "Stanowisko Zarządu ZE PAK S.A. dotyczące wezwania do zapisywania się na sprzedaż akcji ZE PAK S.A., ogłoszonego w dniu 2",
+          "sentiment": 0,
+          "category": "formalny"
+        },
+        {
+          "date": "2026-10-13",
+          "title": "Zawarcie umowy akcjonariuszy dotyczącej realizacji projektu SMR w Pątnowie",
+          "sentiment": 1,
+          "category": "umowa"
+        }
+      ],
+      "recommendations_recent": [
+        {
+          "date": "2026-10-15",
+          "rating": "Trzymaj",
+          "upside_pct": -15.11,
+          "institution": "BM Pekao SA"
+        }
+      ],
+      "insider_events": [],
+      "p1_vet": null,
+      "p1_core": null,
+      "v3_score_vet": null,
+      "v3_score_core": null,
+      "v3_score_hard_only": 60.0
+    },
+    {
+      "ticker": "KGN",
+      "name": "KGN",
+      "momentum": 30.16,
+      "median_turnover_20d_pln": 663576.0,
+      "close": 90.2,
+      "conv1": 77.8,
+      "sent1": 52.4,
+      "posts365": 161,
+      "conv2": 45.3,
+      "sent2": 41.3,
+      "uniq90": 11,
+      "ok2": true,
+      "p2_hard_signals": 50.0,
+      "p3_risk_flow": 90.0,
+      "espi_score_raw": 0.0,
+      "broker_score_raw": 0.0,
+      "insider_score_raw": 0.0,
+      "knf_short_pct": 0.0,
+      "whale_acc": false,
+      "whale_dist": false,
+      "espi_red_flags": [],
+      "espi_count_45d": 5,
+      "espi_recent": [
+        {
+          "date": "2026-11-25",
+          "title": "Zmiana porządku obrad Nadzwyczajnego Walnego Zgromadzenia Spółki Zespół Elektrociepłowni Wrocławskich KOGENERACJA S.A. z",
+          "sentiment": 0,
+          "category": "formalny"
+        },
+        {
+          "date": "2026-11-24",
+          "title": "Wyniki finansowe QSr 3/2026",
+          "sentiment": 0,
+          "category": "wyniki"
+        },
+        {
+          "date": "2026-11-19",
+          "title": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Spółki Zespół Elektrociepłowni Wrocławskich KOGENERACJA S.A. n",
+          "sentiment": 0,
+          "category": "formalny"
+        },
+        {
+          "date": "2026-11-03",
+          "title": "Szacunki wybranych danych finansowych i operacyjnych za okres 3 i 9 miesięcy zakończony 30 września 2026 r.",
+          "sentiment": 0,
+          "category": "wyniki"
+        },
+        {
+          "date": "2026-11-03",
+          "title": "Wybrane dane produkcyjne za okres 3 i 9 miesięcy zakończony 30 września 2026 r.",
+          "sentiment": 0,
+          "category": "wyniki"
+        }
+      ],
+      "recommendations_recent": [],
+      "insider_events": [],
+      "p1_vet": 36.36,
+      "p1_core": 9.09,
+      "v3_score_vet": 46.5,
+      "v3_score_core": 31.5,
+      "v3_score_hard_only": 60.0,
+      "dual_veto": {
+        "vetoed": false,
+        "source": "none",
+        "status": "clean",
+        "reason": "Brak trafien red-flag"
+      }
+    },
+    {
+      "ticker": "1AT",
+      "name": "1AT",
+      "momentum": 5.84,
+      "median_turnover_20d_pln": 812817.0,
+      "close": 59.8,
+      "conv1": 54.5,
+      "sent1": 49.4,
+      "posts365": 4,
+      "conv2": 0.0,
+      "sent2": 50.0,
+      "uniq90": 0,
+      "ok2": false,
+      "p2_hard_signals": 50.0,
+      "p3_risk_flow": 90.0,
+      "espi_score_raw": 0.0,
+      "broker_score_raw": 0.0,
+      "insider_score_raw": 0.0,
+      "knf_short_pct": 0.0,
+      "whale_acc": false,
+      "whale_dist": false,
+      "espi_red_flags": [],
+      "espi_count_45d": 0,
+      "espi_recent": [],
+      "recommendations_recent": [],
+      "insider_events": [],
+      "p1_vet": null,
+      "p1_core": null,
+      "v3_score_vet": null,
+      "v3_score_core": null,
+      "v3_score_hard_only": 60.0
+    },
+    {
+      "ticker": "CBF",
+      "name": "CBF",
+      "momentum": 5.04,
+      "median_turnover_20d_pln": 4510250.0,
+      "close": 208.4,
+      "conv1": 92.7,
+      "sent1": 70.0,
+      "posts365": 120,
+      "conv2": 73.5,
+      "sent2": 65.7,
+      "uniq90": 25,
+      "ok2": true,
+      "p2_hard_signals": 50.0,
+      "p3_risk_flow": 90.0,
+      "espi_score_raw": 0.0,
+      "broker_score_raw": 0.0,
+      "insider_score_raw": 0.0,
+      "knf_short_pct": 0.0,
+      "whale_acc": false,
+      "whale_dist": false,
+      "espi_red_flags": [],
+      "espi_count_45d": 3,
+      "espi_recent": [
+        {
+          "date": "2026-11-25",
+          "title": "Powiadomienie o transakcjach w trybie art. 19 MAR",
+          "sentiment": 0,
+          "category": "wyniki"
+        },
+        {
+          "date": "2026-11-20",
+          "title": "Powiadomienie o transakcjach w trybie art. 19 MAR",
+          "sentiment": 0,
+          "category": "wyniki"
+        },
+        {
+          "date": "2026-11-16",
+          "title": "Wyniki finansowe QSr 3/2026",
+          "sentiment": 0,
+          "category": "formalny"
+        }
+      ],
+      "recommendations_recent": [],
+      "insider_events": [
+        {
+          "date": "2026-11-25",
+          "kind": "art19",
+          "delta": -1.0,
+          "label": "🔴 SPRZEDAŻ / ZBYCIE"
+        },
+        {
+          "date": "2026-11-20",
+          "kind": "art19",
+          "delta": 1.0,
+          "label": "🟢 KUPNO / NABYCIE"
+        }
+      ],
+      "p1_vet": 63.64,
+      "p1_core": 72.73,
+      "v3_score_vet": 61.5,
+      "v3_score_core": 66.5,
+      "v3_score_hard_only": 60.0,
+      "dual_veto": {
+        "vetoed": false,
+        "source": "forum_ollama",
+        "status": "rejected",
+        "reason": "nie ma żadnego realnego ryzyka w tym fragmencie",
+        "detail": {
+          "model": "llama3.1:8b",
+          "prompt_sha256": "3451342720ca45f0e6d4c7132f2f50cef9308725f8276f5bf94e4700e4056172",
+          "created_at": "2026-11-25T20:40:09Z",
+          "rf_hits_count": 6,
+          "status": "rejected",
+          "is_genuine_red_flag": false,
+          "reason": "nie ma żadnego realnego ryzyka w tym fragmencie",
+          "raw_response": "{\"is_genuine_red_flag\": false, \"reason\": \"nie ma żadnego realnego ryzyka w tym fragmencie\"}"
+        }
+      }
+    },
+    {
+      "ticker": "MIL",
+      "name": "MIL",
+      "momentum": 2.81,
+      "median_turnover_20d_pln": 20726811.0,
+      "close": 21.59,
+      "conv1": 0.0,
+      "sent1": 50.0,
+      "posts365": 1,
+      "conv2": 0.0,
+      "sent2": 50.0,
+      "uniq90": 0,
+      "ok2": false,
+      "p2_hard_signals": 50.0,
+      "p3_risk_flow": 90.0,
+      "espi_score_raw": 0.0,
+      "broker_score_raw": 0.0,
+      "insider_score_raw": 0.0,
+      "knf_short_pct": 0.0,
+      "whale_acc": false,
+      "whale_dist": false,
+      "espi_red_flags": [],
+      "espi_count_45d": 10,
+      "espi_recent": [
+        {
+          "date": "2026-11-20",
+          "title": "Podjęcie przez Radę Nadzorczą Banku uchwały zatwierdzającej decyzję Zarządu Banku w sprawie emisji euroobligacji Additio",
+          "sentiment": 0,
+          "category": "inne"
+        },
+        {
+          "date": "2026-11-20",
+          "title": "Podjęcie przez Radę Nadzorczą Banku uchwały zatwierdzającej decyzję Zarządu Banku w sprawie emisji euroobligacji Additio",
+          "sentiment": 0,
+          "category": "inne"
+        },
+        {
+          "date": "2026-10-30",
+          "title": "Informacja w sprawie dodatkowego wymogu kapitałowego w ramach filara II (P2G)",
+          "sentiment": 0,
+          "category": "inne"
+        },
+        {
+          "date": "2026-10-30",
+          "title": "Informacja w sprawie dodatkowego wymogu kapitałowego w ramach filara II (P2G)",
+          "sentiment": 0,
+          "category": "inne"
+        },
+        {
+          "date": "2026-10-30",
+          "title": "Powiadomienie o zbyciu akcji Banku Millennium S.A. dokonane przez osobę pełniącą obowiązki zarządcze w Banku.",
+          "sentiment": 0,
+          "category": "formalny"
+        }
+      ],
+      "recommendations_recent": [],
+      "insider_events": [],
+      "p1_vet": null,
+      "p1_core": null,
+      "v3_score_vet": null,
+      "v3_score_core": null,
+      "v3_score_hard_only": 60.0
+    },
+    {
+      "ticker": "ALE",
+      "name": "ALE",
+      "momentum": 43.62,
+      "median_turnover_20d_pln": 312981543.0,
+      "close": 65.13,
+      "conv1": 0.0,
+      "sent1": 50.0,
+      "posts365": 0,
+      "conv2": 0.0,
+      "sent2": 50.0,
+      "uniq90": 0,
+      "ok2": false,
+      "p2_hard_signals": 56.07,
+      "p3_risk_flow": 68.8,
+      "espi_score_raw": 0.651,
       "broker_score_raw": 0.0,
       "insider_score_raw": 0.5,
-      "knf_short_pct": 0.0,
+      "knf_short_pct": 0.53,
       "whale_acc": false,
       "whale_dist": false,
       "espi_red_flags": [],
@@ -1291,428 +1792,14 @@
       "p1_core": null,
       "v3_score_vet": null,
       "v3_score_core": null,
-      "v3_score_hard_only": 64.66
-    },
-    {
-      "ticker": "MBR",
-      "name": "MBR",
-      "momentum": 6.67,
-      "median_turnover_20d_pln": 1687580.0,
-      "close": 416.0,
-      "conv1": 78.9,
-      "sent1": 53.2,
-      "posts365": 94,
-      "conv2": 61.9,
-      "sent2": 52.8,
-      "uniq90": 23,
-      "ok2": true,
-      "p2_hard_signals": 54.61,
-      "p3_risk_flow": 90.0,
-      "espi_score_raw": 0.0,
-      "broker_score_raw": 0.461,
-      "insider_score_raw": 0.0,
-      "knf_short_pct": 0.0,
-      "whale_acc": false,
-      "whale_dist": false,
-      "espi_red_flags": [],
-      "espi_count_45d": 2,
-      "espi_recent": [
-        {
-          "date": "2026-11-19",
-          "title": "Wyniki finansowe QSr 3/2026",
-          "sentiment": 0,
-          "category": "formalny"
-        },
-        {
-          "date": "2026-10-26",
-          "title": "Ustanowienie zastawu rejestrowego",
-          "sentiment": 0,
-          "category": "formalny"
-        }
-      ],
-      "recommendations_recent": [
-        {
-          "date": "2026-08-31",
-          "rating": "Akumuluj",
-          "upside_pct": 11.06,
-          "institution": "Noble Securities DM SA"
-        }
-      ],
-      "insider_events": [],
-      "p1_vet": 45.45,
-      "p1_core": 33.33,
-      "v3_score_vet": 53.11,
-      "v3_score_core": 46.45,
-      "v3_score_hard_only": 63.46,
-      "dual_veto": {
-        "vetoed": false,
-        "source": "none",
-        "status": "clean",
-        "reason": "Brak trafien red-flag"
-      }
-    },
-    {
-      "ticker": "STX",
-      "name": "STX",
-      "momentum": 14.47,
-      "median_turnover_20d_pln": 656569.0,
-      "close": 2.065,
-      "conv1": 0.0,
-      "sent1": 50.0,
-      "posts365": 0,
-      "conv2": 0.0,
-      "sent2": 50.0,
-      "uniq90": 0,
-      "ok2": false,
-      "p2_hard_signals": 54.51,
-      "p3_risk_flow": 90.0,
-      "espi_score_raw": 0.722,
-      "broker_score_raw": 0.0,
-      "insider_score_raw": 0.0,
-      "knf_short_pct": 0.0,
-      "whale_acc": false,
-      "whale_dist": false,
-      "espi_red_flags": [],
-      "espi_count_45d": 5,
-      "espi_recent": [
-        {
-          "date": "2026-11-18",
-          "title": "Uchwała o zamiarze przeprowadzenia procedury zwolnień grupowych w Stalexport Autostrada Małopolska S.A., spółce zależnej",
-          "sentiment": 0,
-          "category": "inne"
-        },
-        {
-          "date": "2026-11-12",
-          "title": "Wyniki finansowe QSr 3/2026",
-          "sentiment": 0,
-          "category": "wyniki"
-        },
-        {
-          "date": "2026-10-27",
-          "title": "Podjęcie przez Radę Nadzorczą Stalexport Autostrada Małopolska S.A. uchwały o wypłacie akcjonariuszom Stalexport Autostr",
-          "sentiment": 1,
-          "category": "dywidenda"
-        },
-        {
-          "date": "2026-10-23",
-          "title": "Wybrane wstępne skonsolidowane dane finansowe Grupy Stalexport Autostrady S.A. za okres 9 miesięcy 2026 r. (kończący się",
-          "sentiment": 0,
-          "category": "wyniki"
-        },
-        {
-          "date": "2026-10-21",
-          "title": "Podjęcie przez Zarząd Stalexport Autostrada Małopolska S.A. uchwały o wypłacie zaliczki na poczet przewidywanej dywidend",
-          "sentiment": 1,
-          "category": "wyniki"
-        }
-      ],
-      "recommendations_recent": [],
-      "insider_events": [],
-      "p1_vet": null,
-      "p1_core": null,
-      "v3_score_vet": null,
-      "v3_score_core": null,
-      "v3_score_hard_only": 63.38
-    },
-    {
-      "ticker": "CAR",
-      "name": "CAR",
-      "momentum": 5.85,
-      "median_turnover_20d_pln": 5201027.0,
-      "close": 1032.0,
-      "conv1": 0.0,
-      "sent1": 50.0,
-      "posts365": 0,
-      "conv2": 0.0,
-      "sent2": 50.0,
-      "uniq90": 0,
-      "ok2": false,
-      "p2_hard_signals": 54.32,
-      "p3_risk_flow": 90.0,
-      "espi_score_raw": 0.0,
-      "broker_score_raw": 0.432,
-      "insider_score_raw": 0.0,
-      "knf_short_pct": 0.0,
-      "whale_acc": false,
-      "whale_dist": false,
-      "espi_red_flags": [],
-      "espi_count_45d": 3,
-      "espi_recent": [
-        {
-          "date": "2026-11-17",
-          "title": "Wyniki finansowe QSr 3/2026",
-          "sentiment": 0,
-          "category": "wyniki"
-        },
-        {
-          "date": "2026-11-09",
-          "title": "Informacja o miesięcznych przychodach ze sprzedaży Grupy Kapitałowej Inter Cars",
-          "sentiment": 0,
-          "category": "wyniki"
-        },
-        {
-          "date": "2026-10-29",
-          "title": "Informacja o stanie stosowania Dobrych Praktyk 2021",
-          "sentiment": 0,
-          "category": "inne"
-        }
-      ],
-      "recommendations_recent": [
-        {
-          "date": "2026-08-13",
-          "rating": "Akumuluj",
-          "upside_pct": 8.24,
-          "institution": "Noble Securities DM SA"
-        }
-      ],
-      "insider_events": [],
-      "p1_vet": null,
-      "p1_core": null,
-      "v3_score_vet": null,
-      "v3_score_core": null,
-      "v3_score_hard_only": 63.24
-    },
-    {
-      "ticker": "ANR",
-      "name": "ANR",
-      "momentum": 9.51,
-      "median_turnover_20d_pln": 208664.0,
-      "close": 22.45,
-      "conv1": 71.9,
-      "sent1": 50.6,
-      "posts365": 19,
-      "conv2": 74.9,
-      "sent2": 70.8,
-      "uniq90": 6,
-      "ok2": true,
-      "p2_hard_signals": 53.02,
-      "p3_risk_flow": 90.0,
-      "espi_score_raw": 0.484,
-      "broker_score_raw": 0.0,
-      "insider_score_raw": 0.0,
-      "knf_short_pct": 0.0,
-      "whale_acc": false,
-      "whale_dist": false,
-      "espi_red_flags": [],
-      "espi_count_45d": 2,
-      "espi_recent": [
-        {
-          "date": "2026-11-17",
-          "title": "Wyniki finansowe Q 3/2026",
-          "sentiment": 0,
-          "category": "wyniki"
-        },
-        {
-          "date": "2026-11-02",
-          "title": "Przedłużenie umów na finansowanie zawartych z Bankiem Handlowym SA z siedzibą w Warszawie",
-          "sentiment": 1,
-          "category": "umowa"
-        }
-      ],
-      "recommendations_recent": [],
-      "insider_events": [],
-      "p1_vet": 0.0,
-      "p1_core": 83.33,
-      "v3_score_vet": 27.56,
-      "v3_score_core": 73.39,
-      "v3_score_hard_only": 62.27,
-      "dual_veto": {
-        "vetoed": false,
-        "source": "none",
-        "status": "clean",
-        "reason": "Brak trafien red-flag"
-      }
-    },
-    {
-      "ticker": "NTT",
-      "name": "NTT",
-      "momentum": 106.94,
-      "median_turnover_20d_pln": 4686133.0,
-      "close": 32.8,
-      "conv1": 0.0,
-      "sent1": 50.0,
-      "posts365": 0,
-      "conv2": 0.0,
-      "sent2": 50.0,
-      "uniq90": 0,
-      "ok2": false,
-      "p2_hard_signals": 50.0,
-      "p3_risk_flow": 90.0,
-      "espi_score_raw": 0.0,
-      "broker_score_raw": 0.0,
-      "insider_score_raw": 0.0,
-      "knf_short_pct": 0.0,
-      "whale_acc": false,
-      "whale_dist": false,
-      "espi_red_flags": [],
-      "espi_count_45d": 0,
-      "espi_recent": [],
-      "recommendations_recent": [],
-      "insider_events": [],
-      "p1_vet": null,
-      "p1_core": null,
-      "v3_score_vet": null,
-      "v3_score_core": null,
-      "v3_score_hard_only": 60.0
-    },
-    {
-      "ticker": "KGN",
-      "name": "KGN",
-      "momentum": 32.47,
-      "median_turnover_20d_pln": 663576.0,
-      "close": 91.8,
-      "conv1": 77.8,
-      "sent1": 52.4,
-      "posts365": 161,
-      "conv2": 45.3,
-      "sent2": 41.3,
-      "uniq90": 11,
-      "ok2": true,
-      "p2_hard_signals": 50.0,
-      "p3_risk_flow": 90.0,
-      "espi_score_raw": 0.0,
-      "broker_score_raw": 0.0,
-      "insider_score_raw": 0.0,
-      "knf_short_pct": 0.0,
-      "whale_acc": false,
-      "whale_dist": false,
-      "espi_red_flags": [],
-      "espi_count_45d": 4,
-      "espi_recent": [
-        {
-          "date": "2026-11-24",
-          "title": "Wyniki finansowe QSr 3/2026",
-          "sentiment": 0,
-          "category": "wyniki"
-        },
-        {
-          "date": "2026-11-19",
-          "title": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia Spółki Zespół Elektrociepłowni Wrocławskich KOGENERACJA S.A. n",
-          "sentiment": 0,
-          "category": "formalny"
-        },
-        {
-          "date": "2026-11-03",
-          "title": "Szacunki wybranych danych finansowych i operacyjnych za okres 3 i 9 miesięcy zakończony 30 września 2026 r.",
-          "sentiment": 0,
-          "category": "wyniki"
-        },
-        {
-          "date": "2026-11-03",
-          "title": "Wybrane dane produkcyjne za okres 3 i 9 miesięcy zakończony 30 września 2026 r.",
-          "sentiment": 0,
-          "category": "wyniki"
-        }
-      ],
-      "recommendations_recent": [],
-      "insider_events": [],
-      "p1_vet": 36.36,
-      "p1_core": 8.33,
-      "v3_score_vet": 46.5,
-      "v3_score_core": 31.08,
-      "v3_score_hard_only": 60.0,
-      "dual_veto": {
-        "vetoed": false,
-        "source": "none",
-        "status": "clean",
-        "reason": "Brak trafien red-flag"
-      }
-    },
-    {
-      "ticker": "1AT",
-      "name": "1AT",
-      "momentum": 6.02,
-      "median_turnover_20d_pln": 812817.0,
-      "close": 59.9,
-      "conv1": 54.5,
-      "sent1": 49.4,
-      "posts365": 4,
-      "conv2": 0.0,
-      "sent2": 50.0,
-      "uniq90": 0,
-      "ok2": false,
-      "p2_hard_signals": 50.0,
-      "p3_risk_flow": 90.0,
-      "espi_score_raw": 0.0,
-      "broker_score_raw": 0.0,
-      "insider_score_raw": 0.0,
-      "knf_short_pct": 0.0,
-      "whale_acc": false,
-      "whale_dist": false,
-      "espi_red_flags": [],
-      "espi_count_45d": 0,
-      "espi_recent": [],
-      "recommendations_recent": [],
-      "insider_events": [],
-      "p1_vet": null,
-      "p1_core": null,
-      "v3_score_vet": null,
-      "v3_score_core": null,
-      "v3_score_hard_only": 60.0
-    },
-    {
-      "ticker": "ATD",
-      "name": "ATD",
-      "momentum": 4.76,
-      "median_turnover_20d_pln": 167529.0,
-      "close": 4.18,
-      "conv1": 0.0,
-      "sent1": 50.0,
-      "posts365": 0,
-      "conv2": 0.0,
-      "sent2": 50.0,
-      "uniq90": 0,
-      "ok2": false,
-      "p2_hard_signals": 50.0,
-      "p3_risk_flow": 90.0,
-      "espi_score_raw": 0.0,
-      "broker_score_raw": 0.0,
-      "insider_score_raw": 0.0,
-      "knf_short_pct": 0.0,
-      "whale_acc": false,
-      "whale_dist": false,
-      "espi_red_flags": [],
-      "espi_count_45d": 4,
-      "espi_recent": [
-        {
-          "date": "2026-11-18",
-          "title": "Wyniki finansowe QSr 3/2026",
-          "sentiment": 0,
-          "category": "wyniki"
-        },
-        {
-          "date": "2026-11-05",
-          "title": ": Szacunkowe wybrane wyniki finansowe Atende S.A. i Grupy Atende za 3 kwartały 2026 r. oraz III kwartał 2026 r.",
-          "sentiment": 0,
-          "category": "wyniki"
-        },
-        {
-          "date": "2026-11-05",
-          "title": "Przystąpienie PGE Systemy S.A. do mediacji dotyczącej rozliczenia istotnej umowy",
-          "sentiment": 0,
-          "category": "inne"
-        },
-        {
-          "date": "2026-10-26",
-          "title": "Rejestracja podwyższenia kapitału zakładowego zależnej spółki Phoenix Systems S.A.",
-          "sentiment": 0,
-          "category": "formalny"
-        }
-      ],
-      "recommendations_recent": [],
-      "insider_events": [],
-      "p1_vet": null,
-      "p1_core": null,
-      "v3_score_vet": null,
-      "v3_score_core": null,
-      "v3_score_hard_only": 60.0
+      "v3_score_hard_only": 59.25
     },
     {
       "ticker": "LPP",
       "name": "LPP",
-      "momentum": 30.38,
-      "median_turnover_20d_pln": 108108910.0,
-      "close": 27380.0,
+      "momentum": 31.14,
+      "median_turnover_20d_pln": 105908550.0,
+      "close": 27540.0,
       "conv1": 88.6,
       "sent1": 64.2,
       "posts365": 74,
@@ -1754,9 +1841,9 @@
         }
       ],
       "p1_vet": 54.55,
-      "p1_core": 50.0,
+      "p1_core": 54.55,
       "v3_score_vet": 55.1,
-      "v3_score_core": 52.6,
+      "v3_score_core": 55.1,
       "v3_score_hard_only": 57.0,
       "dual_veto": {
         "vetoed": false,
@@ -1768,9 +1855,9 @@
     {
       "ticker": "MBK",
       "name": "MBK",
-      "momentum": 19.31,
-      "median_turnover_20d_pln": 48886040.0,
-      "close": 1615.5,
+      "momentum": 15.99,
+      "median_turnover_20d_pln": 48252795.0,
+      "close": 1570.5,
       "conv1": 0.0,
       "sent1": 50.0,
       "posts365": 0,
@@ -1830,75 +1917,11 @@
       "v3_score_hard_only": 57.0
     },
     {
-      "ticker": "ZEP",
-      "name": "ZEP",
-      "momentum": 35.85,
-      "median_turnover_20d_pln": 270454.0,
-      "close": 24.1,
-      "conv1": 0.0,
-      "sent1": 50.0,
-      "posts365": 0,
-      "conv2": 0.0,
-      "sent2": 50.0,
-      "uniq90": 0,
-      "ok2": false,
-      "p2_hard_signals": 50.07,
-      "p3_risk_flow": 75.0,
-      "espi_score_raw": 0.25,
-      "broker_score_raw": -0.149,
-      "insider_score_raw": 0.0,
-      "knf_short_pct": 0.0,
-      "whale_acc": false,
-      "whale_dist": true,
-      "espi_red_flags": [],
-      "espi_count_45d": 4,
-      "espi_recent": [
-        {
-          "date": "2026-11-20",
-          "title": "Otrzymanie zawiadomienia od Argumenol Investment Company Limited o podwyższeniu ceny w wezwaniu do zapisywania się na sp",
-          "sentiment": 0,
-          "category": "inne"
-        },
-        {
-          "date": "2026-11-13",
-          "title": "Ogłoszenie o zwołaniu Nadzwyczajnego Walnego Zgromadzenia ZE PAK SA",
-          "sentiment": 0,
-          "category": "formalny"
-        },
-        {
-          "date": "2026-11-10",
-          "title": "Stanowisko Zarządu ZE PAK S.A. dotyczące wezwania do zapisywania się na sprzedaż akcji ZE PAK S.A., ogłoszonego w dniu 2",
-          "sentiment": 0,
-          "category": "formalny"
-        },
-        {
-          "date": "2026-10-13",
-          "title": "Zawarcie umowy akcjonariuszy dotyczącej realizacji projektu SMR w Pątnowie",
-          "sentiment": 1,
-          "category": "umowa"
-        }
-      ],
-      "recommendations_recent": [
-        {
-          "date": "2026-10-15",
-          "rating": "Trzymaj",
-          "upside_pct": -14.94,
-          "institution": "BM Pekao SA"
-        }
-      ],
-      "insider_events": [],
-      "p1_vet": null,
-      "p1_core": null,
-      "v3_score_vet": null,
-      "v3_score_core": null,
-      "v3_score_hard_only": 56.3
-    },
-    {
       "ticker": "BFT",
       "name": "BFT",
-      "momentum": 18.12,
+      "momentum": 19.67,
       "median_turnover_20d_pln": 44228620.0,
-      "close": 6455.0,
+      "close": 6540.0,
       "conv1": 99.0,
       "sent1": 87.0,
       "posts365": 62,
@@ -1906,9 +1929,9 @@
       "sent2": 62.0,
       "uniq90": 21,
       "ok2": true,
-      "p2_hard_signals": 42.12,
+      "p2_hard_signals": 42.38,
       "p3_risk_flow": 90.0,
-      "espi_score_raw": -1.26,
+      "espi_score_raw": -1.219,
       "broker_score_raw": 0.0,
       "insider_score_raw": 0.0,
       "knf_short_pct": 0.0,
@@ -1951,10 +1974,10 @@
       "recommendations_recent": [],
       "insider_events": [],
       "p1_vet": 100.0,
-      "p1_core": 66.67,
-      "v3_score_vet": 78.74,
-      "v3_score_core": 60.41,
-      "v3_score_hard_only": 54.09,
+      "p1_core": 63.64,
+      "v3_score_vet": 78.83,
+      "v3_score_core": 58.84,
+      "v3_score_hard_only": 54.29,
       "dual_veto": {
         "vetoed": false,
         "source": "none",
@@ -1963,87 +1986,11 @@
       }
     },
     {
-      "ticker": "MIL",
-      "name": "MIL",
-      "momentum": 5.57,
-      "median_turnover_20d_pln": 23812557.0,
-      "close": 22.17,
-      "conv1": 0.0,
-      "sent1": 50.0,
-      "posts365": 1,
-      "conv2": 0.0,
-      "sent2": 50.0,
-      "uniq90": 0,
-      "ok2": false,
-      "p2_hard_signals": 42.0,
-      "p3_risk_flow": 90.0,
-      "espi_score_raw": 0.0,
-      "broker_score_raw": 0.0,
-      "insider_score_raw": -2.0,
-      "knf_short_pct": 0.0,
-      "whale_acc": false,
-      "whale_dist": false,
-      "espi_red_flags": [],
-      "espi_count_45d": 10,
-      "espi_recent": [
-        {
-          "date": "2026-11-20",
-          "title": "Podjęcie przez Radę Nadzorczą Banku uchwały zatwierdzającej decyzję Zarządu Banku w sprawie emisji euroobligacji Additio",
-          "sentiment": 0,
-          "category": "inne"
-        },
-        {
-          "date": "2026-11-20",
-          "title": "Podjęcie przez Radę Nadzorczą Banku uchwały zatwierdzającej decyzję Zarządu Banku w sprawie emisji euroobligacji Additio",
-          "sentiment": 0,
-          "category": "inne"
-        },
-        {
-          "date": "2026-10-30",
-          "title": "Informacja w sprawie dodatkowego wymogu kapitałowego w ramach filara II (P2G)",
-          "sentiment": 0,
-          "category": "inne"
-        },
-        {
-          "date": "2026-10-30",
-          "title": "Informacja w sprawie dodatkowego wymogu kapitałowego w ramach filara II (P2G)",
-          "sentiment": 0,
-          "category": "inne"
-        },
-        {
-          "date": "2026-10-30",
-          "title": "Powiadomienie o zbyciu akcji Banku Millennium S.A. dokonane przez osobę pełniącą obowiązki zarządcze w Banku.",
-          "sentiment": 0,
-          "category": "formalny"
-        }
-      ],
-      "recommendations_recent": [],
-      "insider_events": [
-        {
-          "date": "2026-10-30",
-          "kind": "art19",
-          "delta": -1.0,
-          "label": "🔴 SPRZEDAŻ / ZBYCIE"
-        },
-        {
-          "date": "2026-10-30",
-          "kind": "art19",
-          "delta": -1.0,
-          "label": "🔴 SPRZEDAŻ / ZBYCIE"
-        }
-      ],
-      "p1_vet": null,
-      "p1_core": null,
-      "v3_score_vet": null,
-      "v3_score_core": null,
-      "v3_score_hard_only": 54.0
-    },
-    {
       "ticker": "BDX",
       "name": "BDX",
-      "momentum": 5.62,
-      "median_turnover_20d_pln": 26738052.0,
-      "close": 744.0,
+      "momentum": 4.63,
+      "median_turnover_20d_pln": 25643793.0,
+      "close": 737.0,
       "conv1": 0.0,
       "sent1": 50.0,
       "posts365": 0,
@@ -2051,10 +1998,10 @@
       "sent2": 50.0,
       "uniq90": 0,
       "ok2": false,
-      "p2_hard_signals": 52.62,
+      "p2_hard_signals": 52.3,
       "p3_risk_flow": 38.0,
-      "espi_score_raw": 1.931,
-      "broker_score_raw": -0.945,
+      "espi_score_raw": 1.868,
+      "broker_score_raw": -0.937,
       "insider_score_raw": 0.0,
       "knf_short_pct": 1.3,
       "whale_acc": false,
@@ -2097,7 +2044,7 @@
         {
           "date": "2026-09-17",
           "rating": "Sprzedaj",
-          "upside_pct": -24.46,
+          "upside_pct": -23.74,
           "institution": "Noble Securities DM SA"
         }
       ],
@@ -2106,14 +2053,60 @@
       "p1_core": null,
       "v3_score_vet": null,
       "v3_score_core": null,
-      "v3_score_hard_only": 48.96
+      "v3_score_hard_only": 48.72
+    },
+    {
+      "ticker": "DNP",
+      "name": "DNP",
+      "momentum": 3.71,
+      "median_turnover_20d_pln": 113895818.0,
+      "close": 36.88,
+      "conv1": 0.0,
+      "sent1": 50.0,
+      "posts365": 0,
+      "conv2": 0.0,
+      "sent2": 50.0,
+      "uniq90": 0,
+      "ok2": false,
+      "p2_hard_signals": 57.87,
+      "p3_risk_flow": 14.0,
+      "espi_score_raw": 0.0,
+      "broker_score_raw": 0.787,
+      "insider_score_raw": 0.0,
+      "knf_short_pct": 1.9,
+      "whale_acc": false,
+      "whale_dist": false,
+      "espi_red_flags": [],
+      "espi_count_45d": 1,
+      "espi_recent": [
+        {
+          "date": "2026-11-05",
+          "title": "Wyniki finansowe QSr 3/2026",
+          "sentiment": 0,
+          "category": "wyniki"
+        }
+      ],
+      "recommendations_recent": [
+        {
+          "date": "2026-07-28",
+          "rating": "Kupuj",
+          "upside_pct": 8.73,
+          "institution": "DM BOŚ SA"
+        }
+      ],
+      "insider_events": [],
+      "p1_vet": null,
+      "p1_core": null,
+      "v3_score_vet": null,
+      "v3_score_core": null,
+      "v3_score_hard_only": 46.9
     },
     {
       "ticker": "MDV",
       "name": "MDV",
-      "momentum": 33.56,
-      "median_turnover_20d_pln": 36853888.0,
-      "close": 116.2,
+      "momentum": 36.55,
+      "median_turnover_20d_pln": 38832310.0,
+      "close": 118.8,
       "conv1": 0.0,
       "sent1": 50.0,
       "posts365": 0,
@@ -2122,12 +2115,12 @@
       "uniq90": 0,
       "ok2": false,
       "p2_hard_signals": 50.0,
-      "p3_risk_flow": 0.0,
+      "p3_risk_flow": 10.0,
       "espi_score_raw": 0.0,
       "broker_score_raw": 0.0,
       "insider_score_raw": 0.0,
       "knf_short_pct": 4.76,
-      "whale_acc": false,
+      "whale_acc": true,
       "whale_dist": false,
       "espi_red_flags": [],
       "espi_count_45d": 2,
@@ -2151,7 +2144,7 @@
       "p1_core": null,
       "v3_score_vet": null,
       "v3_score_core": null,
-      "v3_score_hard_only": 37.5
+      "v3_score_hard_only": 40.0
     }
   ]
 }

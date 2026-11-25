@@ -1,8 +1,8 @@
 {
-  "signal_date": "20261124",
+  "signal_date": "20261125",
   "liquid_top30_count": 30,
-  "qualifying_forum_pool_count": 13,
-  "qualified_rolling_authors_count": 50,
+  "qualifying_forum_pool_count": 12,
+  "qualified_rolling_authors_count": 51,
   "top3_v2_core": [
     {
       "ticker": "CLD",
@@ -11,9 +11,9 @@
       "sent2": 79.4,
       "uniq90": 5,
       "posts365": 12,
-      "momentum": 14.74,
-      "median_turnover_20d_pln": 304370.0,
-      "close": 109.0,
+      "momentum": 8.95,
+      "median_turnover_20d_pln": 300332.0,
+      "close": 103.5,
       "red_flags_14d": []
     },
     {
@@ -23,35 +23,35 @@
       "sent2": 74.1,
       "uniq90": 4,
       "posts365": 22,
-      "momentum": 7.56,
+      "momentum": 6.78,
       "median_turnover_20d_pln": 249452.0,
-      "close": 16.5,
+      "close": 16.38,
       "red_flags_14d": []
     },
     {
       "ticker": "ANR",
       "name": "ANR",
-      "conv2": 74.9,
+      "conv2": 74.8,
       "sent2": 70.8,
       "uniq90": 6,
       "posts365": 19,
-      "momentum": 9.51,
-      "median_turnover_20d_pln": 208664.0,
-      "close": 22.45,
+      "momentum": 7.32,
+      "median_turnover_20d_pln": 237276.0,
+      "close": 22.0,
       "red_flags_14d": []
     }
   ],
   "top3_v2_rolling_auth": [
     {
-      "ticker": "ASB",
-      "name": "ASB",
-      "conv_r": 86.9,
-      "sent_r": 61.6,
-      "uniq90": 33,
-      "posts365": 228,
-      "momentum": 10.63,
-      "median_turnover_20d_pln": 43318053.0,
-      "close": 149.9
+      "ticker": "CBF",
+      "name": "CBF",
+      "conv_r": 89.0,
+      "sent_r": 66.5,
+      "uniq90": 25,
+      "posts365": 120,
+      "momentum": 5.04,
+      "median_turnover_20d_pln": 4510250.0,
+      "close": 208.4
     },
     {
       "ticker": "LPP",
@@ -60,9 +60,9 @@
       "sent_r": 56.8,
       "uniq90": 12,
       "posts365": 74,
-      "momentum": 30.38,
-      "median_turnover_20d_pln": 108108910.0,
-      "close": 27380.0
+      "momentum": 31.14,
+      "median_turnover_20d_pln": 105908550.0,
+      "close": 27540.0
     },
     {
       "ticker": "ALL",
@@ -71,36 +71,22 @@
       "sent_r": 73.9,
       "uniq90": 4,
       "posts365": 22,
-      "momentum": 7.56,
+      "momentum": 6.78,
       "median_turnover_20d_pln": 249452.0,
-      "close": 16.5
+      "close": 16.38
     }
   ],
   "top3_v2_monthly_buf10_rfveto": [
     {
-      "ticker": "ASB",
-      "name": "ASB",
-      "conv2": 71.8,
-      "sent2": 61.4,
-      "uniq90": 33,
-      "posts365": 228,
-      "momentum": 10.63,
-      "median_turnover_20d_pln": 43318053.0,
-      "close": 149.9,
-      "red_flags_14d": [],
-      "buffer_kept": true,
-      "rank_in_v2": 4
-    },
-    {
       "ticker": "ANR",
       "name": "ANR",
-      "conv2": 74.9,
+      "conv2": 74.8,
       "sent2": 70.8,
       "uniq90": 6,
       "posts365": 19,
-      "momentum": 9.51,
-      "median_turnover_20d_pln": 208664.0,
-      "close": 22.45,
+      "momentum": 7.32,
+      "median_turnover_20d_pln": 237276.0,
+      "close": 22.0,
       "red_flags_14d": [],
       "buffer_kept": true,
       "rank_in_v2": 3
@@ -112,12 +98,26 @@
       "sent2": 79.4,
       "uniq90": 5,
       "posts365": 12,
-      "momentum": 14.74,
-      "median_turnover_20d_pln": 304370.0,
-      "close": 109.0,
+      "momentum": 8.95,
+      "median_turnover_20d_pln": 300332.0,
+      "close": 103.5,
       "red_flags_14d": [],
       "buffer_kept": true,
       "rank_in_v2": 1
+    },
+    {
+      "ticker": "ALL",
+      "name": "ALL",
+      "conv2": 76.4,
+      "sent2": 74.1,
+      "uniq90": 4,
+      "posts365": 22,
+      "momentum": 6.78,
+      "median_turnover_20d_pln": 249452.0,
+      "close": 16.38,
+      "red_flags_14d": [],
+      "buffer_kept": false,
+      "rank_in_v2": 2
     }
   ],
   "top3_v1_vet_liq_pure": [
@@ -127,9 +127,9 @@
       "conv1": 99.0,
       "sent1": 87.0,
       "posts365": 62,
-      "momentum": 18.12,
+      "momentum": 19.67,
       "median_turnover_20d_pln": 44228620.0,
-      "close": 6455.0,
+      "close": 6540.0,
       "red_flags_14d": []
     },
     {
@@ -138,46 +138,33 @@
       "conv1": 99.0,
       "sent1": 87.8,
       "posts365": 22,
-      "momentum": 7.56,
+      "momentum": 6.78,
       "median_turnover_20d_pln": 249452.0,
-      "close": 16.5,
+      "close": 16.38,
       "red_flags_14d": []
     },
     {
-      "ticker": "ASB",
-      "name": "ASB",
-      "conv1": 97.1,
-      "sent1": 77.9,
-      "posts365": 228,
-      "momentum": 10.63,
-      "median_turnover_20d_pln": 43318053.0,
-      "close": 149.9,
+      "ticker": "WAS",
+      "name": "WAS",
+      "conv1": 95.8,
+      "sent1": 89.6,
+      "posts365": 11,
+      "momentum": 54.01,
+      "median_turnover_20d_pln": 2217762.0,
+      "close": 8.84,
       "red_flags_14d": []
     }
   ],
   "top3_v1_vet_liq_buf5": [
-    {
-      "ticker": "ASB",
-      "name": "ASB",
-      "conv1": 97.1,
-      "sent1": 77.9,
-      "posts365": 228,
-      "momentum": 10.63,
-      "median_turnover_20d_pln": 43318053.0,
-      "close": 149.9,
-      "red_flags_14d": [],
-      "buffer_kept": true,
-      "rank_in_v1_liq": 3
-    },
     {
       "ticker": "TOA",
       "name": "TOA",
       "conv1": 93.2,
       "sent1": 85.1,
       "posts365": 39,
-      "momentum": 26.29,
-      "median_turnover_20d_pln": 996386.0,
-      "close": 13.26,
+      "momentum": 26.67,
+      "median_turnover_20d_pln": 1047475.0,
+      "close": 13.3,
       "red_flags_14d": [
         {
           "date": "20261124",
@@ -188,7 +175,7 @@
         }
       ],
       "buffer_kept": true,
-      "rank_in_v1_liq": 5
+      "rank_in_v1_liq": 4
     },
     {
       "ticker": "WAS",
@@ -196,12 +183,25 @@
       "conv1": 95.8,
       "sent1": 89.6,
       "posts365": 11,
-      "momentum": 57.49,
-      "median_turnover_20d_pln": 2049627.0,
-      "close": 9.04,
+      "momentum": 54.01,
+      "median_turnover_20d_pln": 2217762.0,
+      "close": 8.84,
       "red_flags_14d": [],
       "buffer_kept": true,
-      "rank_in_v1_liq": 4
+      "rank_in_v1_liq": 3
+    },
+    {
+      "ticker": "BFT",
+      "name": "BFT",
+      "conv1": 99.0,
+      "sent1": 87.0,
+      "posts365": 62,
+      "momentum": 19.67,
+      "median_turnover_20d_pln": 44228620.0,
+      "close": 6540.0,
+      "red_flags_14d": [],
+      "buffer_kept": false,
+      "rank_in_v1_liq": 1
     }
   ],
   "top10_v1_vet_liq": [
@@ -211,9 +211,9 @@
       "conv1": 99.0,
       "sent1": 87.0,
       "posts365": 62,
-      "momentum": 18.12,
+      "momentum": 19.67,
       "median_turnover_20d_pln": 44228620.0,
-      "close": 6455.0,
+      "close": 6540.0,
       "red_flags_14d": []
     },
     {
@@ -222,20 +222,9 @@
       "conv1": 99.0,
       "sent1": 87.8,
       "posts365": 22,
-      "momentum": 7.56,
+      "momentum": 6.78,
       "median_turnover_20d_pln": 249452.0,
-      "close": 16.5,
-      "red_flags_14d": []
-    },
-    {
-      "ticker": "ASB",
-      "name": "ASB",
-      "conv1": 97.1,
-      "sent1": 77.9,
-      "posts365": 228,
-      "momentum": 10.63,
-      "median_turnover_20d_pln": 43318053.0,
-      "close": 149.9,
+      "close": 16.38,
       "red_flags_14d": []
     },
     {
@@ -244,9 +233,9 @@
       "conv1": 95.8,
       "sent1": 89.6,
       "posts365": 11,
-      "momentum": 57.49,
-      "median_turnover_20d_pln": 2049627.0,
-      "close": 9.04,
+      "momentum": 54.01,
+      "median_turnover_20d_pln": 2217762.0,
+      "close": 8.84,
       "red_flags_14d": []
     },
     {
@@ -255,9 +244,9 @@
       "conv1": 93.2,
       "sent1": 85.1,
       "posts365": 39,
-      "momentum": 26.29,
-      "median_turnover_20d_pln": 996386.0,
-      "close": 13.26,
+      "momentum": 26.67,
+      "median_turnover_20d_pln": 1047475.0,
+      "close": 13.3,
       "red_flags_14d": [
         {
           "date": "20261124",
@@ -269,25 +258,79 @@
       ]
     },
     {
+      "ticker": "CBF",
+      "name": "CBF",
+      "conv1": 92.7,
+      "sent1": 70.0,
+      "posts365": 120,
+      "momentum": 5.04,
+      "median_turnover_20d_pln": 4510250.0,
+      "close": 208.4,
+      "red_flags_14d": [
+        {
+          "date": "20261116",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "Jak dla mnie mocny raport. Przychody i skorygowana EBITDA po +30%, marża utrzymana w okolicach 35%. Zysk dla akcjonariuszy +85%, operacyjny +38%. Jest z czego b"
+        },
+        {
+          "date": "20261116",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "zajete  pisze:  ↑ 16 lis 2026 17:35   Seba_RSI  pisze:  ↑ 16 lis 2026 16:40  Czyli wzrost zn o 60%, licząc wyemitowane akcje, jesli dobrze liczę.    A ja bym ra"
+        },
+        {
+          "date": "20261117",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "Pojawił się komentarz biura maklerskiego mBanku:    Wyniki za 3Q'26 powyżej oczekiwań, pierwsze oszczędności  PrestaShop  Rekomendacja: kupuj | cena docelowa: 2"
+        },
+        {
+          "date": "20261117",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "Seba_RSI  pisze:  ↑ 17 lis 2026 09:25   jacek663  pisze:  ↑ 17 lis 2026 09:08  Warto mieć z tyłu głowy że w Q3 '25 liczba akcji wynosiła 15,3mln a w Q3 '26 już "
+        },
+        {
+          "date": "20261117",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "Konferencja    Obecni: Stasik, Dwernicki, Piecuch, Lewkowicz    - chcemy się rozwijać się mocniej w krajach Europy Zachodniej  - chcemy dbać o europejską suwere"
+        },
+        {
+          "date": "20261117",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "Pozwolę sobie uzupełnić wpis Grzegorza o moje notatki z konferencji, pogłębiające kilka kwestii:    - dużo miejsca poświęcono tematowi  Agentic Commerce , spółk"
+        }
+      ]
+    },
+    {
       "ticker": "LPP",
       "name": "LPP",
       "conv1": 88.6,
       "sent1": 64.2,
       "posts365": 74,
-      "momentum": 30.38,
-      "median_turnover_20d_pln": 108108910.0,
-      "close": 27380.0,
+      "momentum": 31.14,
+      "median_turnover_20d_pln": 105908550.0,
+      "close": 27540.0,
       "red_flags_14d": []
     },
     {
       "ticker": "MBR",
       "name": "MBR",
-      "conv1": 78.9,
-      "sent1": 53.2,
-      "posts365": 94,
-      "momentum": 6.67,
+      "conv1": 79.5,
+      "sent1": 53.7,
+      "posts365": 91,
+      "momentum": 7.31,
       "median_turnover_20d_pln": 1687580.0,
-      "close": 416.0,
+      "close": 418.5,
       "red_flags_14d": []
     },
     {
@@ -296,9 +339,9 @@
       "conv1": 77.8,
       "sent1": 52.4,
       "posts365": 161,
-      "momentum": 32.47,
+      "momentum": 30.16,
       "median_turnover_20d_pln": 663576.0,
-      "close": 91.8,
+      "close": 90.2,
       "red_flags_14d": []
     },
     {
@@ -307,20 +350,20 @@
       "conv1": 76.1,
       "sent1": 71.7,
       "posts365": 12,
-      "momentum": 14.74,
-      "median_turnover_20d_pln": 304370.0,
-      "close": 109.0,
+      "momentum": 8.95,
+      "median_turnover_20d_pln": 300332.0,
+      "close": 103.5,
       "red_flags_14d": []
     },
     {
-      "ticker": "ECH",
-      "name": "ECH",
-      "conv1": 74.0,
-      "sent1": 62.6,
-      "posts365": 13,
-      "momentum": 4.17,
-      "median_turnover_20d_pln": 139460.0,
-      "close": 5.5,
+      "ticker": "CDR",
+      "name": "CDR",
+      "conv1": 75.6,
+      "sent1": 51.2,
+      "posts365": 135,
+      "momentum": 15.01,
+      "median_turnover_20d_pln": 76252454.0,
+      "close": 272.0,
       "red_flags_14d": []
     }
   ],
@@ -328,27 +371,27 @@
   "monthly_rf_unverified": [],
   "top3_control_qual_mom": [
     {
-      "ticker": "KGN",
-      "name": "KGN",
-      "conv2": 45.3,
-      "sent2": 41.3,
-      "uniq90": 11,
-      "posts365": 161,
-      "momentum": 32.47,
-      "median_turnover_20d_pln": 663576.0,
-      "close": 91.8,
-      "red_flags_14d": []
-    },
-    {
       "ticker": "LPP",
       "name": "LPP",
       "conv2": 64.6,
       "sent2": 55.5,
       "uniq90": 12,
       "posts365": 74,
-      "momentum": 30.38,
-      "median_turnover_20d_pln": 108108910.0,
-      "close": 27380.0,
+      "momentum": 31.14,
+      "median_turnover_20d_pln": 105908550.0,
+      "close": 27540.0,
+      "red_flags_14d": []
+    },
+    {
+      "ticker": "KGN",
+      "name": "KGN",
+      "conv2": 45.3,
+      "sent2": 41.3,
+      "uniq90": 11,
+      "posts365": 161,
+      "momentum": 30.16,
+      "median_turnover_20d_pln": 663576.0,
+      "close": 90.2,
       "red_flags_14d": []
     },
     {
@@ -356,11 +399,11 @@
       "name": "TOA",
       "conv2": 62.7,
       "sent2": 54.3,
-      "uniq90": 6,
+      "uniq90": 5,
       "posts365": 39,
-      "momentum": 26.29,
-      "median_turnover_20d_pln": 996386.0,
-      "close": 13.26,
+      "momentum": 26.67,
+      "median_turnover_20d_pln": 1047475.0,
+      "close": 13.3,
       "red_flags_14d": [
         {
           "date": "20261124",
@@ -376,23 +419,23 @@
     {
       "ticker": "NTT",
       "name": "NTT",
-      "momentum": 106.94,
-      "median_turnover_20d_pln": 4686133.0,
-      "close": 32.8
+      "momentum": 101.89,
+      "median_turnover_20d_pln": 4506437.0,
+      "close": 32.0
     },
     {
       "ticker": "WAS",
       "name": "WAS",
-      "momentum": 57.49,
-      "median_turnover_20d_pln": 2049627.0,
-      "close": 9.04
+      "momentum": 54.01,
+      "median_turnover_20d_pln": 2217762.0,
+      "close": 8.84
     },
     {
       "ticker": "ALE",
       "name": "ALE",
-      "momentum": 46.02,
-      "median_turnover_20d_pln": 309072265.0,
-      "close": 66.22
+      "momentum": 43.62,
+      "median_turnover_20d_pln": 312981543.0,
+      "close": 65.13
     }
   ],
   "full_qualifying_ranking_v2_core": [
@@ -403,9 +446,9 @@
       "sent2": 79.4,
       "uniq90": 5,
       "posts365": 12,
-      "momentum": 14.74,
-      "median_turnover_20d_pln": 304370.0,
-      "close": 109.0,
+      "momentum": 8.95,
+      "median_turnover_20d_pln": 300332.0,
+      "close": 103.5,
       "red_flags_14d": []
     },
     {
@@ -415,34 +458,77 @@
       "sent2": 74.1,
       "uniq90": 4,
       "posts365": 22,
-      "momentum": 7.56,
+      "momentum": 6.78,
       "median_turnover_20d_pln": 249452.0,
-      "close": 16.5,
+      "close": 16.38,
       "red_flags_14d": []
     },
     {
       "ticker": "ANR",
       "name": "ANR",
-      "conv2": 74.9,
+      "conv2": 74.8,
       "sent2": 70.8,
       "uniq90": 6,
       "posts365": 19,
-      "momentum": 9.51,
-      "median_turnover_20d_pln": 208664.0,
-      "close": 22.45,
+      "momentum": 7.32,
+      "median_turnover_20d_pln": 237276.0,
+      "close": 22.0,
       "red_flags_14d": []
     },
     {
-      "ticker": "ASB",
-      "name": "ASB",
-      "conv2": 71.8,
-      "sent2": 61.4,
-      "uniq90": 33,
-      "posts365": 228,
-      "momentum": 10.63,
-      "median_turnover_20d_pln": 43318053.0,
-      "close": 149.9,
-      "red_flags_14d": []
+      "ticker": "CBF",
+      "name": "CBF",
+      "conv2": 73.5,
+      "sent2": 65.7,
+      "uniq90": 25,
+      "posts365": 120,
+      "momentum": 5.04,
+      "median_turnover_20d_pln": 4510250.0,
+      "close": 208.4,
+      "red_flags_14d": [
+        {
+          "date": "20261116",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "Jak dla mnie mocny raport. Przychody i skorygowana EBITDA po +30%, marża utrzymana w okolicach 35%. Zysk dla akcjonariuszy +85%, operacyjny +38%. Jest z czego b"
+        },
+        {
+          "date": "20261116",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "zajete  pisze:  ↑ 16 lis 2026 17:35   Seba_RSI  pisze:  ↑ 16 lis 2026 16:40  Czyli wzrost zn o 60%, licząc wyemitowane akcje, jesli dobrze liczę.    A ja bym ra"
+        },
+        {
+          "date": "20261117",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "Pojawił się komentarz biura maklerskiego mBanku:    Wyniki za 3Q'26 powyżej oczekiwań, pierwsze oszczędności  PrestaShop  Rekomendacja: kupuj | cena docelowa: 2"
+        },
+        {
+          "date": "20261117",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "Seba_RSI  pisze:  ↑ 17 lis 2026 09:25   jacek663  pisze:  ↑ 17 lis 2026 09:08  Warto mieć z tyłu głowy że w Q3 '25 liczba akcji wynosiła 15,3mln a w Q3 '26 już "
+        },
+        {
+          "date": "20261117",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "Konferencja    Obecni: Stasik, Dwernicki, Piecuch, Lewkowicz    - chcemy się rozwijać się mocniej w krajach Europy Zachodniej  - chcemy dbać o europejską suwere"
+        },
+        {
+          "date": "20261117",
+          "patterns": [
+            "restrukturyzac"
+          ],
+          "snippet": "Pozwolę sobie uzupełnić wpis Grzegorza o moje notatki z konferencji, pogłębiające kilka kwestii:    - dużo miejsca poświęcono tematowi  Agentic Commerce , spółk"
+        }
+      ]
     },
     {
       "ticker": "BFT",
@@ -451,21 +537,9 @@
       "sent2": 62.0,
       "uniq90": 21,
       "posts365": 62,
-      "momentum": 18.12,
+      "momentum": 19.67,
       "median_turnover_20d_pln": 44228620.0,
-      "close": 6455.0,
-      "red_flags_14d": []
-    },
-    {
-      "ticker": "VOX",
-      "name": "VOX",
-      "conv2": 66.9,
-      "sent2": 59.1,
-      "uniq90": 9,
-      "posts365": 29,
-      "momentum": 5.41,
-      "median_turnover_20d_pln": 1171476.0,
-      "close": 140.4,
+      "close": 6540.0,
       "red_flags_14d": []
     },
     {
@@ -475,9 +549,9 @@
       "sent2": 55.5,
       "uniq90": 12,
       "posts365": 74,
-      "momentum": 30.38,
-      "median_turnover_20d_pln": 108108910.0,
-      "close": 27380.0,
+      "momentum": 31.14,
+      "median_turnover_20d_pln": 105908550.0,
+      "close": 27540.0,
       "red_flags_14d": []
     },
     {
@@ -485,11 +559,11 @@
       "name": "TOA",
       "conv2": 62.7,
       "sent2": 54.3,
-      "uniq90": 6,
+      "uniq90": 5,
       "posts365": 39,
-      "momentum": 26.29,
-      "median_turnover_20d_pln": 996386.0,
-      "close": 13.26,
+      "momentum": 26.67,
+      "median_turnover_20d_pln": 1047475.0,
+      "close": 13.3,
       "red_flags_14d": [
         {
           "date": "20261124",
@@ -506,22 +580,22 @@
       "conv2": 61.9,
       "sent2": 52.8,
       "uniq90": 23,
-      "posts365": 94,
-      "momentum": 6.67,
+      "posts365": 91,
+      "momentum": 7.31,
       "median_turnover_20d_pln": 1687580.0,
-      "close": 416.0,
+      "close": 418.5,
       "red_flags_14d": []
     },
     {
       "ticker": "CDR",
       "name": "CDR",
-      "conv2": 60.6,
-      "sent2": 51.9,
-      "uniq90": 24,
-      "posts365": 134,
-      "momentum": 15.52,
+      "conv2": 61.4,
+      "sent2": 52.4,
+      "uniq90": 20,
+      "posts365": 135,
+      "momentum": 15.01,
       "median_turnover_20d_pln": 76252454.0,
-      "close": 273.2,
+      "close": 272.0,
       "red_flags_14d": []
     },
     {
@@ -531,9 +605,9 @@
       "sent2": 45.9,
       "uniq90": 3,
       "posts365": 13,
-      "momentum": 4.17,
+      "momentum": 3.03,
       "median_turnover_20d_pln": 139460.0,
-      "close": 5.5,
+      "close": 5.44,
       "red_flags_14d": []
     },
     {
@@ -543,21 +617,21 @@
       "sent2": 41.3,
       "uniq90": 11,
       "posts365": 161,
-      "momentum": 32.47,
+      "momentum": 30.16,
       "median_turnover_20d_pln": 663576.0,
-      "close": 91.8,
+      "close": 90.2,
       "red_flags_14d": []
     },
     {
       "ticker": "PAS",
       "name": "PAS",
-      "conv2": 32.5,
+      "conv2": 32.4,
       "sent2": 23.9,
       "uniq90": 15,
       "posts365": 61,
-      "momentum": 13.86,
+      "momentum": 10.28,
       "median_turnover_20d_pln": 744198.0,
-      "close": 152.8,
+      "close": 148.0,
       "red_flags_14d": []
     }
   ],
@@ -573,6 +647,6 @@
     "6_V1_VET_WEEKLY_BUF5",
     "7_V1_VET_MONTHLY_BUF5_RFVETO"
   ],
-  "wig_close": 152740.125,
-  "last_entry_hash": "2c1e7d8ac147e1fd899cd038b0d47c1e7f93f615de48c73ea0957eee76a1b6c8"
+  "wig_close": 150363.0938,
+  "last_entry_hash": "3d8159607bef0a9e1f3c2ba7fbda097c9235fb85579661148f3bd23d3c4f5465"
 }
