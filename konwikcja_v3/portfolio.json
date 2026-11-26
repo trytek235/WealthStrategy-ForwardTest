@@ -1,7 +1,7 @@
 {
   "schema": "konwikcja_v3_shadow_v1",
   "spec_version": "v3.0",
-  "updated": "20261125",
+  "updated": "20261126",
   "anchor_date": "20261124",
   "cost_levels_reported_pct": {
     "c015": 0.15,
@@ -14,7 +14,7 @@
       "mode": "vet_full",
       "live_track_start_signal": "20261124",
       "live_track_start_exec": "20261125",
-      "as_of": "20261125",
+      "as_of": "20261126",
       "current_holdings": [
         "ALL",
         "BFT",
@@ -22,20 +22,20 @@
       ],
       "pending_order": null,
       "next_review_signal_date": "20261130",
-      "cumulative_gross_return_pct": 0.0,
-      "cumulative_net_return_pct": -0.5,
+      "cumulative_gross_return_pct": 3.98,
+      "cumulative_net_return_pct": 3.46,
       "net_return_pct_by_cost": {
         "c015": {
-          "mtm": -0.15,
-          "liquidation": -0.3
+          "mtm": 3.82,
+          "liquidation": 3.67
         },
         "c050": {
-          "mtm": -0.5,
-          "liquidation": -1.0
+          "mtm": 3.46,
+          "liquidation": 2.94
         }
       },
-      "wig_return_pct": 0.0,
-      "excess_net_vs_wig_pp": -0.5,
+      "wig_return_pct": 1.73,
+      "excess_net_vs_wig_pp": 1.73,
       "total_trades": 3,
       "reviews": 1,
       "rebalance_history": [
@@ -91,7 +91,7 @@
       "mode": "vet_full",
       "live_track_start_signal": "20261124",
       "live_track_start_exec": "20261125",
-      "as_of": "20261125",
+      "as_of": "20261126",
       "current_holdings": [
         "ALL",
         "BFT",
@@ -99,20 +99,20 @@
       ],
       "pending_order": null,
       "next_review_signal_date": "20261127",
-      "cumulative_gross_return_pct": 0.0,
-      "cumulative_net_return_pct": -0.5,
+      "cumulative_gross_return_pct": 3.98,
+      "cumulative_net_return_pct": 3.46,
       "net_return_pct_by_cost": {
         "c015": {
-          "mtm": -0.15,
-          "liquidation": -0.3
+          "mtm": 3.82,
+          "liquidation": 3.67
         },
         "c050": {
-          "mtm": -0.5,
-          "liquidation": -1.0
+          "mtm": 3.46,
+          "liquidation": 2.94
         }
       },
-      "wig_return_pct": 0.0,
-      "excess_net_vs_wig_pp": -0.5,
+      "wig_return_pct": 1.73,
+      "excess_net_vs_wig_pp": 1.73,
       "total_trades": 3,
       "reviews": 1,
       "rebalance_history": [
@@ -168,7 +168,7 @@
       "mode": "core_full",
       "live_track_start_signal": "20261124",
       "live_track_start_exec": "20261125",
-      "as_of": "20261125",
+      "as_of": "20261126",
       "current_holdings": [
         "CLD",
         "ALL",
@@ -176,20 +176,20 @@
       ],
       "pending_order": null,
       "next_review_signal_date": "20261130",
-      "cumulative_gross_return_pct": 0.0,
-      "cumulative_net_return_pct": -0.5,
+      "cumulative_gross_return_pct": 4.57,
+      "cumulative_net_return_pct": 4.05,
       "net_return_pct_by_cost": {
         "c015": {
-          "mtm": -0.15,
-          "liquidation": -0.3
+          "mtm": 4.41,
+          "liquidation": 4.26
         },
         "c050": {
-          "mtm": -0.5,
-          "liquidation": -1.0
+          "mtm": 4.05,
+          "liquidation": 3.53
         }
       },
-      "wig_return_pct": 0.0,
-      "excess_net_vs_wig_pp": -0.5,
+      "wig_return_pct": 1.73,
+      "excess_net_vs_wig_pp": 2.32,
       "total_trades": 3,
       "reviews": 1,
       "rebalance_history": [
@@ -245,7 +245,7 @@
       "mode": "hard_only",
       "live_track_start_signal": "20261124",
       "live_track_start_exec": "20261125",
-      "as_of": "20261125",
+      "as_of": "20261126",
       "current_holdings": [
         "PCO",
         "PAS",
@@ -253,20 +253,20 @@
       ],
       "pending_order": null,
       "next_review_signal_date": "20261130",
-      "cumulative_gross_return_pct": 0.0,
-      "cumulative_net_return_pct": -0.5,
+      "cumulative_gross_return_pct": 0.99,
+      "cumulative_net_return_pct": 0.48,
       "net_return_pct_by_cost": {
         "c015": {
-          "mtm": -0.15,
-          "liquidation": -0.3
+          "mtm": 0.84,
+          "liquidation": 0.69
         },
         "c050": {
-          "mtm": -0.5,
-          "liquidation": -1.0
+          "mtm": 0.48,
+          "liquidation": -0.02
         }
       },
-      "wig_return_pct": 0.0,
-      "excess_net_vs_wig_pp": -0.5,
+      "wig_return_pct": 1.73,
+      "excess_net_vs_wig_pp": -1.25,
       "total_trades": 3,
       "reviews": 1,
       "rebalance_history": [
@@ -318,11 +318,11 @@
     }
   },
   "ex_ante_daily_candidates_as_of": {
-    "signal_date": "20261125",
+    "signal_date": "20261126",
     "top3_vet_full": [
       "ALL",
       "BFT",
-      "WAS"
+      "ASB"
     ],
     "top3_core_full": [
       "CLD",
@@ -332,7 +332,7 @@
     "top3_hard_only": [
       "PCO",
       "PAS",
-      "PGE"
+      "ASB"
     ]
   }
 }
